@@ -1,0 +1,736 @@
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body{
+	font-family: "Nunito"; 
+	padding: 25px;
+	/*background-color: #EEF3F6; */
+	background-image: linear-gradient(#EEF3F6, #EFEAEA, #EFEAEA, #EFA998); 
+}
+
+/* No media query since this is the default in Bootstrap */
+html {
+    font-size: 1rem;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 576px) {
+    html {
+        font-size: 0.2rem;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    html {
+        font-size: 0.4rem;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    html {
+        font-size: 0.7rem;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    html {
+        font-size: 1rem;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)
+// (you don't need this one unless you want something different from LG)
+@media (min-width: 1200px) {
+    html {
+        font-size: 1.6rem;
+    }
+} */
+
+/* HEADER */
+#navright a { 
+	display: inline-grid;
+ 	text-decoration: none; 
+ 	padding-left: 20px;
+}
+
+button:focus { 
+	outline: 0 !important; 
+}
+
+.navbar-nav a:link, a:visited { 
+	color: #4C557F;
+}
+
+.navbar-nav a:hover { 
+	color: #405B9C;
+	color:#A8B9E3;
+}
+
+.navbar-active {
+	color:#A8B9E3 !important;
+}
+.custom-toggler .navbar-toggler-icon {
+	background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=4C557F');
+	/*background-image: url('https://mdbootstrap.com/img/svg/hamburger9.svg?color=4C557F'); */
+}
+
+/* LANDING PAGE */
+ 
+.landing_page_Hafsa h1 {
+	font-family: "Nunito"; 
+	text-align: end;
+	/*align-self: center;*/
+	font-size: 5rem; 
+	color: #4C557F;
+
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 5s;	
+	-webkit-animation-duration: 5s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;	
+
+	z-index: -2;
+}
+
+@keyframes slideDown {
+	0% {
+		transform: translateY(-100%);
+	}
+	80%{
+		transform: translateY(1%);
+	}			
+	100% {
+		transform: translateY(0%);
+	}	
+}
+
+@-webkit-keyframes slideDown {
+	0% {
+		transform: translateY(-100%);
+	}
+	80%{
+		transform: translateY(1%);
+	}			
+	100% {
+		transform: translateY(0%);
+	}	
+}
+ 
+
+.landing_page_lion {
+	justify-content: center;
+	/*height:655px;*/
+}
+ 
+.logo_lion_container {
+	justify-content: center;
+	position: absolute;
+	z-index: 0;
+}
+
+.logo_lion_image { 
+	height: 630px;
+	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
+}
+
+.logo_lion_shadow_container {
+	justify-content: center;
+	/*position: absolute; */
+	position: relative;
+	top: 10;
+	right: 5;
+
+	z-index: -1;
+}
+
+.logo_lion_shadow { 
+	height: 630px;
+	opacity: 0.15;
+	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.landing_page_Ghias h1 {
+	font-family: "Nunito"; 
+	text-align: start;
+	/*align-self: center; */
+	font-size: 5rem;
+	color: #4C557F;
+
+	animation-name: slideUp;
+	-webkit-animation-name: slideUp;	
+
+	animation-duration: 5s;	
+	-webkit-animation-duration: 5s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;
+
+	visibility: visible !important;	
+
+	z-index: 2;
+}
+
+
+@keyframes slideUp {
+	0% {
+		transform: translateY(100%);
+	}
+	80%{
+		transform: translateY(-1%);
+	}			
+	100% {
+		transform: translateY(0%);
+	}	
+}
+
+@-webkit-keyframes slideUp {
+	0% {
+		transform: translateY(100%);
+	}
+	80%{
+		transform: translateY(-1%);
+	}			
+	100% {
+		transform: translateY(0%);
+	}	
+}
+
+.scrollimage { 
+	width:2%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.scrollcontainer { 
+	padding-top: 30px;
+	padding-bottom:30px;
+
+	/*animation-name: pulse;
+	-webkit-animation-name: pulse;	
+
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite; */
+ }
+
+.scrollcontainer:hover { 
+	/*animation-name: pulse;
+	-webkit-animation-name: pulse;	
+
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite; */
+
+	animation: bounce 1s infinite;
+	-webkit-animation: bounce 1s infinite;
+	-moz-animation: bounce 1s infinite;
+	-o-animation: bounce 1s infinite;
+ }
+
+
+@keyframes bounce {
+	0%, 100% {
+		transform: translateY(0);
+		rotate(135deg);		
+	}
+	50% {
+		transform: translateY(-10px);
+		rotate(135deg);	
+	}
+}
+
+@-webkit-keyframes bounce {
+	0%, 100% {
+		transform: translateY(0);
+		rotate(135deg);		
+	}
+	50% {
+		transform: translateY(-10px);
+		rotate(135deg);	
+	}
+}
+
+ @keyframes pulse {
+	0% {
+		transform: scale(0.9);
+		opacity: 0.7;		
+	}
+	50% {
+		transform: scale(1);
+		opacity: 1;	
+	}	
+	100% {
+		transform: scale(0.9);
+		opacity: 0.7;	
+	}			
+}
+
+@-webkit-keyframes pulse {
+	0% {
+		-webkit-transform: scale(0.95);
+		opacity: 0.7;		
+	}
+	50% {
+		-webkit-transform: scale(1);
+		opacity: 1;	
+	}	
+	100% {
+		-webkit-transform: scale(0.95);
+		opacity: 0.7;	
+	}			
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.about{
+	font-family:Nunito;
+	color: #4C557F;
+}
+
+
+/* UX DESIGN */
+.UXtext{ 
+	font-family:Nunito;
+	color: #662362;
+	text-align: right;
+	align-self: center;
+ }
+
+#uxbutton{
+ 	color: #EFF0F2;
+    background-color: #662362;
+    border-color: #662362;
+}
+
+#uxbutton:hover { 
+	color: #EFF0F2;
+	background:#6f1965b5;
+}
+
+.UX_image_container {
+ 	position: relative;
+}
+
+.uximg { 
+	position:absolute;
+	width:250px;
+	top:60px;
+	left:50px;
+	z-index:0;
+}
+
+.uximg1 {
+	position: absolute;
+	width:250px;
+	top:45px;
+	left:285px;
+	z-index:-1;
+
+}
+
+.UXbackground { 
+	position:relative;
+ 	height:520px;
+	width:470px;
+	background: #5E295F;
+	z-index:-3;
+}
+
+
+/* BRANDING */
+.brandingtext { 
+	font-family:Nunito;
+	color: #5198A7;
+	text-align: left;
+	align-self: center;
+}
+
+#brandingbutton{
+ 	color: #EFF0F2;
+    background-color: #5198A7;
+    border-color: #5198A7;
+}
+
+#brandingbutton:hover { 
+	color: #EFF0F2;
+	background: #5198a7ba;
+}
+
+
+.brandingimage { 
+	position:absolute;
+	width:500px; 
+	z-index:0; 
+	top:40px; 
+	right:-10px;
+}
+
+.MichiganMovement-img { 
+	width:100%;
+	z-index:0;
+}
+
+.brandingbackground { 
+	height:420px;
+	width:470px;
+	background: #5198A7;
+	z-index:-2; 
+ }
+
+/* PRODUCT DESIGN */
+.producttext { 
+	font-family:Nunito;
+	color: #BD975A;
+	text-align: right;
+	align-self: center;
+}
+
+#productbutton{
+ 	color: #EFF0F2;
+    background-color: #BD975A;
+    border-color: #BD975A;
+}
+
+#productbutton:hover { 
+	color: #EFF0F2;
+	background: #BD975Aba;
+}
+
+.product_image_container {
+	position: relative;
+	height:520px;
+}
+
+
+.bird-img { 
+	position: absolute;
+	z-index:1; 
+	width:275px; 
+	top:80px;
+	left:50px;
+}
+
+.bird-img1 { 
+	position: absolute;
+	z-index:0; 
+	width:275px; 
+	top:50px;
+	left:270px;
+}
+
+.productbackground { 
+	height:420px;
+	width:470px;
+	background: #BD975A;
+	z-index:-2; 
+ }
+
+/* PHOTOGRAPHY */
+.photographytext { 
+	font-family:Nunito;
+	color: #67353D;
+	text-align: left;
+	align-self: center;
+ }
+
+#photographybutton{
+ 	color: #EFF0F2;
+    background-color: #67353D;
+    border-color: #67353D;
+}
+
+#photographybutton:hover { 
+	color: #EFF0F2;
+	background: #67353dc9;
+}
+
+.photo_image_container {
+	position: relative;
+}
+
+.photographyimg {
+	z-index:0;
+	
+ }
+
+.portrait-img { 
+	position:absolute;
+	width:475px;
+	top:40px;
+	right:0px;
+}
+
+.photographybackground { 
+ 	height:320px;
+	width:500px;
+	background: #67353D;
+	z-index:-1;
+}
+
+/* MIXED MEDIA */
+
+.mmtext { 
+	font-family:Nunito;
+	color: #3D5EAC;
+	text-align: right;
+	align-self: center;
+ }
+
+#mmbutton{
+ 	color: #EFF0F2;
+    background-color: #3d5eac;
+    border-color: #3D5EAC;
+}
+
+#mmbutton:hover { 
+	color: #EFF0F2;
+	background: #3d5eacb9;
+}
+
+.mixedmedia_image_container {
+	position: relative;
+	/*left: 70px;*/
+}
+
+.mmimg {
+	position:absolute;
+	width: 480px;
+	z-index:0;
+ }
+
+.SummerTimeBlues-img { 
+	width: 480px; 
+	position: absolute;
+	align-self: left;
+	top:40px; 
+	left:40px;
+	z-index: 0;
+}
+
+.mmbackground { 
+ 	height:380px;
+	width:500px;
+	background: #3D5EAC;
+	z-index:-1;
+}
+
+.me { 
+	width: 56%;
+}
+
+.about h1{ 
+	font-family: "Nunito"; 
+	color: #4C557F;
+}
+
+.about h4{ 
+	font-family: "Nunito"; 
+	color: #4C557F;
+}
+
+
+/* DESIGN */
+.typed-wrap.text-center{
+	/*height:630px;*/
+}	
+
+.typed-wrap h1{ 
+	font-family: "Nunito"; 
+	font-size: 5rem; 
+	color: #4C557F;
+}
+
+span.typed-cursor { 
+	position: relative;
+    opacity: 1;
+    width: 30px; 
+    animation: blink .7s infinite;
+    height: 6px;
+    font-size: 0;
+    margin-left: 2px;
+    background: #4C557F;
+    display: inline-block;
+    -webkit-animation: blink 1.5s infinite;
+    -moz-animation: blink 1.5s infinite;
+    animation: blink 1.5s infinite;
+}
+
+@keyframes blink {
+	50% {
+		opacity:0.0;
+	}
+}
+
+@-webkit-keyframes blink {
+	50% {
+		opacity:0.0;
+	}
+}
+
+#designbutton{
+ 	color: #EFF0F2;
+    background-color: #4C557F;
+    border-color: #4C557F;
+}
+
+#designbutton:active { 
+	color: #EFF0F2;
+	background-color: #4C557Fb9;
+}
+
+.active { 
+	color: #EFF0F2;
+	background-color: #4C557Fb9 !important;
+}
+
+
+.gallery { 
+height:auto; }
+/*.gallery img{ 
+	cursor:pointer;
+	position:relative;
+	text-align: center;
+	overflow:hidden;
+	background-size: cover;
+}
+
+.gallery:hover { 
+	opacity: 0.80;
+	transform: scale(1.1);
+	color:#ffffff26; 
+}
+
+.softeffect:before, .softeffect p {
+	opacity:0;
+ } 
+ */
+
+.shutter {
+  /*display: flex;
+  justify-content: right;
+  align-items: center;
+  min-height: 100vh;*/
+}
+
+#box-aperture {
+  width: 18vmin;
+  height: 18vmin;
+  border-radius: 50%;
+  border: 5px solid #4C557F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+.box_inner {
+  background: #4C557F;
+  width: 90%;
+  height: 90%;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.box_aperture {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  animation: aperture_zoom 2s linear infinite alternate;
+}
+
+.aperture_piece {
+  width: 20%;
+  height: 20%;
+  background: #EEF3F6;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.aperture_piece:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 15%;
+  height: 1000%;
+  background-color: #EEF3F6;
+  animation: aperture_line_zoom 2s linear infinite alternate;
+  transform-origin: right top;
+}
+.aperture_piece:nth-child(1) {
+  transform: rotate(60deg) translateX(37%);
+}
+.aperture_piece:nth-child(2) {
+  transform: rotate(120deg) translateX(37%);
+}
+.aperture_piece:nth-child(3) {
+  transform: rotate(180deg) translateX(37%);
+}
+.aperture_piece:nth-child(4) {
+  transform: rotate(240deg) translateX(37%);
+}
+.aperture_piece:nth-child(5) {
+  transform: rotate(300deg) translateX(37%);
+}
+.aperture_piece:nth-child(6) {
+  transform: rotate(360deg) translateX(37%);
+}
+
+@keyframes aperture_zoom {
+  from {
+    transform: scale(0.7) rotate(-60deg);
+  }
+  50% {
+    transform: scale(1) rotate(0);
+  }
+  to {
+    transform: scale(1.9) rotate(60deg);
+  }
+}
+@keyframes aperture_line_zoom {
+  from {
+    transform: scale(1.3);
+  }
+  50% {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.5);
+  }
+}
+.box_inspired {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 1rem;
+  color: #4C557F;
+}
+
+.footer p{
+	font-family:Nunito;
+	color: #4C557F;
+	font-size: 12px;
+}
