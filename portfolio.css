@@ -64,7 +64,7 @@ button:focus {
 	width:20%;
 }
 
-#logohome {
+img#logohome {
 	width:20%;
 }
 
@@ -641,7 +641,7 @@ height:auto; }
 }
 
 .footer { 
-	width:30px;
+	width:5%;
 }
 
 .footer-text p{
