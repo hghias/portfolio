@@ -64,6 +64,10 @@ button:focus {
 	width:20%;
 }
 
+#logohome {
+	width:20%;
+}
+
 .navbar-nav a:link, a:visited { 
 	color: #4C557F;
 }
