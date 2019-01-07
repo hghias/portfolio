@@ -21,12 +21,12 @@
 </div>
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
-	<div class="row pb-5 my-auto text-center">
-		<div class="col mx-auto">
-			<a class="btn mr-5 sh" id="designbutton" role="button" > Show All </a>
-			<a class="btn mr-5 pn" id="designbutton" role="button" > Painting </a>
-			<a class="btn mr-5 dr" id="designbutton" role="button" > Drawing </a>
-			<a class="btn mr-5 dg" id="designbutton" role="button" > Digital </a>
+	<div class="row">
+		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
+			<a class="btn sh" id="designbutton" role="button" > Show All </a>
+			<a class="btn pn" id="designbutton" role="button" > Painting </a>
+			<a class="btn dr" id="designbutton" role="button" > Drawing </a>
+			<a class="btn dg" id="designbutton" role="button" > Digital </a>
 			<a class="btn 3d" id="designbutton" role="button" > three dimensional </a>
 		</div>
 	</div>

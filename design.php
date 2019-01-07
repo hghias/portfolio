@@ -13,7 +13,7 @@
 	<div class="row">
 		<div class ="col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%;" >
 			<div class="typed-wrap text-center">
-				<h1> <span class="typed"></span><span class="typed-cursor">-</span> Design</h1>
+				<h1> <span class="typed"></span> <!--<span class="typed-cursor">-</span> !--> Design</h1>
 
 			</div>
 		</div>
@@ -21,12 +21,12 @@
 </div>
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
-	<div class="row pb-5 my-auto text-center">
-		<div class="col mx-auto">
-			<a class="btn mr-5 sh" id="designbutton" role="button" > Show All </a>
-			<a class="btn mr-5 ui" id="designbutton" role="button" > UI/UX Design </a>
-			<a class="btn mr-5 br" id="designbutton" role="button" > Branding Design </a>
-			<a class="btn mr-5 pr" id="designbutton" role="button" > Product Design </a>
+	<div class="row">
+		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
+			<a class="btn sh " id="designbutton" role="button" > Show All </a>
+			<a class="btn ui" id="designbutton" role="button" > UI/UX Design </a>
+			<a class="btn br" id="designbutton" role="button" > Branding Design </a>
+			<a class="btn pr" id="designbutton" role="button" > Product Design </a>
 			<a class="btn gr" id="designbutton" role="button" > Graphic Design </a>
 		</div>
 	</div>
@@ -34,9 +34,7 @@
 
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
-		
 		<div class = "col-lg-4">
-			
 			<div class="pb-3 branding">
 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 				<img class="img-fluid" src="Redefine.png" alt="" style=" background-color: #A2D5D8; display:block; height:auto;">
@@ -161,7 +159,7 @@
 		// show cursor
 		showCursor: false,
 		// character for cursor
-		cursorChar: "_",
+		cursorChar: "",
 		// attribute to type (null == text)
 		attr: null,
 		// either html or text

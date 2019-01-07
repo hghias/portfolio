@@ -52,28 +52,22 @@
 
 <div class="container-fluid">
 	
-	<!-- UX DESIGN !--->
 	<div class="row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax" >
-		<div class="col-lg-6 p-4 UXtext">
+		<div class="col-6 p-4 UXtext">
 			<h1> ALLY EFFECTIVE</br>PHILANTHROPY WIDGET</h1>
 			<h2> UX DESIGN </h2>
 			<a class="btn" id="uxbutton" href="design.php?filter=ux" role="button">See All Projects > </a>
 		</div>
 		<!--<div class="col-lg-6 p-4 UX_image_container" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="300" style="transform-style: preserve-3d">!-->
-		<div class="col-lg-6 p-4 UX_image_container">
-			<img class="img-fluid my-auto uximg" src="Animals UI-08.png" alt="UXdesign" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);" > 
-			<img class="img-fluid my-auto uximg1" src="Animals UI-09.png" alt="UXdesign" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);" > <!--donate !-->
-			<div class="my-auto UXbackground img-parallax"> </div>
+		<div class="col-6 p-4">
+			<img class="img-fluid my-auto uximg" src="home page mockups-01.png" alt="UXdesign"> 
 		</div>
 	</div>
 
 	<!-- BRANDING DESIGN !--> 
 	<div class= "row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax">
-		<div class="col-6 p-4 branding_image_container">
- 			<div class = "brandingimage">
-				<img class="img-fluid MichiganMovement-img float-right" src="MM.png" alt="Michigan Movement">
-			</div>
-			<div class = "brandingbackground pr-6 float-right"> </div>
+		<div class="col-6 p-4">
+			<img class="img-fluid MichiganMovement-img float-right" src="home page mockups-05.png" alt="Michigan Movement">
  		</div>
  		<div class="col-6 brandingtext">
  			<h1> MICHIGAN MOVEMENT </h1>
@@ -90,22 +84,17 @@
 			<a class="btn" id="productbutton" href="design.php?filter=product" role="button">See All Projects > </a>
 		</div>
 
-		<div class="col-6 p-4 product_image_container">
-			<div class="productimage">
-				<img class="img-fluid bird-img float-left" src="_DSC1267.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
-				<img class="img-fluid bird-img1 float-left" src="_DSC1298.jpg" alt=""style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);" >
-			</div>
-			<div class = "productbackground float-left"> </div>
+		<div class="col-6 p-4">
+			<img class="img-fluid bird-img float-left" src="home page mockups-02.png" alt="">
+				
+			
 		</div>
 	</div>
 
 	<!-- PHOTOGRAPHY !--> 
 	<div class= "row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax">
 		<div class="col-6 photography_image_container">
-			<div class = "photographyimg">
-				<img class="img-fluid portrait-img float-right" src="_DSC0247-2.jpg" alt="Photography" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
-			</div>
-			<div class = "photographybackground float-right"> </div>
+			<img class="img-fluid portrait-img float-right" src="home page mockups-03.png" alt="Photography" >
 		</div>
 
 		<div class="col-6 photographytext">
@@ -123,10 +112,7 @@
 			<a class="btn" id="mmbutton" href="mixedmedia.php" role="button">See All Projects > </a>
 		</div>
 		<div class="col-6 mixedmedia_image_container">
- 			<div class = "mmimg float-right">
-				<img class="img-fluid SummerTimeBlues-img" src="SummerTimeBlues.jpg" alt="Summer Time Blues" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
-			</div>
-			<div class = "mmbackground float-left"> </div>
+			<img class="img-fluid SummerTimeBlues-img" src="home page mockups-04.png" alt="Summer Time Blues">
  		</div>
 	</div>
 

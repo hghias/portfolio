@@ -1,7 +1,7 @@
 <!-- HEADER !--> 
 <nav class="navbar navbar-expand-md">
-	<a class="navbar-brand" href="index.php"> 
-		<img id="logohome" class= "img-fluid purplelion" src="logo.png" width="80" alt="logo" > 
+	<a class="navbar-brand col-4" href="index.php"> 
+		<img id="logohome" class= "img-fluid purplelion" src="logo.png" alt="logo" > 
 	</a>
 
 	<!-- Toggler/collapsibe Button -->

@@ -38,23 +38,25 @@
 </div>
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
-	<div class="row pb-5 my-auto text-center">
-		<div class="col mx-auto">
-			<a class="btn mr-5 sh" id="designbutton" role="button" > Show All </a>
-			<!-- <a class="btn mr-5 al" id="designbutton" role="button" > Albums </a>
-			<a class="btn mr-5 cr" id="designbutton" role="button" > Creative </a>
-			<a class="btn mr-5 cl" id="designbutton" role="button" > Client </a> !-->
-			<a class="btn mr-5 pr" id="designbutton" role="button" > Portrait </a>
-			<a class="btn mr-5 ur" id="designbutton" role="button" > Urban </a>
-			<a class="btn mr-5 na" id="designbutton" role="button" > Nature </a>
-			<a class="btn mr-5 we" id="designbutton" role="button" > Wedding </a>
+	<div class="row">
+		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
+			<a class="btn sh" id="designbutton" role="button" > Show All </a>
+			<!-- <a class="btn al" id="designbutton" role="button" > Albums </a>
+			<a class="btn cr" id="designbutton" role="button" > Creative </a>
+			<a class="btn cl" id="designbutton" role="button" > Client </a> !-->
+			<a class="btn pr" id="designbutton" role="button" > Portrait </a>
+			<a class="btn ur" id="designbutton" role="button" > Urban </a>
+			<a class="btn na" id="designbutton" role="button" > Nature </a>
+			<a class="btn we" id="designbutton" role="button" > Wedding </a>
 			<a class="btn ev" id="designbutton" role="button" > Event </a>
 		</div>
 	</div>
 </div>
 
+
+
 <div class="container-fluid">
-	<div class="row p-4 my-auto" data-aos="fade-up" data-aos-duration="1000">
+	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class="col-lg-4 ">
 			<div class="pb-4 wedding portrait client">
 				<a href="IMG_0620.jpg" data-fancybox="images" data-caption="caption">
