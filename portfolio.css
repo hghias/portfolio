@@ -60,6 +60,10 @@ button:focus {
 	outline: 0 !important; 
 }
 
+.purplelion { 
+	width:20%;
+}
+
 .navbar-nav a:link, a:visited { 
 	color: #4C557F;
 }
@@ -74,11 +78,13 @@ button:focus {
 }
 .custom-toggler .navbar-toggler-icon {
 	background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=4C557F');
-	/*background-image: url('https://mdbootstrap.com/img/svg/hamburger9.svg?color=4C557F'); */
-}
+	background-size:150% 150%;
+ }
 
 /* LANDING PAGE */
  
+
+
 .landing_page_Hafsa h1 {
 	font-family: "Nunito"; 
 	text-align: end;
@@ -299,7 +305,7 @@ button:focus {
   box-shadow: none !important;
 }
 
-.about{
+.aboutm{
 	font-family:Nunito;
 	color: #4C557F;
 }
@@ -324,33 +330,9 @@ button:focus {
 	background:#6f1965b5;
 }
 
-.UX_image_container {
- 	position: relative;
-}
 
 .uximg { 
-	position:absolute;
-	width:250px;
-	top:60px;
-	left:50px;
-	z-index:0;
-}
-
-.uximg1 {
-	position: absolute;
-	width:250px;
-	top:45px;
-	left:285px;
-	z-index:-1;
-
-}
-
-.UXbackground { 
-	position:relative;
- 	height:520px;
-	width:470px;
-	background: #5E295F;
-	z-index:-3;
+	width:90%;
 }
 
 
@@ -373,26 +355,9 @@ button:focus {
 	background: #5198a7ba;
 }
 
-
-.brandingimage { 
-	position:absolute;
-	width:500px; 
-	z-index:0; 
-	top:40px; 
-	right:-10px;
-}
-
 .MichiganMovement-img { 
-	width:100%;
-	z-index:0;
+	width:80%;
 }
-
-.brandingbackground { 
-	height:420px;
-	width:470px;
-	background: #5198A7;
-	z-index:-2; 
- }
 
 /* PRODUCT DESIGN */
 .producttext { 
@@ -413,34 +378,11 @@ button:focus {
 	background: #BD975Aba;
 }
 
-.product_image_container {
-	position: relative;
-	height:520px;
-}
-
 
 .bird-img { 
-	position: absolute;
-	z-index:1; 
-	width:275px; 
-	top:80px;
-	left:50px;
+	width:90%; 
 }
 
-.bird-img1 { 
-	position: absolute;
-	z-index:0; 
-	width:275px; 
-	top:50px;
-	left:270px;
-}
-
-.productbackground { 
-	height:420px;
-	width:470px;
-	background: #BD975A;
-	z-index:-2; 
- }
 
 /* PHOTOGRAPHY */
 .photographytext { 
@@ -461,28 +403,10 @@ button:focus {
 	background: #67353dc9;
 }
 
-.photo_image_container {
-	position: relative;
-}
 
-.photographyimg {
-	z-index:0;
-	
+.portrait-img {
+	width:90%;
  }
-
-.portrait-img { 
-	position:absolute;
-	width:475px;
-	top:40px;
-	right:0px;
-}
-
-.photographybackground { 
- 	height:320px;
-	width:500px;
-	background: #67353D;
-	z-index:-1;
-}
 
 /* MIXED MEDIA */
 
@@ -504,47 +428,30 @@ button:focus {
 	background: #3d5eacb9;
 }
 
-.mixedmedia_image_container {
-	position: relative;
-	/*left: 70px;*/
-}
-
-.mmimg {
-	position:absolute;
-	width: 480px;
-	z-index:0;
- }
 
 .SummerTimeBlues-img { 
-	width: 480px; 
-	position: absolute;
-	align-self: left;
-	top:40px; 
-	left:40px;
-	z-index: 0;
+	width: 90%;
 }
 
-.mmbackground { 
- 	height:380px;
-	width:500px;
-	background: #3D5EAC;
-	z-index:-1;
-}
 
 .me { 
 	width: 56%;
 }
 
-.about h1{ 
+.about h1 { 
 	font-family: "Nunito"; 
 	color: #4C557F;
 }
 
-.about h4{ 
+.about h2{ 
 	font-family: "Nunito"; 
 	color: #4C557F;
 }
 
+.about p{ 
+	font-family: "Nunito"; 
+	color: #4C557F;
+}
 
 /* DESIGN */
 .typed-wrap.text-center{
@@ -557,7 +464,7 @@ button:focus {
 	color: #4C557F;
 }
 
-span.typed-cursor { 
+/*span.typed-cursor { 
 	position: relative;
     opacity: 1;
     width: 30px; 
@@ -570,7 +477,7 @@ span.typed-cursor {
     -webkit-animation: blink 1.5s infinite;
     -moz-animation: blink 1.5s infinite;
     animation: blink 1.5s infinite;
-}
+}*/
 
 @keyframes blink {
 	50% {
@@ -587,7 +494,7 @@ span.typed-cursor {
 #designbutton{
  	color: #EFF0F2;
     background-color: #4C557F;
-    border-color: #4C557F;
+    border-color: #263775;
 }
 
 #designbutton:active { 
@@ -729,7 +636,11 @@ height:auto; }
   color: #4C557F;
 }
 
-.footer p{
+.footer { 
+	width:30px;
+}
+
+.footer-text p{
 	font-family:Nunito;
 	color: #4C557F;
 	font-size: 12px;
