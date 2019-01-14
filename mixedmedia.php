@@ -11,11 +11,11 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%;" >
+		<div class ="mmb col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%; " >
 			<div class="typed-wrap text-center">
 				<h1> Mixed Media </h1>
-
-			</div>
+ 				<img class="mmlanding" src="fff.png" alt="">
+ 			</div>
 		</div>
 	</div>
 </div>
@@ -228,7 +228,6 @@ $(document).ready(function(){
 		$('div.digital').hide();
 		$('div.threed').show();
 	});
-
 
 </script>
 

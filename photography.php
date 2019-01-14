@@ -11,9 +11,16 @@
 <!-- LANDING PAGE !-->
 
 
-<div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
+<div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000" > 
 	<div class="row" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
-		<div class ="col-5 align-self-center">
+		<div class="col my-auto align-self-center">
+			<div class="mmb typed-wrap text-center">
+				<h1> Photography </h1>
+				<img class="camera" src="aperture-07.png" alt="">
+			</div>
+		</div>
+
+		<!-- <div class ="col-5 align-self-center">
 			<div class="shutter">
 					<div id="box-aperture">
 					  <div class="box_inner">
@@ -34,6 +41,7 @@
 		<div class="col-6 my-auto align-self-center typed-wrap">
 				<h1> Photography </h1>
 		</div>
+		!-->
 	</div>
 </div>
 

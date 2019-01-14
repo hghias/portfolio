@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 <title>Hafsa Ghias</title>
 	
-<link rel="shortcut icon" href="logolion.png" type="image/x-icon">
+<link rel="shortcut icon" href="Hafsa Logo-13.png" type="image/x-icon">
 
 <link href="portfolio.css" type="text/css" rel="stylesheet">
 

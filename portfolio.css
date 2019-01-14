@@ -2,10 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
 body{
-	font-family: "Nunito"; 
+	font-family: "Nunito", sans-serif !important; 
+	color: #255484 !important;
 	padding: 25px;
 	/*background-color: #EEF3F6; */
-	background-image: linear-gradient(#EEF3F6, #EFEAEA, #EFEAEA, #EFA998); 
+	background-image: linear-gradient(#EEF3F6, #F5DDDD ); /* #E4AD9B #F6BE60af #EFA998*/
 }
 
 /* No media query since this is the default in Bootstrap */
@@ -16,21 +17,21 @@ html {
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 576px) {
     html {
-        font-size: 0.2rem;
+        font-size: 0.4rem;
     }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
     html {
-        font-size: 0.4rem;
+        font-size: 0.6rem;
     }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     html {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
 }
 
@@ -69,16 +70,16 @@ img#logohome {
 }
 
 .navbar-nav a:link, a:visited { 
-	color: #4C557F;
+	color: #255484;
 }
 
 .navbar-nav a:hover { 
-	color: #405B9C;
-	color:#A8B9E3;
+	color: #255484;
+	color:#48A2B5;
 }
 
 .navbar-active {
-	color:#A8B9E3 !important;
+	color:#48A2B5 !important;
 }
 .custom-toggler .navbar-toggler-icon {
 	background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=4C557F');
@@ -90,11 +91,9 @@ img#logohome {
 
 
 .landing_page_Hafsa h1 {
-	font-family: "Nunito"; 
 	text-align: end;
 	/*align-self: center;*/
 	font-size: 5rem; 
-	color: #4C557F;
 
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
@@ -170,11 +169,9 @@ img#logohome {
 }
 
 .landing_page_Ghias h1 {
-	font-family: "Nunito"; 
 	text-align: start;
 	/*align-self: center; */
 	font-size: 5rem;
-	color: #4C557F;
 
 	animation-name: slideUp;
 	-webkit-animation-name: slideUp;	
@@ -309,16 +306,9 @@ img#logohome {
   box-shadow: none !important;
 }
 
-.aboutm{
-	font-family:Nunito;
-	color: #4C557F;
-}
-
-
 /* UX DESIGN */
 .UXtext{ 
-	font-family:Nunito;
-	color: #662362;
+ 	color: #662362;
 	text-align: right;
 	align-self: center;
  }
@@ -365,8 +355,7 @@ img#logohome {
 
 /* PRODUCT DESIGN */
 .producttext { 
-	font-family:Nunito;
-	color: #BD975A;
+ 	color: #BD975A;
 	text-align: right;
 	align-self: center;
 }
@@ -390,8 +379,7 @@ img#logohome {
 
 /* PHOTOGRAPHY */
 .photographytext { 
-	font-family:Nunito;
-	color: #67353D;
+ 	color: #67353D;
 	text-align: left;
 	align-self: center;
  }
@@ -415,8 +403,7 @@ img#logohome {
 /* MIXED MEDIA */
 
 .mmtext { 
-	font-family:Nunito;
-	color: #3D5EAC;
+ 	color: #3D5EAC;
 	text-align: right;
 	align-self: center;
  }
@@ -438,35 +425,15 @@ img#logohome {
 }
 
 
-.me { 
-	width: 56%;
+.me {
+	width: 70%;
 }
 
-.about h1 { 
-	font-family: "Nunito"; 
-	color: #4C557F;
-}
-
-.about h2{ 
-	font-family: "Nunito"; 
-	color: #4C557F;
-}
-
-.about p{ 
-	font-family: "Nunito"; 
-	color: #4C557F;
-}
-
-/* DESIGN */
-.typed-wrap.text-center{
-	/*height:630px;*/
-}	
+  
 
 .typed-wrap h1{ 
-	font-family: "Nunito"; 
-	font-size: 5rem; 
-	color: #4C557F;
-}
+ 	font-size: 5rem; 
+ }
 
 /*span.typed-cursor { 
 	position: relative;
@@ -476,7 +443,7 @@ img#logohome {
     height: 6px;
     font-size: 0;
     margin-left: 2px;
-    background: #4C557F;
+    background: #255484;
     display: inline-block;
     -webkit-animation: blink 1.5s infinite;
     -moz-animation: blink 1.5s infinite;
@@ -497,18 +464,18 @@ img#logohome {
 
 #designbutton{
  	color: #EFF0F2;
-    background-color: #4C557F;
+    background-color: #255484;
     border-color: #263775;
 }
 
 #designbutton:active { 
 	color: #EFF0F2;
-	background-color: #4C557Fb9;
+	background-color: #255484b9;
 }
 
 .active { 
 	color: #EFF0F2;
-	background-color: #4C557Fb9 !important;
+	background-color: #255484b9 !important;
 }
 
 
@@ -533,18 +500,12 @@ height:auto; }
  } 
  */
 
-.shutter {
-  /*display: flex;
-  justify-content: right;
-  align-items: center;
-  min-height: 100vh;*/
-}
 
 #box-aperture {
   width: 18vmin;
   height: 18vmin;
   border-radius: 50%;
-  border: 5px solid #4C557F;
+  border: 5px solid #255484;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -552,7 +513,7 @@ height:auto; }
 }
 
 .box_inner {
-  background: #4C557F;
+  background: #255484;
   width: 90%;
   height: 90%;
   border-radius: 50%;
@@ -637,7 +598,7 @@ height:auto; }
   bottom: 0;
   right: 0;
   padding: 1rem;
-  color: #4C557F;
+  color: #255484;
 }
 
 .footer { 
@@ -645,7 +606,43 @@ height:auto; }
 }
 
 .footer-text p{
-	font-family:Nunito;
-	color: #4C557F;
 	font-size: 12px;
+}
+
+.a:hover{
+	opacity:0.5;
+}
+
+.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.mmlanding {
+	width:30%;
+	position:absolute;
+	left:570px;
+	bottom:100px; 
+	z-index:-5;
+	opacity:50%;
+}
+ 
+.mmb{
+	position:relative;
+}
+
+.camera {
+	position:absolute;
+	width:20%;
+	z-index:-5;
+	opacity:0.25;
+	top:-120px;
+	left:645px;
 }

@@ -35,21 +35,21 @@
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class = "col-lg-4">
-			<div class="pb-3 branding">
+			<div class="pb-3 branding"> <!-- REDEFINE !-->
 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-				<img class="img-fluid" src="Redefine.png" alt="" style=" background-color: #A2D5D8; display:block; height:auto;">
+				<img class="a img-fluid" src="Redefine.png" alt="" style=" background-color: #A2D5D8; display:block; height:auto;">
 				</a>
 			</div>
 
-			<div class="pb-3 ux">
+			<div class="pb-3 ux"> <!-- EFFECTIVE PHILANTHROPY !-->
 				<a href="Widget.png" data-fancybox="images" data-caption="caption">
-					<img class="img-fluid" src="Widget.png" alt="" style="background-color: #5e2960; padding-top:15px;">
+					<img class="a img-fluid" src="Widget.png" alt="" style="background-color: #5e2960; padding-top:15px;">
 				</a>
 			</div>
 
-			<div class="pb-3 product branding graphic">
-				<a href="converge.jpg" data-fancybox="images" data-caption="caption">
-					<img class="img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+			<div class="pb-3 product branding graphic"> <!-- SPARK !-->
+				<a href="Spark.pdf" data-fancybox="images" data-caption="caption">
+					<img class="a img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 				</a>
 			</div>
 		
@@ -57,19 +57,19 @@
 
 		<div class = "col-lg-4">
 		
-			<div class="pb-3 branding">
+			<div class="pb-3 branding"> <!-- MICHIGAN MOVEMENT !-->
 				<a data-options='{"src": "#MMModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<img class="img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
 				</a> 	
 			</div>
 
-			<div class="pb-3 branding ux">
+			<div class="pb-3 branding ux"> <!-- MSA BRANDING & UX DESIGN !-->
 				<a href="msa.png" data-fancybox="images" data-caption="caption">
 					<img class="img-fluid" src="msa.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 				</a>
 			</div>
 
-			<div class="pb-3 product">
+			<div class="pb-3 product"> <!-- BLOCKS !-->
 				<a href="blocks.jpg" data-fancybox="images" data-caption="caption">
 					<img class="img-fluid" src="blocks.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 				</a>
@@ -78,20 +78,20 @@
 		</div>
 
 		<div class = "col-lg-4">
-			<div class="pb-3 branding">
+			<div class="pb-3 branding"> <!-- PAANI !-->
 				<a href="Paani.png" data-fancybox="images" data-caption="caption">
 					<img class="img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
 
 				</a>
 			</div>
 
-			<div class="pb-3 branding ux">
+			<div class="pb-3 branding ux"> <!-- HAFSA !-->
 				<a href="HG Mockup Transparent.png" data-fancybox="images" data-caption="caption">
 					<img class="img-fluid" src="HG Mockup Transparent.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 				</a>
 			</div>
 
-			<div class="pb-3 product">
+			<div class="pb-3 product"> <!-- BUDDY !-->
 				<a href="_DSC1267.jpg" data-fancybox="images" data-caption="caption">
 					<img class="img-fluid" src="_DSC1267.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 				</a>
@@ -102,9 +102,12 @@
 </div>
 <?php include ('footer.php');?>
 <!-- Redefine Modal -->
-<div style="display:none; max-width:1000px;" id="RedefineModal">
-    <h1>Redefine</h1>
+<div style="display:none; max-width:1000px; color:#921C57; font-family:Nunito;" id="RedefineModal"> 
+    <h1 class="text-center">Redefine</h1>
+    <h4> A movement to promote social respect through student artwork created from experiences with inequality</h4>
+    <!-- Empowering students of marginalized communities to share their stories through the arts !-->
     <p> • Logo Design • Merchandise Design • Organization Development</p>
+    <img class="img-fluid" src="Redefine.png" alt="">
     <h3> Design Process </h3>
     <p>Redefine was previously named The Peace Initiative. The mission statement was to promote social acceptance and raise concern about controversial issues through diverse social platforms and art mediums.</p>
     <p> Objectives that need to be met by the logo: ​</p>
@@ -121,9 +124,10 @@
 
 
 <!-- Michigan Movement Modal -->
-<div style="display:none; max-width:1000px;" id="MMModal">
+<div style="display:none; max-width:1000px; color:#4B92A0; font-family:Nunito;" id="MMModal">
     <h1>Michigan Movement</h1>
     <p> • Logo Design • Merchandise Design</p>
+    <img class="img-fluid" src="MM.png" alt="">
     <h3> Design Process </h3>
     <p>Michigan is My Home is a new student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. The Cofounders came to me with a logo design that they wanted me to build upon. They also wanted the new logo to be modeled after the non profit organization Detroit Is My Home that they expanded into Ann Arbor</p>
     <p> Objectives that need to be met by the logo: ​</p>

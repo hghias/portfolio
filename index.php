@@ -19,7 +19,7 @@
  
 
 			<div class="logo_lion_container" data-speed="0.05">
-				<img class="img-fluid logo_lion_image" src="logolion.png" alt="lion logo">
+				<img class="img-fluid logo_lion_image" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 			
 			<div class="logo_lion_shadow_container" data-speed="0.02">
@@ -59,15 +59,15 @@
 			<a class="btn" id="uxbutton" href="design.php?filter=ux" role="button">See All Projects > </a>
 		</div>
 		<!--<div class="col-lg-6 p-4 UX_image_container" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="300" style="transform-style: preserve-3d">!-->
-		<div class="col-6 p-4">
-			<img class="img-fluid my-auto uximg" src="home page mockups-01.png" alt="UXdesign"> 
+		<div class="col-6">
+			<img class="uximg" src="home page mockups-01.png" alt="UXdesign"> 
 		</div>
 	</div>
 
 	<!-- BRANDING DESIGN !--> 
 	<div class= "row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax">
-		<div class="col-6 p-4">
-			<img class="img-fluid MichiganMovement-img float-right" src="home page mockups-05.png" alt="Michigan Movement">
+		<div class="col-6">
+			<img class="MichiganMovement-img float-right" src="home page mockups-05.png" alt="Michigan Movement">
  		</div>
  		<div class="col-6 brandingtext">
  			<h1> MICHIGAN MOVEMENT </h1>
@@ -84,8 +84,8 @@
 			<a class="btn" id="productbutton" href="design.php?filter=product" role="button">See All Projects > </a>
 		</div>
 
-		<div class="col-6 p-4">
-			<img class="img-fluid bird-img float-left" src="home page mockups-02.png" alt="">
+		<div class="col-6">
+			<img class="bird-img float-left" src="home page mockups-02.png" alt="">
 				
 			
 		</div>
@@ -93,8 +93,8 @@
 
 	<!-- PHOTOGRAPHY !--> 
 	<div class= "row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax">
-		<div class="col-6 photography_image_container">
-			<img class="img-fluid portrait-img float-right" src="home page mockups-03.png" alt="Photography" >
+		<div class="col-6">
+			<img class="portrait-img float-right" src="home page mockups-03.png" alt="Photography" >
 		</div>
 
 		<div class="col-6 photographytext">
@@ -111,8 +111,8 @@
 			<h2> PAINTING </h2>
 			<a class="btn" id="mmbutton" href="mixedmedia.php" role="button">See All Projects > </a>
 		</div>
-		<div class="col-6 mixedmedia_image_container">
-			<img class="img-fluid SummerTimeBlues-img" src="home page mockups-04.png" alt="Summer Time Blues">
+		<div class="col-6">
+			<img class="SummerTimeBlues-img" src="home page mockups-04.png" alt="Summer Time Blues">
  		</div>
 	</div>
 
