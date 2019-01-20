@@ -208,6 +208,7 @@
 
 
 	$(".sh").click(function() { //show all
+		$(this).toggleClass("active");
 		$('div.portrait').show();
 		$('div.urban').show();
 		$('div.nature').show();
@@ -226,7 +227,7 @@
 	});
 
 	$(".pr").click(function() { //portrait
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.urban').hide();
 		$('div.nature').hide();
 		$('div.wedding').hide();
@@ -236,7 +237,7 @@
 
 
 	$(".ur").click(function() { //urban
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.portrait').hide();
 		$('div.nature').hide();
 		$('div.wedding').hide();
@@ -245,7 +246,7 @@
 	});
 
 	$(".na").click(function() { //nature
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.portrait').hide();
 		$('div.urban').hide();
 		$('div.wedding').hide();
@@ -254,7 +255,7 @@
 	});
 
 	$(".we").click(function() { //wedding
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.portrait').hide();
 		$('div.urban').hide();
 		$('div.nature').hide();

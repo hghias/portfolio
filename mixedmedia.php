@@ -176,11 +176,8 @@ $('#filter').on('change', function() {
   $visible.show();
 });
 
-$(document).ready(function(){
-	   
+	$(document).ready(function(){
 	    $('.sh').addClass("active");
-
-
 
 	});
 
@@ -190,7 +187,7 @@ $(document).ready(function(){
 	});
 
 	$(".sh").click(function() { //show all
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.painting').show();
 		$('div.drawing').show();
 		$('div.threed').show();
@@ -198,7 +195,7 @@ $(document).ready(function(){
 	});
 
 	$(".pn").click(function() { //painting
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.drawing').hide();
 		$('div.threed').hide();
 		$('div.digital').hide();
@@ -206,7 +203,7 @@ $(document).ready(function(){
 	});
 
 	$(".dr").click(function() { //drawing
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.threed').hide();
 		$('div.digital').hide();
 		$('div.painting').hide();
@@ -214,7 +211,7 @@ $(document).ready(function(){
 	});
 
 	$(".dg").click(function() { //digital
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.threed').hide();
 		$('div.painting').hide();
 		$('div.drawing').hide();
@@ -222,7 +219,7 @@ $(document).ready(function(){
 	});
 
 	$(".3d").click(function() { //3d
-		/*$(this).toggleClass("active");*/
+		$(this).toggleClass("active");
 		$('div.painting').hide();
 		$('div.drawing').hide();
 		$('div.digital').hide();

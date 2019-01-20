@@ -470,12 +470,12 @@ img#logohome {
 
 #designbutton:active { 
 	color: #EFF0F2;
-	background-color: #255484b9;
+	background-color: #48A2B5;
 }
 
 .active { 
 	color: #EFF0F2;
-	background-color: #255484b9 !important;
+	background-color: #48A2B5 !important;
 }
 
 
@@ -609,10 +609,6 @@ height:auto; }
 	font-size: 12px;
 }
 
-.a:hover{
-	opacity:0.5;
-}
-
 .text {
   color: black;
   font-size: 20px;
@@ -645,4 +641,72 @@ height:auto; }
 	opacity:0.25;
 	top:-120px;
 	left:645px;
+	animation: rotate-btn 10s linear 3;
+  	-webkit-animation: rotate-btn 10s linear 3;
 }
+
+@keyframes rotate-btn {
+  0% {
+    transform: rotate(0);
+  }
+  33% { 
+  	transform: rotate(180deg);
+  }
+  66% { 
+  	transform: rotate(0);
+  }
+  100% {
+    transform: rotate(-180deg);
+  }
+}
+
+.project { 
+	position: relative; 
+}
+
+.text-hover { 
+	position: absolute; 
+	color: #EEF3F6 !important;
+	top: 50%;
+  	left: 50%;
+  	-webkit-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+	-webkit-transition: visibility 0s, opacity 0.5s linear;
+ 	transition: visibility 0s, opacity 0.5s linear;
+	visibility:hidden;
+	opacity:0;
+	/*transition: opacity .6s visibility .6s; */
+	
+ }
+
+ .project:hover .text-hover{ 		
+ 	visibility: visible;
+ 	opacity: 1;
+
+ }
+
+ .fancybox-content {
+}
+
+  .project:hover .overlay{ 		
+ 	visibility: visible;
+ 	opacity: 1;
+ 	-webkit-transition: visibility 0s, opacity 0.5s linear;
+ 	transition: visibility 0s, opacity 0.5s linear;
+
+
+ }
+.show_overlay { 
+	position: relative; 
+}
+
+ .overlay { 
+ 	position: absolute;
+ 	background: #255484bf;
+  	top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+ 	visibility:hidden;
+ }
