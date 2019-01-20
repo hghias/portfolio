@@ -332,7 +332,7 @@ $('#myModal').on('shown.bs.modal', function () {
 
 	$('#design-nav').toggleClass('navbar-active');
 
-	/*var url = window.location.search;
+	var url = window.location.search;
 	if (url == "?filter=ux") {
 		$('.ui').addClass("active");
 
@@ -365,12 +365,9 @@ $('#myModal').on('shown.bs.modal', function () {
 	$('.btn').on('click', function(){
 	    $('.btn').removeClass("active");
 	    $(this).addClass("active");
-	}); */
+	}); 
 
-	$(document).ready(function(){
-	   
-	    $('.sh').addClass("active");
-	});
+	 
 
 	$('.btn').on('click', function(){
 	    $('.btn').removeClass("active");
