@@ -43,7 +43,7 @@
 		<div class="col pb-3 about text-center">
 			<h1> Welcome! </h1>
 			</br>
-			<h2> I’m a user experience designer </br> with a passion for designing inclusive social innovation. </h2>
+			<h2> I’m a user experience designer </br> with a passion for social innovation. </h2>
 			</br>
 			<p> Scroll to see my projects! </p>
 		</div>
