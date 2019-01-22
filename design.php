@@ -127,6 +127,17 @@
 				</a>
 			</div>
 
+			<div class="project pb-3 branding"> <!-- PAANI !-->
+				<a href="Paani.png" data-fancybox="images" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Paani </h2>
+	 					</div>
+					</div>
+				</a>
+			</div>
 		</div>
 
 		<div class = "col-lg-4">
@@ -170,19 +181,6 @@
 				</a>
 				
 			</div>
-
-			<div class="project pb-3 branding"> <!-- PAANI !-->
-				<a href="Paani.png" data-fancybox="images" data-caption="caption">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Paani </h2>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
 			
 		</div>
 
@@ -232,35 +230,106 @@
 </div>
 <!-- MSA Modal !-->
 <div style="display:none; max-width:1000px;" id="MSAModal"> 
-    <h1 class="text-center"> MSA Website Rehaul </h1>
+    <h1 class="text-center"> Muslim Students Association </h1>
     <h4 class="text-center"> The One Stop Shop for Muslims at University of Michigan </h4>
     <p> <b>Role: </b> UI/UX designer & wordpress developer </p>
     <p> <b>Client: </b> Muslim Students Association</p>
-    <p> <b>Team: </b> Worked closely with MSA operations chair & President </p>
-    <p> <b>Goal: </b> Revamp the MSA website to generate more traffic, make the organization easier to discover & interact with, and make resources more accessible </p>
-    <h3 class="text-center"> Understand </h3>
-	</br>
-    <h5> Stakeholders Meeting </h5>
-    <p>Before meeting with the MSA Executive board I came up with a list of questions I wanted to ask them so I could understand what they wanted the new website to look like. </p>
+    <p> <b>Team: </b> Worked closely with the MSA operations chair </p>
     </br>
-    <h5> Personas & Use Cases </h5>
+    <h3 class="text-center"> Understanding the Problem </h3>
+	</br>
+    <h5> Client Goals </h5>
+    <p> The client aims to revamp their website to generate more traffic, make the organization easier to discover and interact with, have a more professional presence on campus, and make their resources more accessible for new students, existing members and the broader community.</p>
+    </br>
+
+    <h5> Stakeholders Meeting </h5>
+    <p> To define the business requirements, I met with the MSA executive board and talked about who the target audience is, what they liked about the current website: content wise, organization wise and look & feel and what they thought was missing from the current website. 
+    </br> Many of the board members felt that the website feels very somber and wanted to add more bright colors and photos of the community. MSA also has many resources, but they don’t do a good job sharing it with students. Some suggestions were to add the campus resource guide, a weekly calendar of events, and other resources onto the website to make it more accessible. Members also felt that the website needed a more prominently displayed mission statement, an easy way for people to donate to the organization and to make contacting the board and joining the MSA listservs more accessible. 
+    </br> We also mapped out the target audience: current MSA members, freshman and other Muslim students who are not currently a part of MSA, Alumni who want to give back, Donors and community members who want to learn more about, contact, or collaborate with the organization. 
+	</p>
+	
+	<div class="row">
+		<div class="col text-center">
+			<img src="msa_old.png" alt="" style="width:100%;"> 
+			<p>MSA Landing Page</p>
+		</div>
+		<div class="col text-center"> 
+			<img src="msa_old1.png" alt="" style="width:100%;">  
+			<p>MSA Get In Touch Page</p>
+		</div>
+		<div class="col text-center">
+			<img src="msa_old2.png" alt="" style="width:100%;"> 
+			<p>MSA What We're Up To Page</p>
+		</div>
+	</div>
+
+    </br>
+    <h5> The Challenge </h5>
+    <p>Currently, MSA uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been able to reach the same people over and over again. Additionally, although MSA has many resources available for Muslim students, they don’t have an organized, public place where anyone can access them - only those who know about them can utilize them. The challenge is to redesign the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
+    
+    <h3 class="text-center"> Research </h3>
+    <h5> User Research </h5>
+    <p>I developed an informal interview questionnaire to understand how users currently interact with MSA, what their needs and goals are and what they expect from MSA.</p>
+    <p> <i> insert questions here </i> </p>
+    <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones.</p>
+    
+    <h5> Personas </h5>
     <ul>
     	<li> Incoming Freshman Muslim Students </li>
     	<li> Current Muslim Undergraduate Students </li>
     	<li> Alumni </li>
-    	<li> Donors </li>
     	<li> Community Members </li>
     </ul>
+
+    <h5> Use Cases </h5>
+    <ul>
+    	<li> Students are trying to find a Muslim roommate and housing </li>
+    	<li> Incoming freshman trying to find the Muslim community </li>
+    	<li> Alumni wanting to stay in the loop and give back </li>
+    	<li> Other student organizations want to collaborate and are wondering who and how to reach out to the MSA </li>
+    </ul>
+
+    <h5> Sitemap </h5>
+    <div class="row">
+		<div class="col text-center">
+			<img src="old_sitemap.png" alt="" style="width:100%;"> 
+			<p>Old Sitemap</p>
+		</div>
+		<div class="col text-center"> 
+			<img src="new_sitemap.png" alt="" style="width:100%;">  
+			<p>New Sitemap</p>
+		</div>
+	</div>
+
     </br>
-    <h5> Research </h5>
+    <h3 class="text-center"> Ideate </h3>
     </br>
-    <h3 class="text-center"> Prototype </h3>
+    <h5> Wireframes </h5>
+    <div class="row">
+		<div class="col text-center">
+			<img src="msa_wireframe.jpg" alt="" style="width:96%;"> 
+		</div>
+		<div class="col text-center"> 
+			<img src="msa_wireframe1.jpg" alt="" style="width:100%;">  
+		</div>
+	</div>
+	</br>
+	</br>
+    <h5> Low Fidelity Mockup </h5>
+     <div class="row">
+		<div class="col text-center">
+			<img src="msa_lofi.png" alt="" style="width:100%;"> 
+		</div>
+	</div>
     </br>
-    <h5> Wireframes & Information Architecture </h5>
-    </br>
-    <h5> Mockup </h5 >
-    </br>
-    <h3 class="text-center"> Build </h3>
+    <h3 class="text-center"> Design </h3>
+    <h5> Interactice Prototype </h5>
+    
+    <h3 class="text-center"> Implement </h3>
+    <h5> Development </h5>
+    
+    <h3 class="text-center"> Evaluate </h3>
+    <h5> Testing </h5>
     </br>
     <h5> Reflection </h5>
     
