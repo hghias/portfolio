@@ -57,6 +57,19 @@ html {
  	padding-left: 20px;
 }
 
+a:hover { 
+	text-decoration:none !important;
+}
+
+a:focus { 
+	text-decoration:none;
+}
+
+img:hover { 
+	text-decoration:none;
+}
+
+
 button:focus { 
 	outline: 0 !important; 
 }
@@ -308,25 +321,25 @@ img#logohome {
 
 /* UX DESIGN */
 .UXtext{ 
- 	color: #662362;
+ 	color: #1f3160;
 	text-align: right;
 	align-self: center;
  }
 
 #uxbutton{
  	color: #EFF0F2;
-    background-color: #662362;
-    border-color: #662362;
+    background-color: #1f3160;
+    border-color: #1f3160;
 }
 
 #uxbutton:hover { 
 	color: #EFF0F2;
-	background:#6f1965b5;
+	background:#1f3160b5;
 }
 
 
 .uximg { 
-	width:90%;
+	width:80%;
 }
 
 

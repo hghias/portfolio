@@ -39,7 +39,7 @@
 				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="msa_mockup.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> MSA Website Rehaul </h2>
 		 					<p class ="text-center mx-auto"> Case Study </p>
@@ -74,13 +74,13 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- MSA BRANDING !-->
+			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
 				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="msa.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> MSA Merchandise </h2>
+		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
 	 					</div>
 					</div>
 				</a>
@@ -190,13 +190,14 @@
 
 <!-- Redefine Modal -->
 <div style="display:none; max-width:1000px;" id="RedefineModal"> 
-    <h1 >Redefine</h1>
-    <h4> Promoting diversity through the arts</h4>
+    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    </br>
+	</br><h1 class="text-center">Redefine</h1>
+    <h4 class="text-center"> Promoting diversity through the arts</h4>
     <!-- Empowering students of marginalized communities to share their stories through the arts !-->
-    <p> • Logo Design • Merchandise Design • Organization Development</p>
-    <img class="img-fluid" src="Redefine.png" alt="">
-    <h3> Design Process </h3>
-    <p>Redefine was previously named The Peace Initiative. The mission statement was to promote social acceptance and raise concern about controversial issues through diverse social platforms and art mediums.</p>
+     </br><h3 class="text-center"> Understanding the Problem </h3>
+    <h5> Client Goals </h5>
+    <p>Redefine aims to promote social acceptance and raise concern about controversial issues through diverse social platforms and art mediums.</p>
     <p> Objectives that need to be met by the logo: ​</p>
     <ul>
 		<li>Art Organization</li>
@@ -211,33 +212,41 @@
 
 
 <!-- Michigan Movement Modal -->
-<div style="display:none; max-width:1000px; color:#4B92A0; font-family:Nunito;" id="MMModal">
-    <h1>Michigan Movement</h1>
-    <p> • Logo Design • Merchandise Design</p>
-    <img class="img-fluid" src="MM.png" alt="">
-    <h3> Design Process </h3>
-    <p>Michigan is My Home is a new student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. The Cofounders came to me with a logo design that they wanted me to build upon. They also wanted the new logo to be modeled after the non profit organization Detroit Is My Home that they expanded into Ann Arbor</p>
-    <p> Objectives that need to be met by the logo: ​</p>
-    <ul>
-		<li>Specific to homelessness in Ann Arbor</li>
-	</ul>
-	<p> Client Ideas: ​</p>
-    <ul>
-		<li>Modeled after the University of Michigan</li>
-		<li>Map of Michigan</li>
-		<li>Map of Michigan</li>
-	</ul>
+<div style="display:none; max-width:1000px; font-family:Nunito;" id="MMModal">
+    <img src="mmcover-10.png" alt="" style="width:100%;">
+    </br>
+	</br>
+    <h1 class="text-center">Michigan Movement</h1>
+    <h4 class="text-center"> Empowering the homeless in Ann Arbor  </h4>
+
+    <p> <b>Role: </b> Branding Designer </br>
+    <b>Client: </b> Michigan Movement </br>
+    <b>Team: </b> Worked with the cofounders of Michigan Movement</p>
+    </br>
+    <h3 class="text-center"> Understanding the Problem </h3>
+    <h5> Client Goals </h5>
+    <p>Michigan is My Home is a student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
+    
+    <h3 class="text-center"> Ideate </h3>
+
+    <h3 class="text-center"> Design </h3>
+
+    <h3 class="text-center"> Implement </h3>
+
 </div>
 <!-- MSA Modal !-->
 <div style="display:none; max-width:1000px;" id="MSAModal"> 
+    <img src="msa_cover.png" alt="" style="width:100%;">
+	</br>
+	</br>
     <h1 class="text-center"> Muslim Students Association </h1>
     <h4 class="text-center"> The One Stop Shop for Muslims at University of Michigan </h4>
-    <p> <b>Role: </b> UI/UX designer & wordpress developer </p>
-    <p> <b>Client: </b> Muslim Students Association</p>
-    <p> <b>Team: </b> Worked closely with the MSA operations chair </p>
+    </br>
+    <p> <b>Role: </b> UI/UX designer & wordpress developer </br>
+    <b>Client: </b> Muslim Students Association </br>
+    <b>Team: </b> Worked closely with the MSA operations chair </p>
     </br>
     <h3 class="text-center"> Understanding the Problem </h3>
-	</br>
     <h5> Client Goals </h5>
     <p> The client aims to revamp their website to generate more traffic, make the organization easier to discover and interact with, have a more professional presence on campus, and make their resources more accessible for new students, existing members and the broader community.</p>
     </br>
@@ -251,15 +260,15 @@
 	<div class="row">
 		<div class="col text-center">
 			<img src="msa_old.png" alt="" style="width:100%;"> 
-			<p>MSA Landing Page</p>
+			<p>Landing Page</p>
 		</div>
 		<div class="col text-center"> 
 			<img src="msa_old1.png" alt="" style="width:100%;">  
-			<p>MSA Get In Touch Page</p>
+			<p>Get In Touch Page</p>
 		</div>
 		<div class="col text-center">
 			<img src="msa_old2.png" alt="" style="width:100%;"> 
-			<p>MSA What We're Up To Page</p>
+			<p>What We're Up To Page</p>
 		</div>
 	</div>
 
@@ -270,33 +279,38 @@
     <h3 class="text-center"> Research </h3>
     <h5> User Research </h5>
     <p>I developed an informal interview questionnaire to understand how users currently interact with MSA, what their needs and goals are and what they expect from MSA.</p>
-    <p> <i> insert questions here </i> </p>
+
+    <div class="row"> 
+		<div class="mx-auto d-block text-center">
+			<img src="MSA Interview Questions.png" alt="" style="width:40%;">
+		</div>
+    </div>
+	</br>
     <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones.</p>
     
     <h5> Personas </h5>
-    <ul>
-    	<li> Incoming Freshman Muslim Students </li>
-    	<li> Current Muslim Undergraduate Students </li>
-    	<li> Alumni </li>
-    	<li> Community Members </li>
-    </ul>
-
-    <h5> Use Cases </h5>
-    <ul>
-    	<li> Students are trying to find a Muslim roommate and housing </li>
-    	<li> Incoming freshman trying to find the Muslim community </li>
-    	<li> Alumni wanting to stay in the loop and give back </li>
-    	<li> Other student organizations want to collaborate and are wondering who and how to reach out to the MSA </li>
-    </ul>
+    <div class="row">
+		<div class="col text-center">
+			<img src="Personas-01.png" alt="" style="width:100%;"> 
+		</div>
+		<div class="col text-center"> 
+			<img src="Personas-02.png" alt="" style="width:100%;">  
+		</div>
+	</div>
+	<div class="row pt-1">
+		<div class="col text-center">
+			<img src="Personas-03.png" alt="" style="width:50%;"> 
+		</div>
+	</div>
 
     <h5> Sitemap </h5>
     <div class="row">
 		<div class="col text-center">
-			<img src="old_sitemap.png" alt="" style="width:100%;"> 
+			<img src="msa old sitemap.jpg" alt="" style="width:100%;"> 
 			<p>Old Sitemap</p>
 		</div>
 		<div class="col text-center"> 
-			<img src="new_sitemap.png" alt="" style="width:100%;">  
+			<img src="msa new sitemap.jpg" alt="" style="width:100%;">  
 			<p>New Sitemap</p>
 		</div>
 	</div>
@@ -307,23 +321,31 @@
     <h5> Wireframes </h5>
     <div class="row">
 		<div class="col text-center">
-			<img src="msa_wireframe.jpg" alt="" style="width:96%;"> 
+			<img src="msa_wireframe.jpg" alt="" style="width:100%;"> 
 		</div>
 		<div class="col text-center"> 
-			<img src="msa_wireframe1.jpg" alt="" style="width:100%;">  
+			<img src="msa_wireframe1.jpg" alt="" style="width:95%;">  
 		</div>
 	</div>
 	</br>
 	</br>
+    <h3 class="text-center"> Design </h3>
+
     <h5> Low Fidelity Mockup </h5>
+
+    <p> </p>
      <div class="row">
 		<div class="col text-center">
 			<img src="msa_lofi.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
     </br>
-    <h3 class="text-center"> Design </h3>
-    <h5> Interactice Prototype </h5>
+    <h5> Prototype </h5>
+     <div class="row">
+		<div class="col text-center">
+			<img src="msap.png" alt="" style="width:100%;"> 
+		</div>
+	</div>
     
     <h3 class="text-center"> Implement </h3>
     <h5> Development </h5>

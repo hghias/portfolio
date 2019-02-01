@@ -54,13 +54,13 @@
 	
 	<div class="row p-4" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center" id="parallax" >
 		<div class="col-6 p-4 UXtext">
-			<h1> ALLY EFFECTIVE</br>PHILANTHROPY WIDGET</h1>
+			<h1> MSA WEBSITE REHAUL</h1>
 			<h2> UX DESIGN </h2>
 			<a class="btn" id="uxbutton" href="design.php?filter=ux" role="button">See All Projects > </a>
 		</div>
 		<!--<div class="col-lg-6 p-4 UX_image_container" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="300" style="transform-style: preserve-3d">!-->
 		<div class="col-6">
-			<img class="uximg" src="home page mockups-01.png" alt="UXdesign"> 
+			<img class="uximg" src="msacover-07.png" alt="UXdesign"> 
 		</div>
 	</div>
 
