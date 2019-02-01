@@ -37,33 +37,70 @@
 		
 		<div class = "col-lg-4">
 
-			<div class="pb-4 painting">
+			<div class="project pb-4 painting">
 				<a class="" href="SummerTimeBlues.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="SummerTimeBlues.jpg" alt="" width="100%">	
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="SummerTimeBlues.jpg" alt="" width="100%">	
+		 				<div class='text-hover'>
+		 					<h2 class ="text-center"> Paani </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 painting">
+			<div class="project pb-4 painting">
 				<a class="" href="IMG_9957-Edit.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="IMG_9957-Edit.jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="img-fluid" src="IMG_9957-Edit.jpg" alt="" width="100%">
+						<div class='text-hover'>
+							<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="_DSC0782.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="_DSC0782.jpg" alt="" width="100%">
+
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="img-fluid" src="_DSC0782.jpg" alt="" width="100%">
+						<div class='text-hover'>
+							<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="arch.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="arch.jpg" alt="" width="100%">
+
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="img-fluid" src="arch.jpg" alt="" width="100%">
+						<div class='text-hover'>
+							<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 branding">
+			<div class="project pb-4 branding">
 				<a class="" href="box.jpg" data-fancybox="filter" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
 					<img class="img-fluid" src="box.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 			
@@ -71,67 +108,137 @@
 			
 	
 		<div class = "col-lg-4">
-			<div class="pb-4 threed">
+			<div class="project pb-4 threed">
 				<a class="" href="_DSC0931-Edit.jpg" data-fancybox="filter" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
 					<img class="mx-auto d-block" src="_DSC0931-Edit.jpg" alt="" width="100%">	
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 painting">
+			<div class="project pb-4 painting">
 				<a class="" href="colors.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="colors.jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="colors.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="IMG_4742.JPG" data-fancybox="filter" data-caption="caption">
-					<img class="mx-auto d-block" src="IMG_4742.JPG" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="mx-auto d-block" src="IMG_4742.JPG" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
 
-			<div class="pb-4 painting">
+			<div class="project pb-4 painting">
 				<a class="" href="IMG_0037.JPG" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="IMG_0037.JPG" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="IMG_0037.JPG" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
 		</div>
 
 		<div class = "col-lg-4">
-			<div class="pb-4 digital">
+			<div class="project pb-4 digital">
 				<a class="" href="Heart.png" data-fancybox="filter" data-caption="caption">
-					<img class="mx-auto d-block" src="Heart.png" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="mx-auto d-block" src="Heart.png" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="DSC_0464 (2).jpg" data-fancybox="filter" data-caption="caption">
-					<img class="mx-auto d-block" src="DSC_0464 (2).jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="mx-auto d-block" src="DSC_0464 (2).jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="Scan 4.png" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="Scan 4.png" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="Scan 4.png" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 threed">
+			<div class="project pb-4 threed">
 				<a class="" href="hands.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="hands.jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="hands.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 drawing">
+			<div class="project pb-4 drawing">
 				<a class="" href="_DSC0464.jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="_DSC0464.jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="_DSC0464.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 
-			<div class="pb-4 branding">
+			<div class="project pb-4 branding">
 				<a class="" href="DSC_0483 (3).jpg" data-fancybox="filter" data-caption="caption">
-					<img class="img-fluid" src="DSC_0483 (3).jpg" alt="" width="100%">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="img-fluid" src="DSC_0483 (3).jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Paani </h2>
+			 				<p class ="text-center mx-auto"> Case Study </p>
+		 				</div>
+	 				</div>
 				</a>
 			</div>
 

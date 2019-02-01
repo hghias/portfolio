@@ -33,17 +33,17 @@
 	</div>
 </div>
 !-->
-<div class="container-fluid ">
-	<div class="row pl-5 pr-5 mx-auto my-auto" data-aos="fade-up" data-aos-duration="1000">
+<div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
+	<div class="row pl-5 pr-5 mx-auto my-auto">
 		<div class="col-8 pl-5 about mx-auto my-auto">
 			<div class="pl-5"> 
-				<h2> Hi, I'm Hafsa! It's nice to meet you! </h2>
+				<h2> Hi, I'm Hafsa! </h2>
 				</br>
 				<h5 style= "line-height: 150%;">
-				&emsp; I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career pursuing software development, but have since fallen in love with the potential design has to change the world. Engineering makes things work, but design impacts if, how and why we use something. 
+				&emsp; I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career in software development, but changed the course of my path when I fell in love with design and its potential to change the world. Engineering makes things work, but design impacts if, how, and why we use something. 
 				</br>
 				</br>
-				&emsp; In all the projects that I pursue, I always try to answer: <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
+				&emsp; In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
 				</h5>
 				</br>
 				<a class="btn pn" id="designbutton" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>
@@ -58,15 +58,15 @@
 	<div class="row pl-5 pr-5">
 		<div class="col about pt-5 pl-5 pr-5">
 			<div class="pl-5 pr-5 ml-5 mr-5" >
-				<h2> Why is Design Important? </h2>
+				<h2> Design Philosophy </h2>
 				</br>
-				<h5 style= "line-height: 150%;">  &emsp; Design is everywhere around us. But the best products, physical or digital, are ones that you don’t realize have been designed, because they’re intuitive, inclusive and aesthetic.
-				</br>
-				</br>
-				&emsp; You use doors everyday. The act of opening and closing a door is a mundane one. And if it’s easy to use, you won’t notice it – a quality of good design. But if it’s too heavy to open or you’re not sure how to use it, you’ll notice it and comment on the poor design. Additionally, everyone has different needs that design has to cater to. What may be an easy door to use for able-bodied users may be a limitation for users in wheelchairs because there’s no handicap door opener. Understanding the target audience of your brand, website, app, or product and adapting your design so it’s inclusive and accessible to everyone is every designer’s responsibility.
+				<h5 style= "line-height: 150%;">  &emsp; Design is all around us. But the best products, physical or digital, are ones that you don’t realize have been designed, because they've been seamlessly integrated into our lives.
 				</br>
 				</br>
-				&emsp; I strive to achieve a sense of invisibility and inclusivity in my design by understanding the client’s goals and the user’s needs that I blend into simple, functional and aesthetic design. 
+				&emsp; Take the design of a door for instance. You use doors everyday. The act of opening and closing a door is a mundane one and is gone unnoticed if it’s intuitive – a quality of good design. However, if it’s too heavy to open or push or pull, the door becomes an obstacle and is considered poor design. Additionally, one must think about the different types of users for a given design as well. What may be an easy door for able-bodied users could serve as a difficulty for users in wheelchairs if there’s no handicap door opener. Understanding the target audience of your brand, digital interface, or product and adapting your design so it’s inclusive and accessible to everyone is every designer’s responsibility.
+				</br>
+				</br>
+				&emsp; (add something about social innovation) I strive to create intuitive, inclusive and simple design by understanding the client's goals and user's needs.  
 				</h5>
 			</div>
 		</div>
