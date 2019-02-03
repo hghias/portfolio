@@ -27,7 +27,7 @@
 			<a class="btn ui" id="designbutton" role="button" > UI/UX Design </a>
 			<a class="btn br" id="designbutton" role="button" > Branding Design </a>
 			<a class="btn pr" id="designbutton" role="button" > Product Design </a>
-			<a class="btn gr" id="designbutton" role="button" > Graphic Design </a>
+			<!-- <a class="btn gr" id="designbutton" role="button" > Graphic Design </a> !-->
 		</div>
 	</div>
 </div>
@@ -41,34 +41,21 @@
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> MSA Website Rehaul </h2>
+		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
 		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
 
-			<div class="project pb-3 product branding graphic"> <!-- SPARK !-->
-				<a href="Spark.pdf" data-fancybox="images" data-caption="caption">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Spark </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
 			
 			<div class="project pb-3 product"> <!-- BUDDY !-->
-				<a href="_DSC1267.jpg" data-fancybox="images" data-caption="caption">
+				<a data-options='{"src": "#buddyModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> The Buddy Bird </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
 				</a>
@@ -85,10 +72,49 @@
 					</div>
 				</a>
 			</div>
+
+			<div class="project pb-3 branding"> <!-- PERSONAL BRANDING !-->
+				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="hg.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Personal Branding </h2>
+	 					</div>
+					</div>
+				</a>
+			</div>
 		
 		</div>
 
 		<div class = "col-lg-4">
+
+			<div class="project pb-3 ux"> <!-- HAFSA !-->
+				<a href="HG Mockup Transparent.png" data-fancybox="images" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="hg.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 product branding graphic"> <!-- SPARK !-->
+				<a href="Spark.pdf" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Spark </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 			<div class="project pb-3 branding"> <!-- MICHIGAN MOVEMENT !-->
 				<a data-options='{"src": "#MMModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
@@ -103,7 +129,7 @@
 			</div>
 
 			<div class="project pb-3 product"> <!-- BLOCKS !-->
-				<a href="blocks.jpg" data-fancybox="images" data-caption="caption">
+				<a data-options='{"src": "#blockModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="blocks.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
@@ -114,13 +140,45 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 ux"> <!-- HAFSA !-->
-				<a href="HG Mockup Transparent.png" data-fancybox="images" data-caption="caption">
+			<div class="project pb-3 product"> <!-- Parking App !-->
+				<a data-options='{"src": "#blockModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="hg.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="blocks.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
+		 					<h2 class ="text-center"> Parking App </h2>
+	 					</div>
+					</div>
+				</a>
+			</div>
+			
+		</div>
+
+		<div class = "col-lg-4">
+
+
+			<div class="project pb-3 ux"> <!-- EFFECTIVE PHILANTHROPY !-->
+				<a href="Widget.png" data-fancybox="images" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Widget.png" alt="" style="background-color: #5e2960; padding-top:15px;">
+
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Effective Philanthropy Widget </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+					</div>
+				</a>
+				
+			</div>
+
+			<div class="project pb-3 branding"> <!-- REDEFINE !-->
+ 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+	 				<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Redefine </h2>
 		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
@@ -138,55 +196,48 @@
 					</div>
 				</a>
 			</div>
-		</div>
 
-		<div class = "col-lg-4">
+			
 
-			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 branding"> <!-- PERSONAL BRANDING !-->
-				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+			<div class="project pb-3 product"> <!-- Pentapod !-->
+				<a data-options='{"src": "#podModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="hg.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="22_GhiasH.jpg" alt="" style=" padding-top:15px;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Personal Branding </h2>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 ux"> <!-- EFFECTIVE PHILANTHROPY !-->
-				<a href="Widget.png" data-fancybox="images" data-caption="caption">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Widget.png" alt="" style="background-color: #5e2960; padding-top:15px;">
-
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Effective Philanthropy Widget </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<h2 class ="text-center"> Pentapod </h2>
 	 					</div>
 					</div>
 				</a>
 				
 			</div>
+
+
 			
 		</div>
 
 	</div>
 </div>
 <?php include ('footer.php');?>
+
+<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
+" id="buddyModal"> 
+	<img class="col-4" src="_DSC1298.jpg" alt="" style="width:50%;">
+	<img class="col-4" src="_DSC1267.jpg" alt="" style="width:50%;">
+</div>
+
+<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
+" id="blockModal"> 
+	<img class="col-4" src="blocks.jpg" alt="" style="width:80%;">
+	<img class="col-4" src="IMG_9889.jpg" alt="" style="width:80%;">
+</div>
+
+<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
+" id="podModal"> 
+	<img class="col-3" src="22_GhiasH.jpg" alt="" style="width:80%;">
+	<img class="col-3" src="20_GhiasH.jpg" alt="" style="width:82%;">
+	<img class="col-3" src="24_GhiasH.jpg" alt="" style="width:60%;">
+</div>
 
 <!-- Redefine Modal -->
 <div style="display:none; max-width:1000px;" id="RedefineModal"> 
@@ -257,7 +308,7 @@
     </br> We also mapped out the target audience: current MSA members, freshman and other Muslim students who are not currently a part of MSA, Alumni who want to give back, Donors and community members who want to learn more about, contact, or collaborate with the organization. 
 	</p>
 	
-	<div class="row">
+	<!--<div class="row">
 		<div class="col text-center">
 			<img src="msa_old.png" alt="" style="width:100%;"> 
 			<p>Landing Page</p>
@@ -270,6 +321,33 @@
 			<img src="msa_old2.png" alt="" style="width:100%;"> 
 			<p>What We're Up To Page</p>
 		</div>
+	</div> !-->
+
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="msa_old.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="msa_old1.png" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="msa_old2.png" alt="Third slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
 	</div>
 
     </br>
@@ -287,8 +365,9 @@
     </div>
 	</br>
     <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones.</p>
-    
+    </br>
     <h5> Personas </h5>
+
     <div class="row">
 		<div class="col text-center">
 			<img src="Personas-01.png" alt="" style="width:100%;"> 
@@ -297,13 +376,47 @@
 			<img src="Personas-02.png" alt="" style="width:100%;">  
 		</div>
 	</div>
-	<div class="row pt-1">
+	<div class="row pt-3">
 		<div class="col text-center">
-			<img src="Personas-03.png" alt="" style="width:50%;"> 
+			<img src="Personas-03.png" alt="" style="width:100%;"> 
+		</div>
+		<div class="col text-center">
+			<img src="Personas-04.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 
+	</br>
+
+
+	<h5> Visual Research</h5>
+
+	<p> Before designing the website, we did some research on how other MSA around the world organize and design their websites. </p>
+		<ul>
+			<li> http://msanational.org/ </li>
+				<ul>
+					<li> Initiatives tab </li>
+					<li> News Room </li>
+				</ul>
+
+			<li> https://www.msaohiostate.org/ </li>
+				<ul>
+					<li> Eye catching video on landing page </li>
+					<li> Pop up that prompts user to join listserve and text message alerts </li>
+					<li> Chatbot </li>
+				</ul>
+
+			<li> https://ouisoc.org/ </li>
+				<ul>
+					<li> They have all their most important information on the home page </li>
+					<li> One page scroll website </li>
+				</ul>
+		</ul>
+</br>
+
+<h3 class="text-center"> Ideate </h3>
     <h5> Sitemap </h5>
+    <p>The old MSA website had a sitemap that wasn’t intuitive - there were broken links, unnecessary pages and vague organization. We wanted the new website to have a less clunky navigation and to highlight our resources, how people can get involved, the msa community and an easy way to contact us.  At first we had a merch tab instead of a community one, but we realized that it was more important to share photos, highlight other students and the MSA community more than having a page dedicated to merchandise.
+</p>
     <div class="row">
 		<div class="col text-center">
 			<img src="msa old sitemap.jpg" alt="" style="width:100%;"> 
@@ -316,9 +429,9 @@
 	</div>
 
     </br>
-    <h3 class="text-center"> Ideate </h3>
     </br>
     <h5> Wireframes </h5>
+    <p>We wanted most of the information to be available on the home page with links to the other pages if the user wanted more information. </p>
     <div class="row">
 		<div class="col text-center">
 			<img src="msa_wireframe.jpg" alt="" style="width:100%;"> 
@@ -332,28 +445,55 @@
     <h3 class="text-center"> Design </h3>
 
     <h5> Low Fidelity Mockup </h5>
-
-    <p> </p>
+    <p>I developed a low fidelity mockup and created categories of the content based on the sitemap. Once these were designed, I sent them to the Operations Chair and she used this a guide to provide me with all the content I needed to develop a high fidelity mockup</p>
      <div class="row">
 		<div class="col text-center">
 			<img src="msa_lofi.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
+	<div class="row pt-3">
+		<div class="col text-center">
+			<img src="msa_content.png" alt="" style="width:50%;"> 
+		</div>
+	</div>
+
     </br>
     <h5> Prototype </h5>
+    <p>Once I had all the content, I worked with the Operations Chair to finalize a color scheme and fonts and then I created a high fidelity mockup and sent it to the Executive board for feedback and testing!</p>
+     <div class="row">
+		<div class="col text-center">
+			<img src="msa_styleguide.jpg" alt="" style="width:70%;"> 
+		</div>
+	</div>
      <div class="row">
 		<div class="col text-center">
 			<img src="msap.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
-    
+    </br>
     <h3 class="text-center"> Implement </h3>
     <h5> Development </h5>
-    
+    <p>I am currently working on developing the website in Wordpress. I am using the theme UnderStrap, a mobile first, responsive grid framework with Bootstrap 4 integration.</p>
+     <!-- <div class="row">
+		<div class="col text-center">
+			<video src="msa_oldwebsite.mov" width="320" height="240" autoplay> 
+				Sorry, your browser does not support this video player.
+			</video>
+			<p>Old Website</p>
+
+		</div>
+		<div class="col text-center">
+			<p>New Website</p>
+		</div>
+	</div> !-->
+
+    </br>
     <h3 class="text-center"> Evaluate </h3>
     <h5> Testing </h5>
+    <p>Once the website is developed, I plan to do usability testing with some users!</p>
     </br>
     <h5> Reflection </h5>
+    <p> This is the first time I’ve worked for a client to design and develop a website, so this was a great learning experience for me! The biggest challenge I faced was how to communicate technical terms to non-technical people. I learned that I could overcome that problem by explaining my process, what and why I am doing certain things like user research, wireframing, etc.., what I need from my client and where all that fits into the end product. Another challenge I faced was when I created the low fidelity mockup so that the client could fill out content, they didn’t completely understand how to website worked. In order to make it more clear, I could make an interactable mockup so it’s easier to understand how the website works.</p>
     
 </div>
 

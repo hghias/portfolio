@@ -12,9 +12,9 @@
 
 
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000" > 
-	<div class="row" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
-		<div class="col my-auto align-self-center">
-			<div class="mmb typed-wrap text-center">
+	<div class="row mmb" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
+		<div class="col align-self-center">
+			<div class="typed-wrap text-center">
 				<h1> Photography </h1>
 				<img class="camera" src="aperture-07.png" alt="">
 			</div>
@@ -56,7 +56,7 @@
 			<a class="btn ur" id="designbutton" role="button" > Urban </a>
 			<a class="btn na" id="designbutton" role="button" > Nature </a>
 			<a class="btn we" id="designbutton" role="button" > Wedding </a>
-			<a class="btn ev" id="designbutton" role="button" > Event </a>
+			<!-- <a class="btn ev" id="designbutton" role="button" > Event </a> !-->
 		</div>
 	</div>
 </div>
