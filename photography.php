@@ -11,8 +11,8 @@
 <!-- LANDING PAGE !-->
 
 
-<div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000" > 
-	<div class="row mmb" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
+<div class = "container-fluid mmb" data-aos="fade-down" data-aos-duration="1000" > 
+	<div class="row" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
 		<div class="col align-self-center">
 			<div class="typed-wrap text-center">
 				<h1> Photography </h1>

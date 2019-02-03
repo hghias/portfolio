@@ -13,21 +13,27 @@
 <div class = "container-fluid"> 
 	<div class="row ">  
 		<div class="col-4 my-auto landing_page_Hafsa">
-			<h1> HAFSA </h1>
+			<div class="an">
+				<h1> HAFSA </h1>
+			</div>
+			<div class="hide">
+				<h1> GHIAS </h1>
+			</div>
 		</div>
 		<div class="col-4 my-auto landing_page_lion" id="parallax" data-speed="0.1" >
  
 
 			<div class="logo_lion_container" data-speed="0.05">
-				<img class="img-fluid logo_lion_image" src="Hafsa Logo-13.png" alt="lion logo">
+				<img class="logo_lion_image" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 			
 			<div class="logo_lion_shadow_container" data-speed="0.02">
-				<img class="img-fluid logo_lion_shadow" src="Hafsa Logo-13.png" alt="lion logo">
+				<img class=" logo_lion_shadow" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 		</div>
 		<div class="col-4 my-auto landing_page_Ghias h-100">
 			<h1> GHIAS </h1>
+
 		</div>
 	</div>
 

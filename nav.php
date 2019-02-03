@@ -1,7 +1,7 @@
 <!-- HEADER !--> 
 <nav class="navbar navbar-expand-md">
-	<a class="navbar-brand col-4" href="index.php"> 
-		<img id="logohome" class= "img-fluid purplelion" src="Hafsa Logo-15.png" alt="logo" > 
+	<a class="navbar-brand col" href="index.php"> 
+		<img id="logohome" class= "purplelion" src="Hafsa Logo-15.png" alt="logo" > 
 	</a>
 
 	<!-- Toggler/collapsibe Button -->
