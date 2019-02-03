@@ -23,7 +23,7 @@
 			</div>
 			
 			<div class="logo_lion_shadow_container" data-speed="0.02">
-				<img class="img-fluid logo_lion_shadow" src="logolion.png" alt="lion logo">
+				<img class="img-fluid logo_lion_shadow" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 		</div>
 		<div class="col-4 my-auto landing_page_Ghias h-100">
