@@ -294,12 +294,12 @@
     <h4 class="text-center"> The One Stop Shop for Muslims at University of Michigan </h4>
     </br>
     <p> <b>Role: </b> UI/UX designer & wordpress developer </br>
-    <b>Team: </b> Worked closely with the MSA operations chair 
+    <b>Team: </b> Worked closely with the MSA operations chair </br>
 	<b>Project: </b> Redesign the student organization's website </br>
 	<b>Time: </b> Oct 2018 - present </br></p>
     </br>
     <h3 class="text-center"> The Challenge </h3>
-    <p>Currently, MSA uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been able to reach the same people over and over again. Additionally, although MSA has many resources available for Muslim students, they don’t have an organized, public place where anyone can access them - only those who know about them can utilize them. The challenge is to redesign the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
+    <p> Muslim Students Association is a student organization at the University of Michigan that aims to serve the Muslim community of campus through religious programming, community building and service. MSA primarily uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been reaching the same people over and over again. Additionally, MSA has many resources available for Muslim students, but they aren't in an organized, public place where anyone can access them - only those who know about them use them. They approached me about redesigning the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
 
 
     <h3 class="text-center"> Understanding the Problem </h3>
