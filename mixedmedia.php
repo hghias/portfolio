@@ -141,7 +141,7 @@
 		 				<div class="overlay"></div>
 		 				<img class="img-fluid" src="colors.jpg" alt="" width="100%">
 					<div class='text-hover'>
-						<h2 class ="text-center"> Lucid Deam </h2>
+						<h2 class ="text-center"> Lucid Dream </h2>
 			 				<p class ="text-center mx-auto"> Acrylic & Micropen, 11 x 14 </p>
 		 				</div>
 	 				</div>
@@ -288,7 +288,6 @@
 </div>
 <?php include ('footer.php');?>
 
-<!-- Redefine Modal -->
 <div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);
 " id="WingsModal"> 
 	<img class="col-3" src="_DSC0931-Edit.jpg" alt="" style="width:50%;">

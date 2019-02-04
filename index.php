@@ -16,7 +16,7 @@
 			<div class="an">
 				<h1> HAFSA </h1>
 			</div>
-			<div class="hide">
+			<div class="hide an">
 				<h1> GHIAS </h1>
 			</div>
 		</div>

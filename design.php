@@ -62,10 +62,10 @@
 			</div>
 
 			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
-				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="msa.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="parkingapp-18.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
 	 					</div>
@@ -74,7 +74,7 @@
 			</div>
 
 			<div class="project pb-3 branding"> <!-- PERSONAL BRANDING !-->
-				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="hg.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
@@ -90,10 +90,10 @@
 		<div class = "col-lg-4">
 
 			<div class="project pb-3 ux"> <!-- HAFSA !-->
-				<a href="HG Mockup Transparent.png" data-fancybox="images" data-caption="caption">
+				<a data-options='{"src": "#HafsaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="hg.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="portfolio-18.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
 		 					<p class ="text-center mx-auto"> Case Study </p>
@@ -141,10 +141,10 @@
 			</div>
 
 			<div class="project pb-3 product"> <!-- Parking App !-->
-				<a data-options='{"src": "#blockModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-options='{"src": "#parkingModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="blocks.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="parkingapp-18.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Parking App </h2>
 	 					</div>
@@ -222,21 +222,21 @@
 
 <div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
 " id="buddyModal"> 
-	<img class="col-4" src="_DSC1298.jpg" alt="" style="width:50%;">
-	<img class="col-4" src="_DSC1267.jpg" alt="" style="width:50%;">
+	<img class="col-lg-4 pt-2" src="_DSC1298.jpg" alt="" style="width:50%;">
+	<img class="col-lg-4 pt-2" src="_DSC1267.jpg" alt="" style="width:50%;">
 </div>
 
 <div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
 " id="blockModal"> 
-	<img class="col-4" src="blocks.jpg" alt="" style="width:80%;">
-	<img class="col-4" src="IMG_9889.jpg" alt="" style="width:80%;">
+	<img class="col-lg-4 pt-2" src="blocks.jpg" alt="" style="width:80%;">
+	<img class="col-lg-4 pt-2" src="IMG_9889.jpg" alt="" style="width:80%;">
 </div>
 
 <div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
 " id="podModal"> 
-	<img class="col-3" src="22_GhiasH.jpg" alt="" style="width:80%;">
-	<img class="col-3" src="20_GhiasH.jpg" alt="" style="width:82%;">
-	<img class="col-3" src="24_GhiasH.jpg" alt="" style="width:60%;">
+	<img class="col-lg-3 pt-2" src="22_GhiasH.jpg" alt="" style="width:80%;">
+	<img class="col-lg-3 pt-2" src="20_GhiasH.jpg" alt="" style="width:82%;">
+	<img class="col-lg-3 pt-2" src="24_GhiasH.jpg" alt="" style="width:60%;">
 </div>
 
 <!-- Redefine Modal -->
@@ -294,15 +294,20 @@
     <h4 class="text-center"> The One Stop Shop for Muslims at University of Michigan </h4>
     </br>
     <p> <b>Role: </b> UI/UX designer & wordpress developer </br>
-    <b>Client: </b> Muslim Students Association </br>
-    <b>Team: </b> Worked closely with the MSA operations chair </p>
+    <b>Team: </b> Worked closely with the MSA operations chair 
+	<b>Project: </b> Redesign the student organization's website </br>
+	<b>Time: </b> Oct 2018 - present </br></p>
     </br>
+    <h3 class="text-center"> The Challenge </h3>
+    <p>Currently, MSA uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been able to reach the same people over and over again. Additionally, although MSA has many resources available for Muslim students, they don’t have an organized, public place where anyone can access them - only those who know about them can utilize them. The challenge is to redesign the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
+
+
     <h3 class="text-center"> Understanding the Problem </h3>
     <h5> Client Goals </h5>
     <p> The client aims to revamp their website to generate more traffic, make the organization easier to discover and interact with, have a more professional presence on campus, and make their resources more accessible for new students, existing members and the broader community.</p>
     </br>
 
-    <h5> Stakeholders Meeting </h5>
+    <h5> Stakeholder Interviews </h5>
     <p> To define the business requirements, I met with the MSA executive board and talked about who the target audience is, what they liked about the current website: content wise, organization wise and look & feel and what they thought was missing from the current website. 
     </br> Many of the board members felt that the website feels very somber and wanted to add more bright colors and photos of the community. MSA also has many resources, but they don’t do a good job sharing it with students. Some suggestions were to add the campus resource guide, a weekly calendar of events, and other resources onto the website to make it more accessible. Members also felt that the website needed a more prominently displayed mission statement, an easy way for people to donate to the organization and to make contacting the board and joining the MSA listservs more accessible. 
     </br> We also mapped out the target audience: current MSA members, freshman and other Muslim students who are not currently a part of MSA, Alumni who want to give back, Donors and community members who want to learn more about, contact, or collaborate with the organization. 
@@ -351,11 +356,10 @@
 	</div>
 
     </br>
-    <h5> The Challenge </h5>
-    <p>Currently, MSA uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been able to reach the same people over and over again. Additionally, although MSA has many resources available for Muslim students, they don’t have an organized, public place where anyone can access them - only those who know about them can utilize them. The challenge is to redesign the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
+    
     
     <h3 class="text-center"> Research </h3>
-    <h5> User Research </h5>
+    <h5> User Interviews & Surveys </h5>
     <p>I developed an informal interview questionnaire to understand how users currently interact with MSA, what their needs and goals are and what they expect from MSA.</p>
 
     <div class="row"> 
@@ -387,8 +391,7 @@
 
 	</br>
 
-
-	<h5> Visual Research</h5>
+	<h5> Comparative Analysis </h5>
 
 	<p> Before designing the website, we did some research on how other MSA around the world organize and design their websites. </p>
 		<ul>
@@ -412,6 +415,19 @@
 				</ul>
 		</ul>
 </br>
+
+<h5> Requirements List </h5>
+<p> Based off of the stakeholders meeting, user research and comparative analysis, the executive board and I defined a list of usability and design requirements for the website.  </p>
+<ul>
+	<li> Bright colors & more icons & visuals </li>
+	<li>Anonymous suggestion box </li>
+	<li>Merchandise store that links user to google ordering form </li>
+	<li> A list of ways students can get involved with MSA as a member </li>
+	<li> Clearly defined resources for Muslims </li>
+	<li> Campus Guide available as a downloadable pdf </li>
+	<li> Public Calendar with upcoming community events </li>
+</ul>
+
 
 <h3 class="text-center"> Ideate </h3>
     <h5> Sitemap </h5>
@@ -451,20 +467,24 @@
 			<img src="msa_lofi.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
-	<div class="row pt-3">
+	<!-- <div class="row pt-3">
 		<div class="col text-center">
 			<img src="msa_content.png" alt="" style="width:50%;"> 
 		</div>
-	</div>
+	</div> !-->
 
     </br>
-    <h5> Prototype </h5>
-    <p>Once I had all the content, I worked with the Operations Chair to finalize a color scheme and fonts and then I created a high fidelity mockup and sent it to the Executive board for feedback and testing!</p>
+    <h5> Style Guide </h5>
+    <p>Once I had all the content, I worked with the Operations Chair to finalize a color scheme and fonts! </p>
+  
      <div class="row">
 		<div class="col text-center">
 			<img src="msa_styleguide.jpg" alt="" style="width:70%;"> 
 		</div>
 	</div>
+
+	<h5> Prototype </h5>
+	<p> I created a high fidelity mockup and sent it to the Executive board for feedback and testing!</p>
      <div class="row">
 		<div class="col text-center">
 			<img src="msap.png" alt="" style="width:100%;"> 
@@ -473,7 +493,7 @@
     </br>
     <h3 class="text-center"> Implement </h3>
     <h5> Development </h5>
-    <p>I am currently working on developing the website in Wordpress. I am using the theme UnderStrap, a mobile first, responsive grid framework with Bootstrap 4 integration.</p>
+    <p>I am currently working on developing the website in Wordpress. I am using the theme UnderStrap, a mobile first, responsive grid framework with Bootstrap 4 integration that allows me to create my own user interface! </p>
      <!-- <div class="row">
 		<div class="col text-center">
 			<video src="msa_oldwebsite.mov" width="320" height="240" autoplay> 
@@ -493,9 +513,178 @@
     <p>Once the website is developed, I plan to do usability testing with some users!</p>
     </br>
     <h5> Reflection </h5>
-    <p> This is the first time I’ve worked for a client to design and develop a website, so this was a great learning experience for me! The biggest challenge I faced was how to communicate technical terms to non-technical people. I learned that I could overcome that problem by explaining my process, what and why I am doing certain things like user research, wireframing, etc.., what I need from my client and where all that fits into the end product. Another challenge I faced was when I created the low fidelity mockup so that the client could fill out content, they didn’t completely understand how to website worked. In order to make it more clear, I could make an interactable mockup so it’s easier to understand how the website works.</p>
+    <p> This is the first time I’ve worked for a client to design and develop a website, so this was a great learning experience for me! The biggest challenge I faced was how to communicate technical terms to non-technical people. I learned that I could overcome this by explaining my design & development process, what I need from my client (like content and feedback), what and why I am doing certain things (like user research, wireframing, etc...), and where all that fits into the end product. 
+    </p>
+    <p>Another challenge I faced was when I created the low fidelity mockup so that the client could provide me with the content, they didn’t completely understand the interaction in the website. For example it wasn’t clear that some information on the homepage were collapsible. In order to make it more clear, I could have made an interactable mockup so it’s easier to understand how the website works.</p>
     
 </div>
+
+<!--Portfolio !--> 
+<div style="display:none; max-width:1000px;" id="HafsaModal"> 
+<img src="portfolio_cover.png" alt="" style="width:100%;">
+	</br>
+	</br>
+    <h1 class="text-center"> Portfolio Overhaul </h1>
+    </br>
+    <p> <b>Role: </b> UX designer & Front end developer </br>
+    <b>Project: </b> Redesign & development of personal portfolio </br>
+    <b>Time: </b> Sept 2018 - Feb 2019 </p>
+    </br>
+
+     <h3 class="text-center"> Understand the Problem </h3>
+     <p>I created my old portfolio website many years ago using a website builder - it’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. </p>
+
+     <h3 class="text-center"> Research </h3>
+     <h5> Comparative Analysis </h5>
+     <p>I researched other UX portfolios to gain inspiration for my layout, content organization and visuals.</p>
+     <ul>
+			<li> http://alexbrackett.com/</li>
+				<ul>
+					<li> Parallax scrolling </li>
+					<li> Eye catching portfolio collage </li>
+				</ul>
+
+			<li> https://toyfight.co/ </li>
+				<ul>
+					<li> Mousemove Parallax effect </li>
+					<li> Bright colors and 3D images</li>
+				</ul>
+
+			<li> http://qaisar.design/ </li>
+				<ul>
+					<li> Eye catching portfolio mockups </li>
+					<li> Chatbot </li>
+					<li>Parallax scrolling & transitions</li>
+				</ul>
+			<li>  http://valaire.mu/ </li>
+				<ul>
+					<li> Sideways scroll gallery </li>
+					<li> Eye-catching colors & typography </li>
+				</ul>
+	</ul>
+
+	<h5> Requirements List </h5>
+	<p> Based on my research, I defined a list of usability and design requirements for the website.  </p>
+	<ul>
+		<li> Bright colors & gradients </li>
+		<li> Animations & transitions </li>
+		<li> Filters for images </li>
+		<ul>
+			<li> Filter by mediums for mixed media tab </li>
+			<li> Filters for photography include: portraits, nature, urban and weddings </li>
+		</ul>
+		<li> Infinite scroll </li>
+		<li> Ability for clients to download their photos </li>
+	</ul>
+
+	<h3 class="text-center"> Ideate </h3>
+    <h5> Sitemap </h5>
+    
+    <div class="row">
+		<div class="col text-center">
+			<img src="Portfolio_Old Sitemap.jpg" alt="" style="width:100%;"> 
+			<p>Old Sitemap</p>
+		</div>
+		<div class="col text-center"> 
+			<img src="Portfolio_New Sitemap.jpg" alt="" style="width:100%;">  
+			<p>New Sitemap</p>
+		</div>
+	</div>
+
+    </br>
+    </br>
+    <h5> Wireframes </h5>
+    <p>I wanted to make my landing page visually interesting and interactable. For the the pages with my work, there would be a gallery, with links to a modal with more information about my projects. </p>
+    <div class="row">
+    	<div class="col">
+			<img src="portfolio_wireframe0.jpg" alt="" style="width:100%;">
+    	</div>
+    </div>
+    <div class="row pt-3">
+		<div class="col text-center">
+			<img src="portfolio_wireframe2.jpg" alt="" style="width:100%;"> 
+		</div>
+		<div class="col text-center"> 
+			<img src="portfolio_wireframe.jpg" alt="" style="width:100%;">  
+		</div>
+	</div>
+	</br>
+	</br>
+    <h3 class="text-center"> Design </h3>
+
+    <h5> Low Fidelity Mockup </h5>
+    <p>I developed a low fidelity mockup so I could start coding the framework of my website </p>
+    <div class="row">
+		<div class="col text-center">
+			<img src="Portfolio_Lofi Mockup.png" alt="" style="width:80%;"> 
+		</div>
+	</div>
+	</br>
+	</br>
+	<div class="row">
+		<div class="col text-center">
+			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:80%;"> 
+		</div>
+	</div>
+	</br>
+	<h5> First Iteration </h5>
+	 <div class="row">
+		<div class="col text-center">
+			<img src="hifi1.png" alt="" style="width:100%;"> 
+		</div>
+	</div>
+	</br>
+	<h5> Second Iteration </h5>
+	 <div class="row">
+		<div class="col-8 text-center">
+			<img src="hifi2.png" alt="" style="width:100%;"> 
+		</div>
+		<div class="col text-center">
+			<img src="hifi_mobile.png" alt="" style="width:78%;"> 
+		</div>
+	</div>
+	</br>
+	<h3 class="text-center"> Implement </h3>
+
+    <h5> Development </h5>
+</br>
+
+    <h3 class="text-center"> Evaluate </h3>
+
+    <h5> Usability Testing </h5>
+</div>
+
+<div style="display:none; max-width:1000px;" id="parkingModal"> 
+	<h1 class="text-center"> Ann Arbor Parking App </h1>
+	<h4 class="text-center"> Never struggle to find parking ever again</h4>
+    </br>
+    <p> <b>Role: </b> UX designer </br>
+    <b>Project: </b> Develop a design project with IOT for the class Entr 390: Entrepreneurial Design </br> </p>
+    </br>
+
+     <h3 class="text-center"> Understand the Problem </h3>
+     <h5> Design Challenge </h5>
+     <p>Ann Arbor is physically very small, but there are a lot of people, attractions and a whole university packed in the city. This means traffic is fairly bad and parking in downtown is a pain. There are many lots, street parking and parking structures sprinkled throughout campus, some popular, while others aren’t as widely known or accessible.</p>
+
+     <p>I aim to develop an app with IOT integration that makes parking more efficient for visitors. A presence/proximity detection sensor at each parking spot will keep track of which spots are empty, saving users around 15 - 30 mins that is spent looking for parking and paying. This app will map out all the options close to you and will not only tell you if a structure/lot is full or not, but will also tell you the specific spots that are taken or empty. Currently many structures have a counter at the entrance, but you still have to drive around looking for an empty spot. The app will make it possible to reserve a spot in advance or make a long term rental. Users will be able to pay online and save their data for easy checkout. Statistics about  how busy the city and structures are depending on the day and time will also be provided.  </p>	
+     <p>This project started as an assignment where we were tasked to sketch designs with the 10 plus 10 method detailed in the book Sketching User Experiences.</p>
+
+     <div class="row">
+		<div class="col text-center">
+			<embed src="IOT Project Ideas.pdf" style="width:100%; height:100%"/>
+			
+		</div>
+	</div>
+
+<div style="display:none; max-width:1000px;" id="optModal"> 
+	<h1 class="text-center"> Coming Soon </h1>	
+</div>
+
+
+
+
+</div>
+
 
 <script>    
 	$(function(){
