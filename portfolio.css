@@ -23,6 +23,9 @@ html {
     .landing_page_Hafsa .hide { display:block; }
     .landing_page_Ghias {display:none;}
     .camera {bottom: -1em;}
+
+    .logo_lion_container {max-width:70vw;} 
+    .logo_lion_shadow_container { max-width:70vw;}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -172,6 +175,7 @@ button:focus {
 	justify-content: center;
 	position: absolute;
 	z-index: 0;
+	overflow: hidden;
 }
 
 .logo_lion_image { 
@@ -182,6 +186,7 @@ button:focus {
 .logo_lion_shadow_container {
 	justify-content: center;
 	/*position: absolute; */
+	overflow: hidden;
 	position: relative;
 	top: 10;
 	right: 5;
@@ -190,8 +195,9 @@ button:focus {
 }
 
 .logo_lion_shadow { 
-	height: 630px;
+	height: 80vh;
 	opacity: 0.15;
+	
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
 	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
