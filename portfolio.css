@@ -26,6 +26,8 @@ html {
 
     .logo_lion_container {max-width:70vw;} 
     .logo_lion_shadow_container { max-width:70vw;}
+    .logo_lion_image { height: 60vh;}
+    .logo_lion_shadow {height: 60vh; }
 }
 
 /* Small devices (landscape phones, 576px and up) */
