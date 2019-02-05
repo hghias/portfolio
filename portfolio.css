@@ -181,7 +181,7 @@ button:focus {
 }
 
 .logo_lion_image { 
-	height: 80vh;
+	height: 75vh;
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
 }
 
@@ -197,7 +197,7 @@ button:focus {
 }
 
 .logo_lion_shadow { 
-	height: 80vh;
+	height: 75vh;
 	opacity: 0.15;
 	
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
