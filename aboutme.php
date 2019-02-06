@@ -60,7 +60,7 @@
 			<div class="pl-5 pr-5 ml-5 mr-5" >
 				<h2> Design Philosophy </h2>
 				</br>
-				<h5 style= "line-height: 150%;">  &emsp; Design is all around us. But the best products, physical or digital, are ones that you don’t realize have been designed, because they've been seamlessly integrated into our lives.
+				<h5 style= "line-height: 150%;">Design is all around us. But the best products, physical or digital, are ones that you don’t realize have been designed, because they've been seamlessly integrated into our lives.
 				</br>
 				</br>
 				Take the design of a door for instance. You use doors everyday. The act of opening and closing a door is a mundane one and is gone unnoticed if it’s intuitive – a quality of good design. However, if it’s too heavy to open or push or pull, the door becomes an obstacle and is considered poor design. Additionally, one must think about the different types of users for a given design as well. What may be an easy door for able-bodied users could serve as a difficulty for users in wheelchairs if there’s no handicap door opener. Understanding the target audience of your brand, digital interface, or product and adapting your design so it’s inclusive and accessible to everyone is every designer’s responsibility.
@@ -80,7 +80,7 @@
 				<h5 style= "line-height: 150%;">  
 				
 				</h5>
-				<img src="DesignProcess-25.png" alt="" style="width:100%;">
+				<img src="DesignProcess-25.png" alt="" style="width:50%;">
 			</div>
 		</div>
 	</div>

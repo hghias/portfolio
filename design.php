@@ -74,7 +74,7 @@
 			</div>
 
 			<div class="project pb-3 branding"> <!-- PERSONAL BRANDING !-->
-				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-options='{"src": "#personalbrandingModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="hg.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
@@ -368,7 +368,7 @@
 		</div>
     </div>
 	</br>
-    <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones.</p>
+    <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones. </br> Based on these responses, the website design should be intuitive so it’s easy to click through to see what the website offers and should be mobile first design. It should also have a frequently updated events calendar and resources should be easily accessible.</p>
     </br>
     <h5> Personas </h5>
 
@@ -394,31 +394,19 @@
 	<h5> Comparative Analysis </h5>
 
 	<p> Before designing the website, we did some research on how other MSA around the world organize and design their websites. </p>
-		<ul>
-			<li> http://msanational.org/ </li>
-				<ul>
-					<li> Initiatives tab </li>
-					<li> News Room </li>
-				</ul>
+	<div class="col text-center">
+			<img src="MSA_comparativeanlaysis.png" alt="" style="width:100%;"> 
+		</div>
 
-			<li> https://www.msaohiostate.org/ </li>
-				<ul>
-					<li> Eye catching video on landing page </li>
-					<li> Pop up that prompts user to join listserve and text message alerts </li>
-					<li> Chatbot </li>
-				</ul>
-
-			<li> https://ouisoc.org/ </li>
-				<ul>
-					<li> They have all their most important information on the home page </li>
-					<li> One page scroll website </li>
-				</ul>
-		</ul>
+	<p>The comparative analysis showed us that it’s very important to have a small, intuitive information architecture. Many of the websites we looked at had a large sitemap that was very overwhelming. Additionally, we thought the oxford MSA had the best home page because it summarized all the information provided in the tabs and had links for users to read more if they wanted to. The OSU MSA has a very streamlined design, with a chatbot and a pop up that prompts users to join listserv. We though both these very really great ways to interact with the users and show that the MSA is very accessibile.</p>
+		
 </br>
 
 <h5> Requirements List </h5>
 <p> Based off of the stakeholders meeting, user research and comparative analysis, the executive board and I defined a list of usability and design requirements for the website.  </p>
 <ul>
+	<li> Wordpress website </li>
+	<li> Responsive and mobile first design </li>
 	<li> Bright colors & more icons & visuals </li>
 	<li>Anonymous suggestion box </li>
 	<li>Merchandise store that links user to google ordering form </li>
@@ -677,7 +665,21 @@
 	</div>
 
 <div style="display:none; max-width:1000px;" id="optModal"> 
-	<h1 class="text-center"> Coming Soon </h1>	
+	
+	<h1 class="text-center">optiMize Branding Consultant</h1>
+
+    <p> <b>Role: </b> Branding Designer & Consultant </br>
+    <b>Project: </b>Develop brands for multiple organizations going through the social innovation challenge that optiMize hosts every year </br>
+    <b>Client: </b> Social Innovation Challenge teams  </br>
+    <b>Time: </b> Sept 2018 - Present </p>
+    </br>
+
+    <h3 class="text-center"> The Challenge </h3>
+
+    <h3 class="text-center"> Understanding the Problem </h3>
+    <h5> Branding Brief </h5>
+
+
 </div>
 
 

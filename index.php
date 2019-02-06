@@ -31,7 +31,7 @@
 				<img class=" logo_lion_shadow" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 		</div>
-		<div class="col-4 my-auto landing_page_Ghias h-100">
+		<div class="col-4 pl-5 my-auto landing_page_Ghias h-100">
 			<h1> GHIAS </h1>
 
 		</div>
@@ -49,7 +49,7 @@
 		<div class="col pb-3 about text-center">
 			<h1> Welcome! </h1>
 			</br>
-			<h2> I’m a user experience designer </br> with a passion for social innovation. </h2>
+			<h2> I’m a user experience designer who aims to use design   </br> as a tool to foster inclusivity & create equal opportunity. </h2>
 			</br>
 			<p> Scroll to see my projects! </p>
 		</div>

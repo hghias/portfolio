@@ -14,7 +14,7 @@
 <div class = "container-fluid mmb" data-aos="fade-down" data-aos-duration="1000" > 
 	<div class="row" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
 		<div class="col align-self-center">
-			<div class="typed-wrap text-center">
+			<div class="typed-wrap text-center d-flex justify-content-center align-items-center">
 				<h1> Photography </h1>
 				<img class="camera" src="aperture-07.png" alt="">
 			</div>

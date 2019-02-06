@@ -22,13 +22,12 @@ html {
 
     .landing_page_Hafsa .hide { display:block; }
     .landing_page_Ghias {display:none;}
-    .camera {bottom: -1em;}
 
-    .logo_lion_container {max-width:70vw;} 
-    .logo_lion_shadow_container { max-width:70vw;}
-    .logo_lion_image { height: 60vh;}
-    .logo_lion_shadow {height: 60vh; }
-}
+    .logo_lion_container {max-width:60vw;} 
+    .logo_lion_shadow_container { max-width:60vw; overflow: hidden; }
+    .logo_lion_image { height: 50vh;}
+    .logo_lion_shadow {height: 50vh; }
+ }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
@@ -37,7 +36,6 @@ html {
     }
     .landing_page_Hafsa .hide { display:block; }
     .landing_page_Ghias {display:none;}
-    .camera {bottom: -5.5em;}
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -47,7 +45,6 @@ html {
     }
     .landing_page_Hafsa .hide { display:block; }
     .landing_page_Ghias {display:none;}
-    .camera {bottom: -5.5em;}
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -58,7 +55,6 @@ html {
 
     .landing_page_Hafsa .hide { display:none; }
     .landing_page_Ghias {display:block;}
-    .camera {bottom: -5.5em;}
 }
 
 /* Extra large devices (large desktops, 1200px and up)
@@ -181,14 +177,14 @@ button:focus {
 }
 
 .logo_lion_image { 
-	height: 75vh;
+	height: 80vh;
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
 }
 
 .logo_lion_shadow_container {
 	justify-content: center;
 	/*position: absolute; */
-	overflow: hidden;
+	/*overflow: hidden; */
 	position: relative;
 	top: 10;
 	right: 5;
@@ -197,7 +193,7 @@ button:focus {
 }
 
 .logo_lion_shadow { 
-	height: 75vh;
+	height: 80vh;
 	opacity: 0.15;
 	
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
@@ -659,10 +655,11 @@ height:auto; }
 }
 
 .mmlanding {
+
 	width:30%;
 	position:absolute;
-	left:570px;
-	bottom:100px; 
+	/*left:570px;
+	bottom:100px; */
 	z-index:-5;
 	opacity:50%;
 }
@@ -678,8 +675,8 @@ height:auto; }
 	opacity:0.25;
 	/*top:-120px;
 	left:645px;*/
-	bottom: -5.5em;
-	left:40%;
+	/*bottom: -5.5em;
+	left:40%;*/
 	animation: rotate-btn 10s linear 3;
   	-webkit-animation: rotate-btn 10s linear 3;
 }

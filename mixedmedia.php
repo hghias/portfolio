@@ -12,7 +12,7 @@
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
 		<div class ="mmb col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%; " >
-			<div class="typed-wrap text-center">
+			<div class="typed-wrap text-center d-flex justify-content-center align-items-center">
 				<h1> Mixed Media </h1>
  				<img class="mmlanding" src="fff.png" alt="">
  			</div>
