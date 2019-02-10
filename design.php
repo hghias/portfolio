@@ -300,8 +300,7 @@
     </br>
     <h3 class="text-center"> The Challenge </h3>
     <p> Muslim Students Association is a student organization at the University of Michigan that aims to serve the Muslim community of campus through religious programming, community building and service. MSA primarily uses social media to reach students about their events. However because MSA members are sharing events and flyers on their own pages, they’ve only been reaching the same people over and over again. Additionally, MSA has many resources available for Muslim students, but they aren't in an organized, public place where anyone can access them - only those who know about them use them. They approached me about redesigning the website to increase the organization’s visibility by making it easier for people outside the U of M MSA community to find and contact the organization, access their resources and meet with other Muslims on campus. </p>
-
-
+	</br>
     <h3 class="text-center"> Understanding the Problem </h3>
     <h5> Client Goals </h5>
     <p> The client aims to revamp their website to generate more traffic, make the organization easier to discover and interact with, have a more professional presence on campus, and make their resources more accessible for new students, existing members and the broader community.</p>
@@ -359,14 +358,61 @@
     
     
     <h3 class="text-center"> Research </h3>
+    <h5> Field Studies </h5>
+    <p>I’ve been a part of MSA as a member for the four years I’ve been on campus and I’ve noticed that MSA is a hard community to find if you’re not on social media. We share all of our events and information through Facebook, however Facebook is losing popularity with the younger generation, so MSA needs to find other ways to reach out to the MSA community. That being said, we do get asked a lot of questions by prospective students and community members through Facebook messenger. Most of the questions are about resources, like where the housing list is, and about how they can reach out to the executive board. This shows that the website needs to clearly display our resources and contact us information.</p>
+     </br>
     <h5> User Interviews & Surveys </h5>
     <p>I developed an informal interview questionnaire to understand how users currently interact with MSA, what their needs and goals are and what they expect from MSA.</p>
-
+	</br>
     <div class="row"> 
-		<div class="mx-auto d-block text-center">
-			<img src="MSA Interview Questions.png" alt="" style="width:40%;">
+    	<div id="carousel2" class="carousel slide col-6" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel2" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel2" data-slide-to="1"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="MSA Interview Questions.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="MSA Interview Questions1.png" alt="Second slide">
+			</div>
 		</div>
+		<a class="carousel-control-prev" href="#carousel2" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel2" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		</div>
+		
+		<div id="carousel3" class="carousel slide col-6" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel3" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel3" data-slide-to="1"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="MSA Interview Questions.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="MSA Interview Questions1.png" alt="Second slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carousel3" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel3" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		</div>
+		
     </div>
+
 	</br>
     <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones. </br> Based on these responses, the website design should be intuitive so it’s easy to click through to see what the website offers and should be mobile first design. It should also have a frequently updated events calendar and resources should be easily accessible.</p>
     </br>
@@ -398,6 +444,7 @@
 			<img src="MSA_comparativeanlaysis.png" alt="" style="width:100%;"> 
 		</div>
 
+		</br>
 	<p>The comparative analysis showed us that it’s very important to have a small, intuitive information architecture. Many of the websites we looked at had a large sitemap that was very overwhelming. Additionally, we thought the oxford MSA had the best home page because it summarized all the information provided in the tabs and had links for users to read more if they wanted to. The OSU MSA has a very streamlined design, with a chatbot and a pop up that prompts users to join listserv. We though both these very really great ways to interact with the users and show that the MSA is very accessibile.</p>
 		
 </br>
@@ -416,7 +463,7 @@
 	<li> Public Calendar with upcoming community events </li>
 </ul>
 
-
+</br>
 <h3 class="text-center"> Ideate </h3>
     <h5> Sitemap </h5>
     <p>The old MSA website had a sitemap that wasn’t intuitive - there were broken links, unnecessary pages and vague organization. We wanted the new website to have a less clunky navigation and to highlight our resources, how people can get involved, the msa community and an easy way to contact us.  At first we had a merch tab instead of a community one, but we realized that it was more important to share photos, highlight other students and the MSA community more than having a page dedicated to merchandise.
@@ -520,49 +567,33 @@
     </br>
 
      <h3 class="text-center"> Understand the Problem </h3>
-     <p>I created my old portfolio website many years ago using a website builder - it’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. </p>
+     <p>I created my old portfolio website many years ago using a website builder. It’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. This will be a challenge because I’ve never coded a full website before and have no experience with frameworks, responsive development, optimization, and deployment. But I look forward to researching a lot and overcoming these challenges!  </p>
 
      <h3 class="text-center"> Research </h3>
      <h5> Comparative Analysis </h5>
      <p>I researched other UX portfolios to gain inspiration for my layout, content organization and visuals.</p>
-     <ul>
-			<li> http://alexbrackett.com/</li>
-				<ul>
-					<li> Parallax scrolling </li>
-					<li> Eye catching portfolio collage </li>
-				</ul>
 
-			<li> https://toyfight.co/ </li>
-				<ul>
-					<li> Mousemove Parallax effect </li>
-					<li> Bright colors and 3D images</li>
-				</ul>
+     <div class="col text-center">
+		<img src="portfolio_comparativeanlaysis.png" alt="" style="width:100%;"> 
+	</div>
 
-			<li> http://qaisar.design/ </li>
-				<ul>
-					<li> Eye catching portfolio mockups </li>
-					<li> Chatbot </li>
-					<li>Parallax scrolling & transitions</li>
-				</ul>
-			<li>  http://valaire.mu/ </li>
-				<ul>
-					<li> Sideways scroll gallery </li>
-					<li> Eye-catching colors & typography </li>
-				</ul>
-	</ul>
+	</br>
+    
 
 	<h5> Requirements List </h5>
 	<p> Based on my research, I defined a list of usability and design requirements for the website.  </p>
 	<ul>
 		<li> Bright colors & gradients </li>
-		<li> Animations & transitions </li>
-		<li> Filters for images </li>
+		<li> Animations & transitions to increase interactability </li>
+		<li> Filters to organize projects </li>
 		<ul>
+			<li> Filters for design include: UX design, product design, branding design </li>
 			<li> Filter by mediums for mixed media tab </li>
 			<li> Filters for photography include: portraits, nature, urban and weddings </li>
 		</ul>
 		<li> Infinite scroll </li>
 		<li> Ability for clients to download their photos </li>
+		<li> Design gallery with links to their case studies </li>
 	</ul>
 
 	<h3 class="text-center"> Ideate </h3>
