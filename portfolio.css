@@ -19,7 +19,6 @@ html {
     html {
         font-size: 0.4rem;
     }
-
     .landing_page_Hafsa .hide { display:block; }
     .landing_page_Ghias {display:none;}
 
@@ -64,6 +63,14 @@ html {
         font-size: 1.6rem;
     }
 } */
+
+
+@media (max-width: 767px) {
+  .navbar-toggleable-sm {
+    clear: both;
+  }
+}
+
 
 /* HEADER */
 #navright a { 
@@ -459,7 +466,7 @@ button:focus {
 
 
 .me {
-	width: 70%;
+	width: 50%;
 }
 
   
@@ -511,128 +518,6 @@ button:focus {
 	background-color: #48A2B5 !important;
 }
 
-
-.gallery { 
-height:auto; }
-/*.gallery img{ 
-	cursor:pointer;
-	position:relative;
-	text-align: center;
-	overflow:hidden;
-	background-size: cover;
-}
-
-.gallery:hover { 
-	opacity: 0.80;
-	transform: scale(1.1);
-	color:#ffffff26; 
-}
-
-.softeffect:before, .softeffect p {
-	opacity:0;
- } 
- */
-
-
-#box-aperture {
-  width: 18vmin;
-  height: 18vmin;
-  border-radius: 50%;
-  border: 5px solid #255484;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: auto;
-}
-
-.box_inner {
-  background: #255484;
-  width: 90%;
-  height: 90%;
-  border-radius: 50%;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-}
-
-.box_aperture {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  animation: aperture_zoom 2s linear infinite alternate;
-}
-
-.aperture_piece {
-  width: 20%;
-  height: 20%;
-  background: #EEF3F6;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-}
-.aperture_piece:after {
-  content: "";
-  position: absolute;
-  right: 0;
-  width: 15%;
-  height: 1000%;
-  background-color: #EEF3F6;
-  animation: aperture_line_zoom 2s linear infinite alternate;
-  transform-origin: right top;
-}
-.aperture_piece:nth-child(1) {
-  transform: rotate(60deg) translateX(37%);
-}
-.aperture_piece:nth-child(2) {
-  transform: rotate(120deg) translateX(37%);
-}
-.aperture_piece:nth-child(3) {
-  transform: rotate(180deg) translateX(37%);
-}
-.aperture_piece:nth-child(4) {
-  transform: rotate(240deg) translateX(37%);
-}
-.aperture_piece:nth-child(5) {
-  transform: rotate(300deg) translateX(37%);
-}
-.aperture_piece:nth-child(6) {
-  transform: rotate(360deg) translateX(37%);
-}
-
-@keyframes aperture_zoom {
-  from {
-    transform: scale(0.7) rotate(-60deg);
-  }
-  50% {
-    transform: scale(1) rotate(0);
-  }
-  to {
-    transform: scale(1.9) rotate(60deg);
-  }
-}
-@keyframes aperture_line_zoom {
-  from {
-    transform: scale(1.3);
-  }
-  50% {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(0.5);
-  }
-}
-.box_inspired {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  padding: 1rem;
-  color: #255484;
-}
 
 .footer { 
 	width:5%;

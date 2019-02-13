@@ -56,40 +56,41 @@
 						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> The Buddy Bird </h2>
+		 					<p class ="text-center mx-auto"> A platform that allows two people to easily ride a Bird </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
 
-			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
-				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
+			<div class="project pb-3 branding"> <!-- REDEFINE !-->
+ 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+	 				<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="parkingapp-18.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
+		 					<h2 class ="text-center"> Redefine </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- PERSONAL BRANDING !-->
-				<a data-options='{"src": "#personalbrandingModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+			<div class="project pb-3 branding"> <!-- PAANI !-->
+				<a href="Paani.png" data-fancybox="images" data-caption="caption">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="hg.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Personal Branding </h2>
+		 					<h2 class ="text-center"> Paani </h2>
 	 					</div>
 					</div>
 				</a>
 			</div>
-		
 		</div>
 
 		<div class = "col-lg-4">
 
-			<div class="project pb-3 ux"> <!-- HAFSA !-->
+			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
 				<a data-options='{"src": "#HafsaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -128,25 +129,14 @@
 				</a> 	
 			</div>
 
-			<div class="project pb-3 product"> <!-- BLOCKS !-->
-				<a data-options='{"src": "#blockModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="blocks.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Modular Blocks </h2>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 product"> <!-- Parking App !-->
+			<div class="project pb-3 ux"> <!-- Parking App !-->
 				<a data-options='{"src": "#parkingModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="parkingapp-18.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Parking App </h2>
+		 					<p class ="text-center mx-auto"> Coming Soon </p>
 	 					</div>
 					</div>
 				</a>
@@ -157,46 +147,35 @@
 		<div class = "col-lg-4">
 
 
-			<div class="project pb-3 ux"> <!-- EFFECTIVE PHILANTHROPY !-->
-				<a href="Widget.png" data-fancybox="images" data-caption="caption">
+			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
+				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Widget.png" alt="" style="background-color: #5e2960; padding-top:15px;">
+						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+					</div>
+				</a>
+			</div>	
+
+			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
+				<a href="layers-22.png" data-fancybox="images" data-caption="caption">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="layers-22.png" alt="" style="background-color: #5e2960;">
 
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Effective Philanthropy Widget </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<h2 class ="text-center"> Layers </h2>
+		 					<p class ="text-center mx-auto"> The Impact of Design </p>
 	 					</div>
 					</div>
 				</a>
 				
 			</div>
 
-			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a data-options='{"src": "#RedefineModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 branding"> <!-- PAANI !-->
-				<a href="Paani.png" data-fancybox="images" data-caption="caption">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Paani </h2>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
+			
 			
 
 			<div class="project pb-3 product"> <!-- Pentapod !-->
@@ -220,23 +199,19 @@
 </div>
 <?php include ('footer.php');?>
 
-<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
+<div class="text-center" style="display:none; background-color: rgba(0,0,0,0); color:white;
 " id="buddyModal"> 
-	<img class="col-lg-4 pt-2" src="_DSC1298.jpg" alt="" style="width:50%;">
-	<img class="col-lg-4 pt-2" src="_DSC1267.jpg" alt="" style="width:50%;">
-</div>
-
-<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
-" id="blockModal"> 
-	<img class="col-lg-4 pt-2" src="blocks.jpg" alt="" style="width:80%;">
-	<img class="col-lg-4 pt-2" src="IMG_9889.jpg" alt="" style="width:80%;">
+	<h1> The Buddy Bird </h1>
+	<p>A platform that allows two people to easily ride a Bird</p>
+	<img class="col-lg-4 pt-2" src="_DSC1298.jpg" alt="" style="width:26%;">
+	<img class="col-lg-4 pt-2" src="_DSC1267.jpg" alt="" style="width:26%;">
 </div>
 
 <div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
 " id="podModal"> 
 	<img class="col-lg-3 pt-2" src="22_GhiasH.jpg" alt="" style="width:80%;">
 	<img class="col-lg-3 pt-2" src="20_GhiasH.jpg" alt="" style="width:82%;">
-	<img class="col-lg-3 pt-2" src="24_GhiasH.jpg" alt="" style="width:60%;">
+	<img class="col-lg-3 pt-2" src="24_GhiasH.jpg" alt="" style="width:22.5%;">
 </div>
 
 <!-- Redefine Modal -->
@@ -285,6 +260,7 @@
     <h3 class="text-center"> Implement </h3>
 
 </div>
+
 <!-- MSA Modal !-->
 <div style="display:none; max-width:1000px;" id="MSAModal"> 
     <img src="msa_cover.png" alt="" style="width:100%;">
@@ -353,10 +329,7 @@
 			<span class="sr-only">Next</span>
 		</a>
 	</div>
-
     </br>
-    
-    
     <h3 class="text-center"> Research </h3>
     <h5> Field Studies </h5>
     <p>I’ve been a part of MSA as a member for the four years I’ve been on campus and I’ve noticed that MSA is a hard community to find if you’re not on social media. We share all of our events and information through Facebook, however Facebook is losing popularity with the younger generation, so MSA needs to find other ways to reach out to the MSA community. That being said, we do get asked a lot of questions by prospective students and community members through Facebook messenger. Most of the questions are about resources, like where the housing list is, and about how they can reach out to the executive board. This shows that the website needs to clearly display our resources and contact us information.</p>
@@ -392,13 +365,17 @@
 		<ol class="carousel-indicators">
 			<li data-target="#carousel3" data-slide-to="0" class="active"></li>
 			<li data-target="#carousel3" data-slide-to="1"></li>
+			<li data-target="#carousel3" data-slide-to="2"></li>
  		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA Interview Questions.png" alt="First slide">
+				<img class="d-block w-100" src="MSA survey response.jpg" alt="First slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA Interview Questions1.png" alt="Second slide">
+				<img class="d-block w-100" src="MSA survey response2.jpg" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="MSA survey response3.jpg" alt="Third slide">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carousel3" role="button" data-slide="prev">
@@ -410,14 +387,12 @@
 			<span class="sr-only">Next</span>
 		</a>
 		</div>
-		
     </div>
-
 	</br>
     <p> After talking to users, I learned that many people did not know that we have a website. They initially heard about MSA from other people or other campus events such as Festifall and use social media and other people to stay up to date with what MSA is up to. Many students did not know much about the resources MSA has available and would prefer a pdf version that is available online. Many students said that they would use a website if they had known it exists and would access it mostly on their phones. </br> Based on these responses, the website design should be intuitive so it’s easy to click through to see what the website offers and should be mobile first design. It should also have a frequently updated events calendar and resources should be easily accessible.</p>
     </br>
     <h5> Personas </h5>
-
+    <p> Based off of the stakeholder interview and user interviews, I developed four personas that would use the website.</p>
     <div class="row">
 		<div class="col text-center">
 			<img src="Personas-01.png" alt="" style="width:100%;"> 
@@ -445,10 +420,8 @@
 		</div>
 
 		</br>
-	<p>The comparative analysis showed us that it’s very important to have a small, intuitive information architecture. Many of the websites we looked at had a large sitemap that was very overwhelming. Additionally, we thought the oxford MSA had the best home page because it summarized all the information provided in the tabs and had links for users to read more if they wanted to. The OSU MSA has a very streamlined design, with a chatbot and a pop up that prompts users to join listserv. We though both these very really great ways to interact with the users and show that the MSA is very accessibile.</p>
-		
+	<p>The comparative analysis showed us that it’s very important to have a small, intuitive information architecture. Many of the websites we looked at had a large sitemap that was very overwhelming. Additionally, we thought the oxford MSA had the best home page because it summarized all the information provided in the tabs and had links for users to read more if they wanted to. The OSU MSA has a very streamlined design, with a chatbot and a pop up that prompts users to join listserv. We though both these very really great ways to interact with the users and show that the MSA is very accessibile.</p>	
 </br>
-
 <h5> Requirements List </h5>
 <p> Based off of the stakeholders meeting, user research and comparative analysis, the executive board and I defined a list of usability and design requirements for the website.  </p>
 <ul>
@@ -462,7 +435,6 @@
 	<li> Campus Guide available as a downloadable pdf </li>
 	<li> Public Calendar with upcoming community events </li>
 </ul>
-
 </br>
 <h3 class="text-center"> Ideate </h3>
     <h5> Sitemap </h5>
@@ -494,7 +466,6 @@
 	</br>
 	</br>
     <h3 class="text-center"> Design </h3>
-
     <h5> Low Fidelity Mockup </h5>
     <p>I developed a low fidelity mockup and created categories of the content based on the sitemap. Once these were designed, I sent them to the Operations Chair and she used this a guide to provide me with all the content I needed to develop a high fidelity mockup</p>
      <div class="row">
@@ -507,17 +478,15 @@
 			<img src="msa_content.png" alt="" style="width:50%;"> 
 		</div>
 	</div> !-->
-
     </br>
     <h5> Style Guide </h5>
     <p>Once I had all the content, I worked with the Operations Chair to finalize a color scheme and fonts! </p>
   
      <div class="row">
 		<div class="col text-center">
-			<img src="msa_styleguide.jpg" alt="" style="width:70%;"> 
+			<img src="msa_styleguide.jpg" alt="" style="width:70%; outline:1px solid #255484;"> 
 		</div>
 	</div>
-
 	<h5> Prototype </h5>
 	<p> I created a high fidelity mockup and sent it to the Executive board for feedback and testing!</p>
      <div class="row">
@@ -567,7 +536,7 @@
     </br>
 
      <h3 class="text-center"> Understand the Problem </h3>
-     <p>I created my old portfolio website many years ago using a website builder. It’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. This will be a challenge because I’ve never coded a full website before and have no experience with frameworks, responsive development, optimization, and deployment. But I look forward to researching a lot and overcoming these challenges!  </p>
+     <p>I created my old portfolio website many years ago using a website builder. It’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. This will be a challenge because I’ve never coded a full website before and have no experience with frameworks, responsive development, optimization, and deployment. But I look forward to researching a lot and overcoming these challenges! I also identified different personas: recruiters and clients. The website is first and foremost for recruiters, so I will be focusing on what they are looking for in potential hires. </p>
 
      <h3 class="text-center"> Research </h3>
      <h5> Comparative Analysis </h5>
@@ -578,8 +547,6 @@
 	</div>
 
 	</br>
-    
-
 	<h5> Requirements List </h5>
 	<p> Based on my research, I defined a list of usability and design requirements for the website.  </p>
 	<ul>
@@ -632,21 +599,39 @@
     <h3 class="text-center"> Design </h3>
 
     <h5> Low Fidelity Mockup </h5>
-    <p>I developed a low fidelity mockup so I could start coding the framework of my website </p>
+    <p>I developed a low fidelity mockup so I could start coding the framework of my website, </p>
     <div class="row">
 		<div class="col text-center">
 			<img src="Portfolio_Lofi Mockup.png" alt="" style="width:80%;"> 
 		</div>
 	</div>
 	</br>
-	</br>
+	<h5>Branding </h5>
+	<p> Before I created a style guide, I decided to develop a brand for myself that I could incorporate into the site. I wanted to incorporate my initials and a lion because my name in Arabic means lioness. Below are my sketches: </p>
 	<div class="row">
 		<div class="col text-center">
-			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:80%;"> 
+			<img src="PersonalLogoSketches.png" alt="" style="width:80%;"> 
+		</div>
+	</div>
+	</br>
+	<p>I struggled to decide on a logo and so I showed my sketches to a professor who suggested to create a monogram using my initials and incorporate part of the lion into the letters. He suggested that the lion shouldn't be really big because it would take attention away from my initials and would be the only thing people would focus on. Below is my final logo: </p>
+	<div class="row">
+		<div class="col text-center">
+			<img src="hg.jpg" alt="" style="width:80%;"> 
+		</div>
+	</div>
+	</br>
+	<h5> Style Guide</h5>
+	<p> Once I had a lofi mockup, I created a style guide so I could make a high fidelity mockup. </p>
+	<div class="row">
+		<div class="col text-center">
+			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:80%; outline:1px solid #255484;"> 
 		</div>
 	</div>
 	</br>
 	<h5> First Iteration </h5>
+	<p> In my first iteration, I selected the projects that I wanted to display and then organized them into their respective pages.</p>
+	</br>
 	 <div class="row">
 		<div class="col text-center">
 			<img src="hifi1.png" alt="" style="width:100%;"> 
@@ -654,6 +639,7 @@
 	</div>
 	</br>
 	<h5> Second Iteration </h5>
+	<p> In the second iteration, I started thinking more about animations and transitions and adding more aesthetics to the page. Additionally, I changed the home page to add a small intro to myself in the beginning, rather than at the end. This was one of the suggestions a UX designer gave me when she looked at my first iteration. I also drew out how the website would look on mobile view. </p>
 	 <div class="row">
 		<div class="col-8 text-center">
 			<img src="hifi2.png" alt="" style="width:100%;"> 
@@ -666,11 +652,20 @@
 	<h3 class="text-center"> Implement </h3>
 
     <h5> Development </h5>
-</br>
-
+     <div class="row">
+		<div class="col text-center">
+			<img src="dev process.png" alt="" style="width:60%;"> 
+		</div>
+	</div>
+    <p>This was the first time I coded a website, so I spent a lot of time researching at what to do at every step of the process. I started off by researching the best way to organize my code and start development. After extensive research, I decided to use CSS grids instead of flexboxes and bootstrap. As I started adding more to the website, it got harder and harder to develop using CSS grids. I reached out to some friends who have experience with development and they recommended that I should switch to Bootstrap. Initially, I had decided against using Bootstrap because it felt like taking the easy way out, but I learned that most websites are built using Bootstrap or a framework like Angular or React. Switching to Bootstrap turned out to be a great decision. Building the website page by page, I started with the landing page. Once all the styling was done, I added animations and transitions using a parallax library and AOS jquery library. 
+    Once I was ready to start the design page, I realized I'd have to copy the whole nav bar over to the new page. It felt wrong to do that because if I made any changes to one, I’d have to copy it over to every page I had and that could get super messy, so I did some research. I learned that you can make a separate php file and add the navbar code in there and just include that php file into all the pages that I want the navbar to show up in, so I created separate nav, header and footer files and included them on all the pages to avoid duplicating code. For the design page, I started to research photo galleries that I could easily incorporate into my website that are: responsive, mobile swipe friendly, incorporate different medias, can integrate modals and lastly can be displayed as a gallery. I found many different libraries, but found that Fancybox best fit my needs. For the projects with case studies, I used the bootstrap modal feature.  </p>
+	</br>
+    <h5> Deployment </h5>
+    <p> After I finished my website, I had to figure out how to deploy my site. I decided to temporarily use Heroku and link it with Github for easy hosting. Once it was successfuly hosted and I connected my custom domain, I tackled optimization. The website was slow because image files were too big and that the site sleeps if it's not being used. I tackled this by using UptimeRobot which pings the website every so often to keep it live. Additionally, the free tier doesn't have SSL certificate, so I used Cloudfare to secure my site. </p>
+    </br>
     <h3 class="text-center"> Evaluate </h3>
-
     <h5> Usability Testing </h5>
+    <p> To test my website, I observed how multiple people interacted with it. One usability issue that was common was that users thought clicking scroll icon would cause the site to autoscroll, which wasn't the case, so I decided to take it out.  </p>
 </div>
 
 <div style="display:none; max-width:1000px;" id="parkingModal"> 
@@ -690,10 +685,11 @@
 
      <div class="row">
 		<div class="col text-center">
-			<embed src="IOT Project Ideas.pdf" style="width:100%; height:100%"/>
+			<embed src="IOT Project Ideas.pdf" style="width:100%; height:600px"/>
 			
 		</div>
 	</div>
+</div>
 
 <div style="display:none; max-width:1000px;" id="optModal"> 
 	
@@ -706,11 +702,148 @@
     </br>
 
     <h3 class="text-center"> The Challenge </h3>
-
+    <p>optiMize is a social innovation incubator for students to develop their projects. The student organization hosts a social innovation challenge every year, offering workshops, mentorship and funding for students to create self-directed projects to make a positive impact. I am on the student staff as a design consultant and have been helping teams with branding design. The challenge for me was to figure out how to manage multiple teams at the same time, have a fast turn around for the logos and still create quality work.</p>
     <h3 class="text-center"> Understanding the Problem </h3>
+    </br>
     <h5> Branding Brief </h5>
+    <p>In order to streamline the process of working with 15+ teams in a limited amount of time, I decided to create a branding brief. This brief not only helps me understand the team’s project, but it is also a way for teams to gauge if they’re ready for branding. In this brief, I ask questions about what their product or service is, who is their target audience, share visuals and keywords associated with their project, who are some brands they admire, etc...</p>
+	</br>
+    <div class="row text-center justify-content-center align-items-center"> 
+    	<div id="carousel4" class="carousel slide col-6 justify-content-center align-items-center" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel4" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel4" data-slide-to="1"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="brandingbrief.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="brandingbrief2.png" alt="Second slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carousel4" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel4" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		</div>
+	</div>
+	</br>
+	<h5> Stakeholder Interview & Research </h5>
+    <p>Once the team has filled out the brief and I’ve reviewed it, I have a 20-30 minute meeting with them to review the brief, build a mind map using key words and visuals and develop some rough ideas for the logo. We’ll do some research together about what are common icons, colors and fonts used in their industry and we’ll discuss what type of logo they want (wordmark, leterforms, emblems, etc..). I like to end the meeting with a couple of concrete ideas I can explore for the logo!</p>
+    <div class="row text-center justify-content-center align-items-center"> 
+    	<div id="carousel5" class="carousel slide col-6 justify-content-center align-items-center" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel5" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel5" data-slide-to="1"></li>
+			<li data-target="#carousel5" data-slide-to="2"></li>
+			<li data-target="#carousel5" data-slide-to="3"></li>
+			<li data-target="#carousel5" data-slide-to="4"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="optSketch.JPG" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="optSketch3.JPG" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="optSketch4.JPG" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="optSketch5.JPG" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="optSketch6.JPG" alt="Second slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carousel5" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel5" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		</div>
+	</div>
+	</br>
+	<h5> Sketching & Conceptualizing </h5>
+    <p> I do some more research before I start sketching and brainstorm more ideas. I then sketch the ideas and plan them a little more.</p>
+    <div class="row text-center justify-content-center align-items-center"> 
+    	<div id="carousel6" class="carousel slide col-6 justify-content-center align-items-center" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel6" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel6" data-slide-to="1"></li>
+			<li data-target="#carousel6" data-slide-to="2"></li>
+			<li data-target="#carousel6" data-slide-to="3"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="fivenorth.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="shout.png" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="reuniao.png" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="guardians.png" alt="Second slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carousel6" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel6" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
+</div>
 
+    <h5> Client Feedback </h5>
+    <p> Once I have a few sketches that I think have potential, I send them over to the client and ask them to choose one design and help them develop a color scheme.</p>
+	</br>
+    <h3 class="text-center"> Design & Implement</h3>
+    <p> Once we've finalized a design, I digitize them, adding color and using different fonts. I send them to the client again for feedback.</p>
 
+    <div class="row text-center justify-content-center align-items-center"> 
+    	<div id="carousel7" class="carousel slide col-6 justify-content-center align-items-center" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel7" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel7" data-slide-to="1"></li>
+			<li data-target="#carousel7" data-slide-to="2"></li>
+ 		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="ThriveFinal.png" alt="First slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="NeohealthFinal.png" alt="Second slide">
+			</div>
+			<div class="carousel-item" style="background-color: #FFFF !important">
+				<img class="d-block w-100" src="FiveNorthFinal.png" alt="Second slide">
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carousel7" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carousel7" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		</div>
+	</div>
+
+    <h3 class="text-center"> Evaluate</h3>
+    <p> Once I've implemented their suggestions, I send them colored files, black and white files and the original illustrator file! </p>    
 </div>
 
 

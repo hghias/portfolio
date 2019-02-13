@@ -36,12 +36,6 @@
 
 		</div>
 	</div>
-
-	<div class= "row">
-		<div class="col scrollcontainer ">
-			<img class="scrollimage mx-auto d-block" src="scroll.png" alt="scroll">
-		</div>
-	</div>
 </div>
 
 <div class=container-fluid>
