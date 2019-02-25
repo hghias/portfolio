@@ -74,6 +74,7 @@
 			</br>
 			<h5 style= "line-height: 150%;"> I believe that process is extremely important because it makes sure I am intentional with every decision. My design process has been abstracted from the UX design process, but can be applied to any project I am working on, whether it being product design, branding design or graphic design. Good design is human centered, which means that it is empathetic, so conducting user research is one of the most important steps. I strive to understand the client's goals and user's needs and translate them into a visual that satisfies the client and user.</h5>
 			<img src="processDetails.png" alt="" style="width:100%;">
+			<p>hi</p>
 		</div>
 	</div>
 </div> 
