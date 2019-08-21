@@ -137,7 +137,7 @@
 
 		
 			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
-				<a href="layers-22.png" data-fancybox="images" data-caption="caption">
+				<a data-options='{"src": "#layersModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="layers-22.png" alt="" style="background-color: #5e2960;">
@@ -239,6 +239,7 @@
 <?php include ('portfolio.php');?>
 <?php include ('optimize.php');?>
 <?php include ('scd-modal.php');?>
+<?php include ('layers-modal.php');?>
 
 <script>    
 	$(function(){
