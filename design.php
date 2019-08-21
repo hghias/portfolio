@@ -35,13 +35,14 @@
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class = "col-lg-4">
-			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
-				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+
+			<div class="project pb-3 ux branding"> <!-- SCD !-->
+				<a data-options='{"src": "#scdModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
+		 					<h2 class ="text-center"> Smart Choice Distributors </h2>
 		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
@@ -74,20 +75,22 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- PAANI !-->
-				<a href="Paani.png" data-fancybox="images">
+		</div>
+
+		<div class = "col-lg-4">
+
+			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
+				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
+						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Paani </h2>
+		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
-		</div>
-
-		<div class = "col-lg-4">
 
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
 				<a data-options='{"src": "#HafsaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -127,38 +130,12 @@
 					</div>
 				</a> 	
 			</div>
-
-			<div class="project pb-3 ux"> <!-- Parking App !-->
-				<a data-options='{"src": "#parkingModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="parkingapp-18.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Parking App </h2>
-		 					<p class ="text-center mx-auto"> Coming Soon </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
 			
 		</div>
 
 		<div class = "col-lg-4">
 
-
-			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
-				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
-	 					</div>
-					</div>
-				</a>
-			</div>	
-
+		
 			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
 				<a href="layers-22.png" data-fancybox="images" data-caption="caption">
 					<div class="show_overlay">
@@ -174,6 +151,19 @@
 				
 			</div>
 
+			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
+				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
+		 					<p class ="text-center mx-auto"> Case Study </p>
+	 					</div>
+					</div>
+				</a>
+			</div>	
+
 			<div class="project pb-3 product"> <!-- Pentapod !-->
 				<a data-options='{"src": "#podModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
@@ -184,7 +174,20 @@
 	 					</div>
 					</div>
 				</a>
-			</div>			
+			</div>	
+
+			<div class="project pb-3 branding"> <!-- PAANI !-->
+				<a href="Paani.png" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Paani </h2>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 		</div>
 	</div>
 </div>
@@ -235,7 +238,7 @@
 <?php include ('msa-modal.php');?>
 <?php include ('portfolio.php');?>
 <?php include ('optimize.php');?>
-
+<?php include ('scd-modal.php');?>
 
 <script>    
 	$(function(){
