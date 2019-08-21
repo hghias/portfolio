@@ -120,7 +120,6 @@
 			
 		</div>
 			
-	
 		<div class = "col-lg-4">
 			<div class="project pb-4 drawing">
 				<a class="" href="DSC_0481 (2).jpg" data-fancybox="filter">
@@ -286,6 +285,7 @@
 
 	</div>
 </div>
+
 <?php include ('footer.php');?>
 
 <div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);

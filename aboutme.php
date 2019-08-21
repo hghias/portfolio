@@ -46,7 +46,7 @@
 				I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career in software development, but changed my focus when I fell in love with design and its potential to change the world. Engineering makes things work, but design impacts if, how, and why we use something. 
 				</br>
 				</br>
-				I aim to use design as a tool to foster inclusivity & create equal opportunity. With a background in computer science, my goal is to design user interfaces in regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
+				I aim to use design as a tool to foster inclusivity & create equal opportunity. With a background in computer science, my goal is to design user interfaces with regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
 				</h5>
 				</br>
 				<a class="btn pn" id="designbutton" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>

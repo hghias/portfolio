@@ -1,16 +1,21 @@
 <!-- HEADER !--> 
+
 <nav class="navbar navbar-expand-md">
-	<a class="navbar-brand col" href="index.php"> 
-		<img id="logohome" class= "purplelion" src="Hafsa Logo-15.png" alt="logo" > 
+	<a class="navbar-brand col p-0 pt-3" href="index.php"> 
+		<img class="navbar-img" src="Hafsa Logo-15.png" alt="logo" > 
 	</a>
 
 	<!-- Toggler/collapsibe Button -->
-  	<button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"> </span>
-    </button>
+  	<div class="navbar-toggler" data-toggle="collapse" data-target="#navbar" id="nav-icon3">
+       <!-- <span class="navbar-toggler-icon"> </span> !--> 
+       <span></span>
+       <span></span>
+       <span></span>
+       <span></span>
+    </div>
 
 
-	<div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+	<div class="collapse navbar-collapse justify-content-end text-right" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item">
 				<a class="nav-link" id="design-nav" href="design.php"> DESIGN </a> 
@@ -27,3 +32,11 @@
 		</ul>
 	</div>
 </nav>
+
+<script>
+	$(document).ready(function(){
+	$('#nav-icon3').click(function(){
+		$(this).toggleClass('open');
+	});
+});
+</script>

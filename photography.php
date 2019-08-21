@@ -19,29 +19,6 @@
 				<img class="camera" src="aperture-07.png" alt="">
 			</div>
 		</div>
-
-		<!-- <div class ="col-5 align-self-center">
-			<div class="shutter">
-					<div id="box-aperture">
-					  <div class="box_inner">
-					    <div class="box_aperture">
-					      <div class="aperture">
-					        <div class="aperture_piece"></div>
-					        <div class="aperture_piece"></div>
-					        <div class="aperture_piece"></div>
-					        <div class="aperture_piece"></div>
-					        <div class="aperture_piece"></div>
-					        <div class="aperture_piece"></div>
-					      </div>
-					    </div>
-					  </div>
-					</div>				
-			</div>
-		</div>
-		<div class="col-6 my-auto align-self-center typed-wrap">
-				<h1> Photography </h1>
-		</div>
-		!-->
 	</div>
 </div>
 
@@ -63,7 +40,7 @@
 
 
 
-<div class="container-fluid">
+<div class="container-fluid pb-5">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class="col-lg-4 ">
 			<div class="pb-4 wedding portrait client">
