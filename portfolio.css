@@ -1,82 +1,15 @@
 
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url(https://fonts.google.com/specimen/Assistant);
 
 body{
-	font-family: "Nunito", sans-serif !important; 
+	font-family: "Assistant", sans-serif !important; 
 	color: #255484 !important;
-	padding: 25px;
-	/*background-color: #EEF3F6; */
-	background-image: linear-gradient(#EEF3F6, #F5DDDD ); /* #E4AD9B #F6BE60af #EFA998*/
+	background-color:#EEF3F6;
 }
 
-/* No media query since this is the default in Bootstrap */
+/*GENERAL*/
 html {
     font-size: 1rem;
-}
-
-/* Extra small devices (portrait phones, less than 576px) */
-@media all and (max-width: 576px) {
-    html {
-        font-size: 0.4rem;
-    }
-    .landing_page_Hafsa .hide { display:block; }
-    .landing_page_Ghias {display:none;}
-
-    .logo_lion_container {max-width:60vw;} 
-    .logo_lion_shadow_container { max-width:60vw; overflow: hidden; }
-    .logo_lion_image { height: 50vh;}
-    .logo_lion_shadow {height: 50vh; }
- }
-
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
-    html {
-        font-size: 0.6rem;
-    }
-    .landing_page_Hafsa .hide { display:block; }
-    .landing_page_Ghias {display:none;}
-}
-
-/* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    html {
-        font-size: 0.8rem;
-    }
-    .landing_page_Hafsa .hide { display:block; }
-    .landing_page_Ghias {display:none;}
-}
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-    html {
-        font-size: 1rem;
-    }
-
-    .landing_page_Hafsa .hide { display:none; }
-    .landing_page_Ghias {display:block;}
-}
-
-/* Extra large devices (large desktops, 1200px and up)
-// (you don't need this one unless you want something different from LG)
-@media (min-width: 1200px) {
-    html {
-        font-size: 1.6rem;
-    }
-} */
-
-
-@media (max-width: 767px) {
-  .navbar-toggleable-sm {
-    clear: both;
-  }
-}
-
-
-/* HEADER */
-#navright a { 
-	display: inline-grid;
- 	text-decoration: none; 
- 	padding-left: 20px;
 }
 
 a:hover { 
@@ -84,11 +17,11 @@ a:hover {
 }
 
 a:focus { 
-	text-decoration:none;
+	text-decoration:none !important;
 }
 
 img:hover { 
-	text-decoration:none;
+	text-decoration:none !important;
 }
 
 
@@ -96,45 +29,163 @@ button:focus {
 	outline: 0 !important; 
 }
 
-.purplelion { 
-	width:100px;
+/* MEDIA QUERIES */
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media all and (max-width: 576px) {
+   /* html {font-size: 0.5rem;}*/
+    .navbar-toggleable-sm { clear: both; }
+    /*.nav-item .nav-link {font-size:1.5rem;}*/
+
+    .logo_lion_container {max-width:60vw;} 
+    .landing_page_Hafsa .hide { display:block; }
+    .landing_page_Ghias {display:none;}
+    .logo_lion_shadow_container { max-width:40vw; overflow: hidden; }
+    .logo_lion_image { height: 40vh;}
+    .logo_lion_shadow {height: 40vh; }
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px){
+    /*html {font-size: 0.6rem;}*/
+    .navbar-toggleable-sm { clear: both; }
+  	/*.nav-item .nav-link {font-size:1.5rem;}*/
+
+    .landing_page_Hafsa .hide { display:block; }
+    .landing_page_Ghias {display:none;}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px){
+    /*html {font-size: 0.8rem;}
+    .nav-item .nav-link {font-size:1rem;}*/
+    .landing_page_Hafsa .hide { display:block; }
+    .landing_page_Ghias {display:none;}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+   /* html {font-size: 1rem;}
+    .nav-item .nav-link {font-size:1rem;}*/
+    .landing_page_Hafsa .hide { display:none; }
+    .landing_page_Ghias {display:block;}
+}
+
+
+
+/* HEADER */
+.navbar-img { 
+	width:6rem;
 }
 
 .navbar-nav a:link, a:visited { 
 	color: #255484;
+	font-size: 1.2rem;
 }
 
 .navbar-nav a:hover { 
-	color: #255484;
 	color:#48A2B5;
+	font-size: 1.2rem;
 }
 
 .navbar-active {
 	color:#48A2B5 !important;
 }
-.custom-toggler .navbar-toggler-icon {
-	background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=4C557F');
- }
 
-.navbar-toggler-icon {
-	width: 3.5em !important; 
-	height: 4em !important; 
+
+/*.custom-toggler .navbar-toggler-icon {
+	background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=255484');
+	width: 48px!important; 
+	height: 48px !important; 
+ }*/
+
+#nav-icon3 {
+  width: 50px;
+  height: 45px;
+  float: right;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+  cursor: pointer;
 }
-/* LANDING PAGE */
- 
 
+#nav-icon3 span{
+  display: block;
+  position: absolute;
+  height: 5px;
+  width: 100%;
+  background: #255484;
+  border-radius: 3px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: 0.25s ease-in-out;
+  -moz-transition: 0.25s ease-in-out;
+  -o-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+
+/* Icon 3 */
+
+#nav-icon3 span:nth-child(1) {
+  top: 0px;
+}
+
+#nav-icon3 span:nth-child(2),
+#nav-icon3 span:nth-child(3) {
+  top: 18px;
+}
+
+#nav-icon3 span:nth-child(4) {
+  top: 36px;
+}
+
+#nav-icon3.open span:nth-child(1) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+#nav-icon3.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#nav-icon3.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#nav-icon3.open span:nth-child(4) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+
+/* LANDING PAGE */
 .landing_page_Hafsa h1 {
 	text-align: end;
 	/*align-self: center;*/
-	font-size: 5rem; 
-
-		
-
+	font-size: 4.5rem; 
 	visibility: visible !important;	
 
 	z-index: -2;
 }
-.an { 
+.landing_page_animation { 
 
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
@@ -184,7 +235,7 @@ button:focus {
 }
 
 .logo_lion_image { 
-	height: 80vh;
+	height: 70vh;
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
 }
 
@@ -200,7 +251,7 @@ button:focus {
 }
 
 .logo_lion_shadow { 
-	height: 80vh;
+	height: 70vh;
 	opacity: 0.15;
 	
 	/*filter: drop-shadow(0 10px 2px #CDD1D4); */
@@ -211,7 +262,7 @@ button:focus {
 .landing_page_Ghias h1 {
 	text-align: start;
 	/*align-self: center; */
-	font-size: 5rem;
+	font-size: 4.5rem;
 
 	animation-name: slideUp;
 	-webkit-animation-name: slideUp;	
@@ -252,27 +303,11 @@ button:focus {
 	}	
 }
 
-.scrollimage { 
-	width:2%;
-	padding-top: 20px;
-	padding-bottom: 20px;
+.arrow { 
+	height:3vh; 
 }
 
 .scrollcontainer { 
-	padding-top: 30px;
-	padding-bottom:30px;
-
-	/*animation-name: pulse;
-	-webkit-animation-name: pulse;	
-
-	animation-duration: 1s;	
-	-webkit-animation-duration: 1s;
-
-	animation-iteration-count: infinite;
-	-webkit-animation-iteration-count: infinite; */
- }
-
-.scrollcontainer:hover { 
 	/*animation-name: pulse;
 	-webkit-animation-name: pulse;	
 
@@ -282,10 +317,13 @@ button:focus {
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite; */
 
-	animation: bounce 1s infinite;
-	-webkit-animation: bounce 1s infinite;
-	-moz-animation: bounce 1s infinite;
-	-o-animation: bounce 1s infinite;
+	animation: bounce 1.5s infinite;
+	-webkit-animation: bounce 1.5s infinite;
+	-moz-animation: bounce 1.5s infinite;
+	-o-animation: bounce 1.5s infinite;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	
  }
 
 
@@ -341,9 +379,26 @@ button:focus {
 	}			
 }
 
+.intro{ 
+	background-color: #D9E2E9; 
+	left: -15px; 
+ }
+
+
 .btn:focus, .btn:active {
   outline: none !important;
   box-shadow: none !important;
+}
+
+#Contact { 
+	color: #EFF0F2;
+    background-color: #48A2B5;
+    border-color: #48A2B5;
+    font-size:24px;	
+}
+
+#Contact:hover { 
+    background-color: #48a2b5b5;
 }
 
 /* UX DESIGN */
@@ -366,13 +421,12 @@ button:focus {
 
 
 .uximg { 
-	width:80%;
+	width:45vw;
 }
 
 
 /* BRANDING */
 .brandingtext { 
-	font-family:Nunito;
 	color: #5198A7;
 	text-align: left;
 	align-self: center;
@@ -390,7 +444,7 @@ button:focus {
 }
 
 .MichiganMovement-img { 
-	width:80%;
+	width:45vw;
 }
 
 /* PRODUCT DESIGN */
@@ -413,7 +467,7 @@ button:focus {
 
 
 .bird-img { 
-	width:90%; 
+	width:45vw; 
 }
 
 
@@ -437,7 +491,7 @@ button:focus {
 
 
 .portrait-img {
-	width:90%;
+	width:45vw;
  }
 
 /* MIXED MEDIA */
@@ -461,18 +515,16 @@ button:focus {
 
 
 .SummerTimeBlues-img { 
-	width: 90%;
+	width: 45vw;
 }
 
 
 .me {
-	width: 50%;
+	width: 80%;
 }
 
-  
-
 .typed-wrap h1{ 
- 	font-size: 5rem; 
+ 	font-size: 4.5rem; 
  }
 
 /*span.typed-cursor { 
@@ -520,11 +572,11 @@ button:focus {
 
 
 .footer { 
-	width:5%;
+	width:3vw;
 }
 
-.footer-text p{
-	font-size: 12px;
+.footer-row { 
+	background-color:#D9E2E9;
 }
 
 .text {
@@ -540,7 +592,6 @@ button:focus {
 }
 
 .mmlanding {
-
 	width:30%;
 	position:absolute;
 	/*left:570px;
