@@ -376,7 +376,7 @@ button:focus {
 #Contact { 
 	color: #EFF0F2;
     background-color: #48A2B5;
-    font-size:24px;	
+    font-size:18px;	
 }
 
 #Contact:hover { 
@@ -388,7 +388,7 @@ button:focus {
 #uxbutton{
  	color: #1f3160;
     border-color: #1f3160;
-    font-size:24px;
+    font-size:18px;
 }
 
 #uxbutton:hover { 
@@ -407,7 +407,7 @@ button:focus {
 #brandingbutton{
     color:#5198A7; 
     border-color:#5198A7;
-    font-size:24px;
+    font-size:18px;
 }
 
 #brandingbutton:hover { 
@@ -420,7 +420,7 @@ button:focus {
 #productbutton{
  	color: #BD975A;
  	border-color:#BD975A;
-    font-size:24px;
+    font-size:18px;
 }
 
 #productbutton:hover { 
@@ -433,7 +433,7 @@ button:focus {
 #photographybutton{
  	color: #67353D;
     border-color: #67353D;
-    font-size:24px;
+    font-size:18px;
 }
 
 #photographybutton:hover { 
@@ -446,7 +446,7 @@ button:focus {
 #mmbutton{
  	color: #3d5eac;
     border-color: #3d5eac;
-    font-size:24px;
+    font-size:18px;
 }
 
 #mmbutton:hover { 
