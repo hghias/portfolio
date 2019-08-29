@@ -9,11 +9,7 @@
 				<img id="linkedin-icon" class= "footer" src="linkedin.png" alt="Linkedin" > 
 			</a>
 
-			<a class="pr-5" href="https://www.facebook.com/HafsaGphotography/" target="blank"> 
-				<img id="linkedin-icon" class= "footer" src="facebook.png" alt="Facebook" > 
-			</a>
-
-			<a class="pr-5" href="https://www.instagram.com/hafsagphotography/" target="blank"> 
+			<a class="" href="https://www.instagram.com/hafsagphotography/" target="blank"> 
 				<img id="instagram-icon" class= "footer" src="instagram.png" alt="Instagram" > 
 			</a>
 		</span>
