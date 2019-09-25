@@ -43,7 +43,7 @@
 						<img class="gallery_image img-fluid" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Smart Choice Distributors </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Product Development </p>
 	 					</div>
 					</div>
 				</a>
@@ -57,7 +57,7 @@
 						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> The Buddy Bird </h2>
-		 					<p class ="text-center mx-auto"> A platform that allows two people to easily ride a Bird </p>
+		 					<p class ="text-center mx-auto">Product Design</p>
 	 					</div>
 					</div>
 				</a>
@@ -70,6 +70,20 @@
 						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Redefine </h2>
+		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
+				<a href="Final Project.pdf" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="_DSC0419.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
+		 					<p class ="text-center mx-auto"> Product Design </p>
 	 					</div>
 					</div>
 				</a>
@@ -86,7 +100,7 @@
 						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto"> UX/UI Design • Web Development </p>
 	 					</div>
 					</div>
 				</a>
@@ -99,7 +113,7 @@
 						<img class="gallery_image img-fluid" src="portfolio-18.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Web Development </p>
 	 					</div>
 					</div>
 				</a>
@@ -112,7 +126,20 @@
 						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Spark </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 product"> <!-- Eclipse !-->
+				<a href="Perfume_Documentation_Hafsa_Ghias.pdf" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="_DSC0063.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Eclipse </h2>
+		 					<p class ="text-center mx-auto"> Product Design </p>
 	 					</div>
 					</div>
 				</a>
@@ -125,11 +152,12 @@
 						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Michigan Movement </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto"> Brand Development </p>
 	 					</div>
 					</div>
 				</a> 	
 			</div>
+			
 			
 		</div>
 
@@ -143,8 +171,8 @@
 						<img class="gallery_image img-fluid" src="layers-22.png" alt="" style="background-color: #5e2960;">
 
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Layers </h2>
-		 					<p class ="text-center mx-auto"> The Impact of Design </p>
+		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
+		 					<p class ="text-center mx-auto">Illustration • UI Design • Web Development</p>
 	 					</div>
 					</div>
 				</a>
@@ -158,7 +186,7 @@
 						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
-		 					<p class ="text-center mx-auto"> Case Study </p>
+		 					<p class ="text-center mx-auto">Brand Development</p>
 	 					</div>
 					</div>
 				</a>
@@ -183,6 +211,7 @@
 						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Paani </h2>
+		 					<p class ="text-center mx-auto"> Brand Development </p>
 	 					</div>
 					</div>
 				</a>

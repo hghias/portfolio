@@ -44,31 +44,31 @@
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class="col-lg-4 ">
 			<div class="pb-4 wedding portrait client">
-				<a href="IMG_0620.jpg" data-fancybox="images" data-caption="caption">
+				<a href="IMG_0620.jpg" data-fancybox="images"  >
 					<img class="" src="IMG_0620.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0361.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0361.jpg" data-fancybox="images"  >
 					<img class="" src="_DSC0361.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait urban creative">
-				<a href="_DSC0185.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0185.jpg" data-fancybox="images"  >
 					<img class="" src="_DSC0185.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="DSC_0253-3.jpg" data-fancybox="images" data-caption="caption">
+				<a href="DSC_0253-3.jpg" data-fancybox="images"  >
 					<img class="" src="DSC_0253-3.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 nature creative">
-				<a href="print large.jpg" data-fancybox="images" data-caption="caption">
+				<a href="print large.jpg" data-fancybox="images"  >
 					<img class="" src="print large.jpg" alt="" width="100%">
 				</a>
 			</div>
@@ -78,43 +78,43 @@
 
 		<div class="col-lg-4 ">
 			<div class="pb-4 urban creative">
-				<a href="_DSC1379.JPG" data-fancybox="images" data-caption="caption">
+				<a href="_DSC1379.JPG" data-fancybox="images" >
 					<img class="" src="_DSC1379.JPG" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait client">
-				<a href="DSC_0330.jpg" data-fancybox="images" data-caption="caption">
+				<a href="DSC_0330.jpg" data-fancybox="images"  >
 					<img class="" src="DSC_0330.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="_DSC1300-2.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC1300-2.jpg" data-fancybox="images" >
 					<img class="" src="_DSC1300-2.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait urban creative">
-				<a href="_DSC0037.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0037.jpg" data-fancybox="images" >
 					<img class="" src="_DSC0037.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0247-2.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0247-2.jpg" data-fancybox="images" >
 					<img class="" src="_DSC0247-2.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 nature creative">
-				<a href="DSC_0396.jpg" data-fancybox="images" data-caption="caption">
+				<a href="DSC_0396.jpg" data-fancybox="images" >
 					<img class="" src="DSC_0396.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="IKTM6155.JPG" data-fancybox="images" data-caption="caption">
+				<a href="IKTM6155.JPG" data-fancybox="images" >
 					<img class="" src="IKTM6155.JPG" alt="" width="100%">
 				</a>
 			</div>
@@ -123,25 +123,25 @@
 
 		<div class="col-lg-4 ">
 			<div class="pb-4 nature creative">
-				<a href="_DSC0202.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0202.jpg" data-fancybox="images" >
 					<img class="" src="_DSC0202.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4  portrait creative">
-				<a href="_DSC0108.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC0108.jpg" data-fancybox="images" >
 					<img class="" src="_DSC0108.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="_DSC1039.jpg" data-fancybox="images" data-caption="caption">
+				<a href="_DSC1039.jpg" data-fancybox="images" >
 					<img class="" src="_DSC1039.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4  portrait client">
-				<a href="DSC_0145.jpg" data-fancybox="images" data-caption="caption">
+				<a href="DSC_0145.jpg" data-fancybox="images" >
 					<img class="" src="DSC_0145.jpg" alt="" width="100%">
 				</a>
 			</div>
