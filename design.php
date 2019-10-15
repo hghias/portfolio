@@ -271,7 +271,7 @@
     
     <h3 class="text-center"> <b>Ideate</b> </h3>
     <h5> <b>Sketches</b> </h5>
-    <div class="row text-center">
+    <div class="row text-center d-flex justify-content-center">
     	<div class="col-4 text-center">
     		<img src="MM sketches.JPG" alt="" style="width:100%;">
     	</div>
