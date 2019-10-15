@@ -239,15 +239,14 @@
 </body>
 
 
-<!-- Redefine Modal -->
+<!-- Michigan Movement Modal -->
 <div class="modal p-5" id="MMModal"> 
-    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    <img src="MM-hero-10.png" alt="" style="width:100%;">
     </br>
 	<div class="p-5">
 		<div class="row"> 
-			<div class="col-2" style="line-height:10px;">
+			<div class="col-2">
 				<h5><b>Role</b></h5>
-				<p>co-founder</p>
 				<p>Branding Designer</p>
 			</div>
 			<div class="col-2" >
@@ -256,7 +255,7 @@
 			</div>
 			<div class="col-2">
 				<h5><b>Team</b></h5>
-				<p>Worked with my cofounders</p>
+				<p>Worked with the cofounders of Michigan Movement</p>
 			</div>
 			<div class="col-2">
 				<h5><b>Timeline</b></h5>
@@ -266,12 +265,17 @@
 	</div>
 	</br>
    
-    <h3 class="text-center"> <b>Design</b> </h3>
-	    <div class="row text-center d-flex justify-content-center">
-	    	<div class="col-4 text-center">
-	    		<img src="Redefine1-46.png" alt="" style="width:100%;">
-	    	</div>
-	    </div>
+    <h3 class="text-center"> <b>Understanding the Problem </b></h3>
+    <h5> <b>Client Goals</b> </h5>
+    <p>Michigan is My Home is a student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
+    
+    <h3 class="text-center"> <b>Ideate</b> </h3>
+    <h5> <b>Sketches</b> </h5>
+    <div class="row text-center d-flex justify-content-center">
+    	<div class="col-4 text-center">
+    		<img src="MM sketches.JPG" alt="" style="width:100%;">
+    	</div>
+    </div>
 
 </div>
 
