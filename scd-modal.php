@@ -53,7 +53,7 @@
 
     <h5> <b>Usage Guidelines</b> </h5>
     <div class="row">
-		<div class="col-lg-7 text-center">
+		<div class="col-lg-7 text-center d-flex justify-content-center">
 			<img src="Smart Choice Distrubutions Brandingai-03.png" alt="" style="width:100%; border: 1px solid #DEDDDD;"> 
 		</div>
 	</div>
