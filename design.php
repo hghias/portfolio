@@ -267,7 +267,8 @@
    
     <h3 class="text-center"> <b>Understanding the Problem </b></h3>
     <h5> <b>Client Goals</b> </h5>
-    <p>Michigan is My Home is a student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
+    <p>Michigan is My Home is a student-run organization that provides aid to individuals, families, and students experiencing homelessness and poverty in our local community. They are rooted in education, health, and wellness, and value a sustainable, innovative, and collaborative approach to address our community's health and social disparities. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
+
     
     <h3 class="text-center"> <b>Ideate</b> </h3>
     <h5> <b>Sketches</b> </h5>
@@ -281,7 +282,7 @@
 
 <!-- Redefine Modal -->
 <div class="modal p-5" id="RedefineModal"> 
-    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    <img src="Redefine-hero-11.png" alt="" style="width:100%;">
     </br>
 	<div class="p-5">
 		<div class="row"> 
@@ -329,7 +330,7 @@
 
 <!-- Paani Modal -->
 <div class="modal p-5" id="PaaniModal"> 
-    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    <img src="Paani-Hero-47.png" alt="" style="width:100%;">
     </br>
 	<div class="p-5">
 		<div class="row"> 
@@ -352,9 +353,12 @@
 		</div>
 	</div>
 	</br>
-   
+
+	<h3 class="text-center"> <b>The Organization</b> </h3>
+	<p>In the light of a new age and new hope for Pakistan, Paani is a 501(c)3 non-profit that aims to improve sanitation issues occurring within Pakistan by creating a space for innovative solutions and educating local and international communities. Paani does this by the means of primary, secondary and tertiary prevention: by focusing on advocacy projects to improve public knowledge on sanitation practices, building and revitalizing sources of water, and donating items to rural health clinics. </p>
+
     <h3 class="text-center"> <b>Ideate</b> </h3>
-    <p>Paani is a new student organization that aims to raise money to build water wells in Pakistan. The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo.</p>
+    <p> The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo. </p>
     <p>Client Requirements: ​</p>
     <ul>
 	   	<li>Paani written in Urdu</li>
