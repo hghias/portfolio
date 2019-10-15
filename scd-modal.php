@@ -32,7 +32,7 @@
 	</br>
     <h3 class="text-center"> <b>Branding</b> </h3>
     <h5> <b>Sketches</b> </h5>
-    <div class="row">
+    <div class="row d-flex justify-content-center">
     	<div class="col-lg-4 pt-2">
     		<img class="w-100" src="SCD1.PNG" style="border: 1px solid #DEDDDD;">
     	</div>
@@ -43,7 +43,7 @@
     		<img class="w-100" src="SCD3.PNG" style="border: 1px solid #DEDDDD;">
     	</div>
     </div>
-     <div class="row p-lg-5 pt-2">
+     <div class="row p-lg-5 pt-2 d-flex justify-content-center">
     	<div class="col-lg-7 text-center">
     		<img class="w-100" src="SCD4.PNG" style="border: 1px solid #DEDDDD;">
     	</div>
