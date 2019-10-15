@@ -39,7 +39,7 @@
 				<a data-fancybox data-touch="true" href="#scdModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Smart Choice Distributors1.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class="text-center"> Smart Choice Distributors </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Product Development </p>
@@ -87,25 +87,12 @@
 					</div>
 				</a> 	
 			</div>
-
-			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a data-fancybox data-touch="true" href="#RedefineModal">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
-	 					</div>
-					</div>
-				</a>
-			</div>
 		
 		</div>
 
 		<div class = "col-lg-4">
 
-			<div class="project pb-3 ux"> <!-- Flutter !-->
+			<div class="project pb-3 ux branding"> <!-- Flutter !-->
 				<a data-fancybox data-touch="true" href="#FlutterModal" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -158,7 +145,7 @@
 			</div>
 
 			<div class="project pb-3 branding"> <!-- PAANI !-->
-				<a href="Paani.png" data-fancybox="images">
+				<a data-fancybox data-touch="true" href="#PaaniModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
@@ -225,6 +212,19 @@
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Eclipse </h2>
 		 					<p class ="text-center mx-auto"> Product Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 branding"> <!-- REDEFINE !-->
+ 				<a data-fancybox data-touch="true" href="#RedefineModal">
+	 				<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Redefine </h2>
+		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
 	 					</div>
 					</div>
 				</a>
@@ -323,6 +323,50 @@
 	    <div class="row text-center d-flex justify-content-center">
 	    	<div class="col-4 text-center">
 	    		<img src="Redefine1-46.png" alt="" style="width:100%;">
+	    	</div>
+	    </div>
+</div>
+
+<!-- Paani Modal -->
+<div class="modal p-5" id="PaaniModal"> 
+    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    </br>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Branding Designer</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Logo</a></p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with the cofounders</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>July 2017 - Sept 2017 </p>
+			</div>
+		</div>
+	</div>
+	</br>
+   
+    <h3 class="text-center"> <b>Ideate</b> </h3>
+    <p>Paani is a new student organization that aims to raise money to build water wells in Pakistan. The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo.</p>
+    <p>Client Requirements: ​</p>
+    <ul>
+	   	<li>Paani written in Urdu</li>
+	   	<li>Text in the shape of a teardrop</li>
+	</ul>
+	<p>In the first few variations, I only worked with the Urdu word and tried to frame it in a circle and a teardrop. The final design includes the word Paani written in both English and Urdu, so everyone can read it. Additionally, the dots in the Urdu word are drawn like diamonds or starts, to symbolize hope and progress. I also designed a t-shirt. We decided to use the word Paak in Urdu, which means pure, and to model it after the a raindrop. ​</p>
+
+    </br>
+    <h3 class="text-center"> <b>Design</b> </h3>
+	    <div class="row text-center d-flex justify-content-center">
+	    	<div class="col-4 text-center">
+	    		<img src="Paani.png" alt="" style="width:100%;">
 	    	</div>
 	    </div>
 </div>

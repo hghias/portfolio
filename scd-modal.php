@@ -1,6 +1,6 @@
 <!-- SCD Modal !-->
 <div class="modal p-3 p-lg-5" id="scdModal" > 
-    <img src="SCD-hero-34.png" alt="" style="width:100%;">
+    <img src="SCD-hero.png" alt="" style="width:100%;">
 	<div class="p-lg-5"> 
 		</br>
 		<div class="row"> 
