@@ -89,7 +89,7 @@
 			</div>
 
 			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a data-fancybox data-touch="true" href="Redefine1-46.png" data-fancybox="images">
+ 				<a data-fancybox data-touch="true" href="#RedefineModal">
 	 				<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
@@ -239,14 +239,15 @@
 </body>
 
 
-<!-- Michigan Movement Modal -->
+<!-- Redefine Modal -->
 <div class="modal p-5" id="MMModal"> 
-    <img src="MM-hero-10.png" alt="" style="width:100%;">
+    <img src="redefinecover-11.png" alt="" style="width:100%;">
     </br>
 	<div class="p-5">
 		<div class="row"> 
-			<div class="col-2">
+			<div class="col-2" style="line-height:10px;">
 				<h5><b>Role</b></h5>
+				<p>co-founder</p>
 				<p>Branding Designer</p>
 			</div>
 			<div class="col-2" >
@@ -255,7 +256,7 @@
 			</div>
 			<div class="col-2">
 				<h5><b>Team</b></h5>
-				<p>Worked with the cofounders of Michigan Movement</p>
+				<p>Worked with my cofounders</p>
 			</div>
 			<div class="col-2">
 				<h5><b>Timeline</b></h5>
@@ -265,23 +266,63 @@
 	</div>
 	</br>
    
-    <h3 class="text-center"> <b>Understanding the Problem </b></h3>
-    <h5> <b>Client Goals</b> </h5>
-    <p>Michigan is My Home is a student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
-    
-    <h3 class="text-center"> <b>Ideate</b> </h3>
-    <h5> <b>Sketches</b> </h5>
-    <div class="row text-center d-flex justify-content-center">
-    	<div class="col-4 text-center">
-    		<img src="MM sketches.JPG" alt="" style="width:100%;">
-    	</div>
-    </div>
-
     <h3 class="text-center"> <b>Design</b> </h3>
-
-    <h3 class="text-center"> <b>Implement</b> </h3>
+	    <div class="row text-center d-flex justify-content-center">
+	    	<div class="col-4 text-center">
+	    		<img src="Redefine1-46.png" alt="" style="width:100%;">
+	    	</div>
+	    </div>
 
 </div>
+
+<!-- Redefine Modal -->
+<div class="modal p-5" id="RedefineModal"> 
+    <img src="redefinecover-11.png" alt="" style="width:100%;">
+    </br>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>co-founder</p>
+				<p>Branding Designer</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Logo</a></p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with my cofounders</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>July 2017 - Sept 2017 </p>
+			</div>
+		</div>
+	</div>
+	</br>
+   
+    <h3 class="text-center"> <b>Ideate</b> </h3>
+    <p>Redefine is an organization that promotes social respect through the exhibition of original student artwork created from experiences with inequality.</p>
+    <p>To represent our mission we wanted to use an animal and chose a dragonfly.</p>
+    <p>Meaning of a Dragonfly:</p>
+    <ul>
+	   	<li>Change</li>
+	   	<li>Adaptability</li>
+	   	<li>Symbol of emotions</li>
+	   	<li>Peace & Harmony</li>
+	   	<li>Strength</li>
+	</ul>
+
+    </br>
+    <h3 class="text-center"> <b>Design</b> </h3>
+	    <div class="row text-center d-flex justify-content-center">
+	    	<div class="col-4 text-center">
+	    		<img src="Redefine1-46.png" alt="" style="width:100%;">
+	    	</div>
+	    </div>
+</div>
+
 
 <?php include ('msa-modal.php');?>
 <?php include ('portfolio-modal.php');?>
