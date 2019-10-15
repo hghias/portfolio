@@ -201,6 +201,20 @@
 		</div>
 
 		<div class = "col-lg-4">
+
+			<div class="project pb-4 threed"> <!-- Pentapod !-->
+				<a data-options='{"src": "#podModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+		 				<img class="mx-auto d-block" src="22_GhiasH.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Pentapod </h2>
+			 				<p class ="text-center mx-auto"> Cardboard Prototype </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
 			<div class="project pb-4 digital">
 				<a class="" href="Heart.png" data-fancybox="filter">
 					<div class="show_overlay">
@@ -287,6 +301,13 @@
 </div>
 
 <?php include ('footer.php');?>
+
+
+<div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);" id="podModal"> 
+	<img class="col-lg-3 pt-2" src="22_GhiasH.jpg" alt="" style="width:80%;">
+	<img class="col-lg-3 pt-2" src="20_GhiasH.jpg" alt="" style="width:82%;">
+	<img class="col-lg-3 pt-2" src="24_GhiasH.jpg" alt="" style="width:22.5%;">
+</div>
 
 <div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);
 " id="WingsModal"> 

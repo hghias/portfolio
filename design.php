@@ -35,14 +35,13 @@
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class = "col-lg-4">
-
 			<div class="project pb-3 ux branding"> <!-- SCD !-->
-				<a data-options='{"src": "#scdModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-fancybox data-touch="true" href="#scdModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Smart Choice Distributors1.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Smart Choice Distributors </h2>
+		 					<h2 class="text-center"> Smart Choice Distributors </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Product Development </p>
 	 					</div>
 					</div>
@@ -51,7 +50,7 @@
 
 			
 			<div class="project pb-3 product"> <!-- BUDDY !-->
-				<a data-options='{"src": "#buddyModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+					<a data-fancybox data-touch="true" href="#buddyModal"> 
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
@@ -63,51 +62,8 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a href="Redefine.png" data-fancybox="images">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
-				<a href="Final Project.pdf" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC0419.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
-		 					<p class ="text-center mx-auto"> Product Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-		</div>
-
-		<div class = "col-lg-4">
-
-			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
-				<a data-options='{"src": "#MSAModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
-		 					<p class ="text-center mx-auto"> UX/UI Design • Web Development </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
-				<a data-options='{"src": "#HafsaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+				<a data-fancybox data-touch="true" href="#HafsaModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="portfolio-18.png" alt="" style="background-color: #48A2B5;"> <!--#f0efef!-->
@@ -119,8 +75,64 @@
 				</a>
 			</div>
 
+			<div class="project pb-3 branding"> <!-- MICHIGAN MOVEMENT !-->
+				<a data-fancybox data-touch="true" href="#MMModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Michigan Movement </h2>
+		 					<p class ="text-center mx-auto"> Brand Development </p>
+	 					</div>
+					</div>
+				</a> 	
+			</div>
+
+			<div class="project pb-3 branding"> <!-- REDEFINE !-->
+ 				<a data-fancybox data-touch="true" href="Redefine1-46.png" data-fancybox="images">
+	 				<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Redefine </h2>
+		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+		
+		</div>
+
+		<div class = "col-lg-4">
+
+			<div class="project pb-3 ux"> <!-- Flutter !-->
+				<a data-fancybox data-touch="true" href="#FlutterModal" >
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Flutter: A Digital Pen Pal </h2>
+		 					<p class ="text-center mx-auto"> UX/UI Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
+				<a data-fancybox data-touch="true" href="#MSAModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
+		 					<p class ="text-center mx-auto"> UX/UI Design • Web Development </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 			<div class="project pb-3 product branding graphic"> <!-- SPARK !-->
-				<a href="Spark.pdf" data-fancybox="images">
+				<a data-fancybox data-touch="true" href="Spark.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
@@ -132,77 +144,18 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 product"> <!-- Eclipse !-->
-				<a href="Perfume_Documentation_Hafsa_Ghias.pdf" data-fancybox="images">
+			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
+				<a data-fancybox data-touch="true" href="Final Project.pdf" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC0063.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="_DSC0419.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Eclipse </h2>
+		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
 		 					<p class ="text-center mx-auto"> Product Design </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
-
-			<div class="project pb-3 branding"> <!-- MICHIGAN MOVEMENT !-->
-				<a data-options='{"src": "#MMModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Michigan Movement </h2>
-		 					<p class ="text-center mx-auto"> Brand Development </p>
-	 					</div>
-					</div>
-				</a> 	
-			</div>
-			
-			
-		</div>
-
-		<div class = "col-lg-4">
-
-		
-			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
-				<a data-options='{"src": "#layersModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="layers-22.png" alt="" style="background-color: #5e2960;">
-
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
-		 					<p class ="text-center mx-auto">Illustration • UI Design • Web Development</p>
-	 					</div>
-					</div>
-				</a>
-				
-			</div>
-
-			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
-				<a data-options='{"src": "#optModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
-		 					<p class ="text-center mx-auto">Brand Development</p>
-	 					</div>
-					</div>
-				</a>
-			</div>	
-
-			<div class="project pb-3 product"> <!-- Pentapod !-->
-				<a data-options='{"src": "#podModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="22_GhiasH.jpg" alt="" style=" padding-top:15px;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Pentapod </h2>
-	 					</div>
-					</div>
-				</a>
-			</div>	
 
 			<div class="project pb-3 branding"> <!-- PAANI !-->
 				<a href="Paani.png" data-fancybox="images">
@@ -217,6 +170,66 @@
 				</a>
 			</div>
 
+			
+		</div>
+
+		<div class = "col-lg-4">
+
+		
+			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
+				<a data-fancybox data-touch="true" href="#layersModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="layers-22.png" alt="" style="background-color: #5e2960;">
+
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
+		 					<p class ="text-center mx-auto">Illustration • UI Design • Web Development</p>
+	 					</div>
+					</div>
+				</a>
+				
+			</div>
+
+			<div class="project pb-3 ux graphic"> <!-- Elevator !-->
+				<a data-fancybox data-touch="true" href="10,000 Floor Elevator Design.pdf">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Elevator-45-45.png" alt=""> 
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> 10,000 Floor Elevator </h2>
+		 					<p class ="text-center mx-auto"> Interaction Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
+				<a data-fancybox data-touch="true" href="#optModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Optimize Branding Consultant </h2>
+		 					<p class ="text-center mx-auto">Brand Development</p>
+	 					</div>
+					</div>
+				</a>
+			</div>	
+
+			<div class="project pb-3 product"> <!-- Eclipse !-->
+				<a data-fancybox data-touch="true" href="Perfume_Documentation_Hafsa_Ghias.pdf" >
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="_DSC0063.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Eclipse </h2>
+		 					<p class ="text-center mx-auto"> Product Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+			
 		</div>
 	</div>
 </div>
@@ -225,50 +238,58 @@
 
 </body>
 
-<div class="text-center" style="display:none; background-color: rgba(0,0,0,0); color:white;
-" id="buddyModal"> 
-	<h1> The Buddy Bird </h1>
-	<p>A platform that allows two people to easily ride a Bird</p>
-	<img class="col-lg-4 pt-2" src="_DSC1298.jpg" alt="" style="width:26%;">
-	<img class="col-lg-4 pt-2" src="_DSC1267.jpg" alt="" style="width:26%;">
-</div>
-
-<div class="text-center" style="display:none; background-color: rgba(0,0,0,0);
-" id="podModal"> 
-	<img class="col-lg-3 pt-2" src="22_GhiasH.jpg" alt="" style="width:80%;">
-	<img class="col-lg-3 pt-2" src="20_GhiasH.jpg" alt="" style="width:82%;">
-	<img class="col-lg-3 pt-2" src="24_GhiasH.jpg" alt="" style="width:22.5%;">
-</div>
 
 <!-- Michigan Movement Modal -->
-<div style="display:none; max-width:1000px; font-family:Nunito;" id="MMModal">
-    <img src="mmcover-10.png" alt="" style="width:100%;">
+<div class="modal p-5" id="MMModal"> 
+    <img src="MM-hero-10.png" alt="" style="width:100%;">
     </br>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col-2">
+				<h5><b>Role</b></h5>
+				<p>Branding Designer</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Logo</a></p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with the cofounders of Michigan Movement</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>July 2017 - Sept 2017 </p>
+			</div>
+		</div>
+	</div>
 	</br>
-    <h1 class="text-center">Michigan Movement</h1>
-    <h4 class="text-center"> Empowering the homeless in Ann Arbor  </h4>
-
-    <p> <b>Role: </b> Branding Designer </br>
-    <b>Client: </b> Michigan Movement </br>
-    <b>Team: </b> Worked with the cofounders of Michigan Movement</p>
-    </br>
-    <h3 class="text-center"> Understanding the Problem </h3>
-    <h5> Client Goals </h5>
+   
+    <h3 class="text-center"> <b>Understanding the Problem </b></h3>
+    <h5> <b>Client Goals</b> </h5>
     <p>Michigan is My Home is a student-run organization that focuses on empowering individuals and families experiencing homelessness through packaging programs, social advocacy, and community engagement. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission.  </p>
     
-    <h3 class="text-center"> Ideate </h3>
+    <h3 class="text-center"> <b>Ideate</b> </h3>
+    <h5> <b>Sketches</b> </h5>
+    <div class="row text-center">
+    	<div class="col-4 text-center">
+    		<img src="MM sketches.JPG" alt="" style="width:100%;">
+    	</div>
+    </div>
 
-    <h3 class="text-center"> Design </h3>
+    <h3 class="text-center"> <b>Design</b> </h3>
 
-    <h3 class="text-center"> Implement </h3>
+    <h3 class="text-center"> <b>Implement</b> </h3>
 
 </div>
 
 <?php include ('msa-modal.php');?>
-<?php include ('portfolio.php');?>
-<?php include ('optimize.php');?>
+<?php include ('portfolio-modal.php');?>
+<?php include ('optimize-modal.php');?>
 <?php include ('scd-modal.php');?>
 <?php include ('layers-modal.php');?>
+<?php include ('Flutter-modal.php');?>
+<?php include ('buddy-modal.php');?>
 
 <script>    
 	$(function(){
@@ -312,13 +333,12 @@
 <script>
 	$('[data-fancybox="images"]').fancybox({
 		buttons : [ 
-		    'slideShow',
-		    'zoom',
-		    'fullScreen',
 		    'close'
 		],
 		protect:true,
 	});
+
+
 
   AOS.init();
 

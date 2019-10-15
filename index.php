@@ -20,12 +20,12 @@
 			</div>
 		</div>
 
-		<div class="index-lion col-4 my-auto" id="parallax" data-speed="0.1" >
-			<div class="index-lion-container" data-speed="0.05">
+		<div class="index-lion col-4 my-auto" id="parallax" data-speed="0.1" iosFix="true" androidFix="true">
+			<div class="index-lion-container" data-speed="0.05" iosFix="true" androidFix="true">
 				<img class="index-lion-img" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 			
-			<div class="index-lion-shadow-container" data-speed="0.02">
+			<div class="index-lion-shadow-container" data-speed="0.02" iosFix="true" androidFix="true">
 				<img class="index-lion-shadow-img" src="Hafsa Logo-13.png" alt="lion logo">
 			</div>
 		</div>
@@ -47,7 +47,7 @@
 		<div class="pl-0 col-3 index-intro">
 
 		</div>
-		<div class="col-8 col-md-7 pl-5 pt-5 pb-5 mt-5 mb-5 about">
+		<div class="col-8 col-md-7 pl-md-5 pt-md-5 pt-3 pb-md-5 pb-3 mt-md-5 mb-md-5 about">
 			<h1 style="color:#48A2B5; line-height:1.5;"> Hi, it's nice to meet you! </h1>
 			</br>
 			<h2> I’m a user experience designer focused on fostering inclusivity and creating equal opportunity. </h2>
@@ -60,7 +60,7 @@
 
 </div>
 
-<div class="container-fluid p-0 pl-4 pr-2 pb-5">
+<div class="container-fluid p-0 pl-2 pr-2 pb-5">
 
 	<!-- UX DESIGN !-->
 	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
@@ -69,7 +69,7 @@
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
 		</div>
 
-		<div class="col-md-6 order-1 order-md-2">
+		<div class="col-md-6 text-md-center order-1 order-md-2">
 			<a href="design.php?filter=ux"> <img class="indeximg" src="index-ux.png" alt="UX Design Image"> </a> 
 		</div>
 	</div>
@@ -126,7 +126,8 @@
 </body>
 
 <script>
-	$('html').mousemove(function(e){
+	if (screen.width >= 576) { 
+		$('html').mousemove(function(e){
 
 		var wx = $(window).width();
         var wy = $(window).height();
@@ -143,6 +144,7 @@
 	    	TweenMax.to($(this), 1, {x: (1 - newx*speed), y: (1 - newy*speed)});
 	    });
 	});
+	}
 
 	window.onscroll = function() { 
 		document.body.style.webkitPerspectiveOrigin = window.scrollX + "px" + window.scrollY + "px";
