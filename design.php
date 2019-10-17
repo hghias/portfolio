@@ -81,6 +81,19 @@
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
 						<div class='text-hover'>
+		 					<h2 class ="text-center"> Graphic Design Projects </h2>
+		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
+	 					</div>
+					</div>
+				</a> 	
+			</div>
+
+			<div class="project pb-3 branding"> <!-- GRAPHIC DESIGN !-->
+				<a data-fancybox data-touch="true" href="#GraphicModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
+						<div class='text-hover'>
 		 					<h2 class ="text-center"> Michigan Movement </h2>
 		 					<p class ="text-center mx-auto"> Brand Development </p>
 	 					</div>
@@ -280,8 +293,8 @@
 
     <h3 class="text-center"> <b>Design</b> </h3>
     <div class="row text-center d-flex justify-content-center">
-    	<div class="col-4 text-center">
-    		<img src="MM Style Guide.png" alt="" style="width:100%;">
+    	<div class="col-6 text-center">
+    		<img src="MM Style Guide.png" alt="" style="width:80%; border: 1px solid #DEDDDD; width:100%;">
     	</div>
     </div>
 
@@ -381,6 +394,76 @@
 	    	</div>
 	    </div>
 </div>
+
+<!-- Graphic Design Modal -->
+<div class="modal p-5" id="GraphicModal"> 
+    <div class="text-center">
+    	<h2>Graphic Design</h2>
+    </div>
+  
+    </br>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col">
+				<h3> MSA Banquet Flyer </h3>
+			</div>
+		</div>
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Illustrator</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Print & Web Flyer</a></p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with the MSA Board</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>3 weeks, March 2019 </p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-6">
+				<img src="MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-9">
+				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
+			</div>
+			<div class="col-3">
+				<img src="MSA Banquet Countdown 3.png" alt="" style="width:100%;">
+			</div>
+		</div>
+	</div>
+
+	</br>
+
+	<h3 class="text-center"> <b>The Organization</b> </h3>
+	<p>In the light of a new age and new hope for Pakistan, Paani is a 501(c)3 non-profit that aims to improve sanitation issues occurring within Pakistan by creating a space for innovative solutions and educating local and international communities. Paani does this by the means of primary, secondary and tertiary prevention: by focusing on advocacy projects to improve public knowledge on sanitation practices, building and revitalizing sources of water, and donating items to rural health clinics. </p>
+
+    <h3 class="text-center"> <b>Ideate</b> </h3>
+    <p> The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo. </p>
+    <p>Client Requirements: ​</p>
+    <ul>
+	   	<li>Paani written in Urdu</li>
+	   	<li>Text in the shape of a teardrop</li>
+	</ul>
+	<p>In the first few variations, I only worked with the Urdu word and tried to frame it in a circle and a teardrop. The final design includes the word Paani written in both English and Urdu, so everyone can read it. Additionally, the dots in the Urdu word are drawn like diamonds or starts, to symbolize hope and progress. I also designed a t-shirt. We decided to use the word Paak in Urdu, which means pure, and to model it after the a raindrop. ​</p>
+
+    </br>
+    <h3 class="text-center"> <b>Design</b> </h3>
+	    <div class="row text-center d-flex justify-content-center">
+	    	<div class="col-4 text-center">
+	    		<img src="Paani.png" alt="" style="width:100%;">
+	    	</div>
+	    </div>
+</div>
+
 
 
 <?php include ('msa-modal.php');?>
