@@ -92,7 +92,7 @@
 				<a data-fancybox data-touch="true" href="#GraphicModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Banner.png" alt="" style="background-color: #4B92A0; display:block;">
+						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Flyer.png" alt="" style="background-color: #4B92A0; display:block;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Graphic Design Projects </h2>
 		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
@@ -290,8 +290,9 @@
     		<img src="MM sketches.JPG" alt="" style="width:100%;">
     	</div>
     </div>
-
+	</br>
     <h3 class="text-center"> <b>Design</b> </h3>
+    </br>
     <div class="row text-center d-flex justify-content-center">
     	<div class="col-6 text-center">
     		<img src="MM Style Guide.png" alt="" style="width:80%; border: 1px solid #DEDDDD; width:100%;">
@@ -342,7 +343,7 @@
     </br>
     <h3 class="text-center"> <b>Design</b> </h3>
 	    <div class="row text-center d-flex justify-content-center">
-	    	<div class="col-4 text-center">
+	    	<div class="col-6 text-center">
 	    		<img src="Redefine1-46.png" alt="" style="width:100%;">
 	    	</div>
 	    </div>
@@ -389,7 +390,7 @@
     </br>
     <h3 class="text-center"> <b>Design</b> </h3>
 	    <div class="row text-center d-flex justify-content-center">
-	    	<div class="col-4 text-center">
+	    	<div class="col-6 text-center">
 	    		<img src="Paani.png" alt="" style="width:100%;">
 	    	</div>
 	    </div>
@@ -430,15 +431,18 @@
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-6">
 				<img src="MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
+				<p>Flyer</p>
 			</div>
 		</div>
 		</br>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-8">
+			<div class="col-7">
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
+				<p>Facebook Banner</p>
 			</div>
 			<div class="col-3">
 				<img src="MSA Banquet Countdown 3.png" alt="" style="width:100%;">
+				<p>Instagram Countdown</p>
 			</div>
 		</div>
 	</div>
@@ -469,7 +473,7 @@
 		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
-				<img src="The optiMize Community.png" alt="" style="width:100%;">
+				<img src="The optiMize Community.png" alt="" style="width:80%; border: 1px solid #DEDDDD; width:100%;">
 			</div>
 		</div>
 		 
@@ -505,7 +509,7 @@
 		</div>
 		</br>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-8">
+			<div class="col-6">
 				<img src="MSA merch.png" alt="" style="width:100%;">
 			</div>
 		</div>
