@@ -259,7 +259,7 @@
 			</div>
 			<div class="col-2">
 				<h5><b>Timeline</b></h5>
-				<p>July 2017 - Sept 2017 </p>
+				<p>July 2018 - Sept 2018 </p>
 			</div>
 		</div>
 	</div>
@@ -275,6 +275,13 @@
     <div class="row text-center d-flex justify-content-center">
     	<div class="col-4 text-center">
     		<img src="MM sketches.JPG" alt="" style="width:100%;">
+    	</div>
+    </div>
+
+    <h3 class="text-center"> <b>Design</b> </h3>
+    <div class="row text-center d-flex justify-content-center">
+    	<div class="col-4 text-center">
+    		<img src="MM Style Guide.png" alt="" style="width:100%;">
     	</div>
     </div>
 
@@ -348,7 +355,7 @@
 			</div>
 			<div class="col-2">
 				<h5><b>Timeline</b></h5>
-				<p>July 2017 - Sept 2017 </p>
+				<p>Sept 2018 - Nov 2018 </p>
 			</div>
 		</div>
 	</div>
