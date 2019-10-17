@@ -81,8 +81,8 @@
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Graphic Design Projects </h2>
-		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
+		 					<h2 class ="text-center"> Michigan Movement </h2>
+		 					<p class ="text-center mx-auto"> Brand Development </p>
 	 					</div>
 					</div>
 				</a> 	
@@ -92,10 +92,10 @@
 				<a data-fancybox data-touch="true" href="#GraphicModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
+						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Banner.png" alt="" style="background-color: #4B92A0; display:block;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Michigan Movement </h2>
-		 					<p class ="text-center mx-auto"> Brand Development </p>
+		 					<h2 class ="text-center"> Graphic Design Projects </h2>
+		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
 	 					</div>
 					</div>
 				</a> 	
@@ -398,14 +398,14 @@
 <!-- Graphic Design Modal -->
 <div class="modal p-5" id="GraphicModal"> 
     <div class="text-center">
-    	<h2>Graphic Design</h2>
+    	<h2>Graphic Design Projects </h2>
     </div>
-  
     </br>
 	<div class="p-5">
 		<div class="row"> 
 			<div class="col">
 				<h3> MSA Banquet Flyer </h3>
+				</br>
 			</div>
 		</div>
 		<div class="row"> 
@@ -415,7 +415,7 @@
 			</div>
 			<div class="col-2" >
 				<h5><b>Deliverables</b></h5>
-				<p>Print & Web Flyer</a></p>
+				<p>Print & Web Flyer</p>
 			</div>
 			<div class="col-2">
 				<h5><b>Team</b></h5>
@@ -426,13 +426,15 @@
 				<p>3 weeks, March 2019 </p>
 			</div>
 		</div>
-		<div class="row">
+		</br>
+		<div class="row text-center d-flex justify-content-center">
 			<div class="col-6">
 				<img src="MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-9">
+		</br>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-8">
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
 			</div>
 			<div class="col-3">
@@ -443,25 +445,73 @@
 
 	</br>
 
-	<h3 class="text-center"> <b>The Organization</b> </h3>
-	<p>In the light of a new age and new hope for Pakistan, Paani is a 501(c)3 non-profit that aims to improve sanitation issues occurring within Pakistan by creating a space for innovative solutions and educating local and international communities. Paani does this by the means of primary, secondary and tertiary prevention: by focusing on advocacy projects to improve public knowledge on sanitation practices, building and revitalizing sources of water, and donating items to rural health clinics. </p>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col">
+				<h3> The optiMize Community </h3>
+				</br>
+			</div>
+		</div>
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Graphic Design</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Flyer</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>2 weeks, Dec 2018 </p>
+			</div>
+		</div>
+		</br>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-8">
+				<img src="The optiMize Community.png" alt="" style="width:100%;">
+			</div>
+		</div>
+		 
+	</div>
 
-    <h3 class="text-center"> <b>Ideate</b> </h3>
-    <p> The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo. </p>
-    <p>Client Requirements: ​</p>
-    <ul>
-	   	<li>Paani written in Urdu</li>
-	   	<li>Text in the shape of a teardrop</li>
-	</ul>
-	<p>In the first few variations, I only worked with the Urdu word and tried to frame it in a circle and a teardrop. The final design includes the word Paani written in both English and Urdu, so everyone can read it. Additionally, the dots in the Urdu word are drawn like diamonds or starts, to symbolize hope and progress. I also designed a t-shirt. We decided to use the word Paak in Urdu, which means pure, and to model it after the a raindrop. ​</p>
+	</br>
 
-    </br>
-    <h3 class="text-center"> <b>Design</b> </h3>
-	    <div class="row text-center d-flex justify-content-center">
-	    	<div class="col-4 text-center">
-	    		<img src="Paani.png" alt="" style="width:100%;">
-	    	</div>
-	    </div>
+	<div class="p-5">
+		<div class="row"> 
+			<div class="col">
+				<h3> MSA Merchandise </h3>
+				</br>
+			</div>
+		</div>
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Graphic Design</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>T-shirt</p>
+				<p>Stickers</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with the MSA Board</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>Aug 2018 - Nov 2018 </p>
+			</div>
+		</div>
+		</br>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-8">
+				<img src="MSA merch.png" alt="" style="width:100%;">
+			</div>
+		</div>
+		 
+	</div>
+
 </div>
 
 
