@@ -196,7 +196,7 @@
 			<p>Old Sitemap</p>
 		</div>
 		<div class="col-lg-6 text-center"> 
-			<img src="msa new sitemap.jpg" alt="" style="width:70%;">  
+			<img src="msa new sitemap.jpg w-lg-94" alt="" style="width:70%;">  
 			<p>New Sitemap</p>
 		</div>
 	</div>
