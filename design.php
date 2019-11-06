@@ -405,6 +405,46 @@
 	<div class="p-5">
 		<div class="row"> 
 			<div class="col">
+				<h3> Redefine Showcase Flyer </h3>
+				</br>
+			</div>
+		</div>
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Illustrator</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Print & Web Flyer</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with Redefine Board</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>1 week, October 2019 </p>
+			</div>
+		</div>
+		</br>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-6">
+				<img src="Reclaiming Lost Narratives.png" alt="" style="width:100%;">
+				<p>Flyer</p>
+			</div>
+		</div>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-8">
+				<img src="Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
+				<p>Facebook Banner</p>
+			</div>
+		</div>
+
+		</br>
+
+		<div class="row"> 
+			<div class="col">
 				<h3> MSA Banquet Flyer </h3>
 				</br>
 			</div>
@@ -434,13 +474,14 @@
 				<p>Flyer</p>
 			</div>
 		</div>
-		</br>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-7">
+			<div class="col-8">
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
-			<div class="col-3">
+		</div>
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-5">
 				<img src="MSA Banquet Countdown 3.png" alt="" style="width:100%;">
 				<p>Instagram Countdown</p>
 			</div>
