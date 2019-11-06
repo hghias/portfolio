@@ -27,7 +27,7 @@
 			<a class="btn ui" id="designbutton" role="button" > UI/UX Design </a>
 			<a class="btn br" id="designbutton" role="button" > Branding Design </a>
 			<a class="btn pr" id="designbutton" role="button" > Product Design </a>
-			<!-- <a class="btn gr" id="designbutton" role="button" > Graphic Design </a> !-->
+			<!--<a class="btn gr" id="designbutton" role="button" > Graphic Design </a>!-->
 		</div>
 	</div>
 </div>
@@ -62,17 +62,17 @@
 				</a>
 			</div>
 
-			<div class="project pb-3"> <!-- GRAPHIC DESIGN !-->
-				<a data-fancybox data-touch="true" href="#GraphicModal">
+			<div class="project pb-3 product branding gr"> <!-- SPARK !-->
+				<a data-fancybox data-touch="true" href="Spark.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Flyer.png" alt="" style="background-color: #4B92A0; display:block;">
+						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Graphic Design Projects </h2>
-		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
+		 					<h2 class ="text-center"> Spark </h2>
+		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
 	 					</div>
 					</div>
-				</a> 	
+				</a>
 			</div>
 			
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
@@ -131,18 +131,6 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 product branding graphic"> <!-- SPARK !-->
-				<a data-fancybox data-touch="true" href="Spark.pdf">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Spark </h2>
-		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
 
 			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
 				<a data-fancybox data-touch="true" href="Final Project.pdf" >
@@ -152,6 +140,19 @@
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
 		 					<p class ="text-center mx-auto"> Product Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 branding"> <!-- REDEFINE !-->
+ 				<a data-fancybox data-touch="true" href="#RedefineModal">
+	 				<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Redefine </h2>
+		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
 	 					</div>
 					</div>
 				</a>
@@ -204,6 +205,19 @@
 				</a>
 			</div>
 
+			<div class="project pb-3 branding"> <!-- GRAPHIC DESIGN !-->
+				<a data-fancybox data-touch="true" href="#GraphicModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Flyer.png" alt="" style="background-color: #4B92A0; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Graphic Design Projects </h2>
+		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
+	 					</div>
+					</div>
+				</a> 	
+			</div>
+
 			<div class="project pb-3 branding graphic"> <!-- OPTIMIZE !-->
 				<a data-fancybox data-touch="true" href="#optModal">
 					<div class="show_overlay">
@@ -225,19 +239,6 @@
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Eclipse </h2>
 		 					<p class ="text-center mx-auto"> Product Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 branding"> <!-- REDEFINE !-->
- 				<a data-fancybox data-touch="true" href="#RedefineModal">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A2D5D8; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
 	 					</div>
 					</div>
 				</a>
@@ -485,14 +486,14 @@
 				<p>Ideation</p>
 			</div>
 		</div>
-
+		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
 			<div class="col-3">
-				<img src="MSA Banquet Countdown 3.png" alt="" style="width:109%;">
+				<img src="MSA Banquet Countdown 3.png" alt="" style="width:105%;">
 				<p>Instagram Countdown</p>
 			</div>
 		</div>
