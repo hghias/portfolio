@@ -428,16 +428,15 @@
 			</div>
 		</div>
 		</br>
+
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-4">
 				<img src="Reclaiming Lost Narratives.png" alt="" style="width:100%;">
 				<p>Flyer</p>
 			</div>
-		</div>
-		<div class="row text-center d-flex justify-content-center">
-			<div class="col-7">
-				<img src="Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
-				<p>Facebook Banner</p>
+			<div class="col-3">
+				<img src="Reclaiming Lost Narratives Ideation.png" alt="" style="width:100%;">
+				<p>Ideation</p>
 			</div>
 		</div>
 
@@ -468,12 +467,18 @@
 			</div>
 		</div>
 		</br>
+
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-6">
 				<img src="MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
 				<p>Flyer</p>
 			</div>
+			<div class="col-3">
+				<img src="Power of Small Deeds Ideation.png" alt="" style="width:100%;">
+				<p>Ideation</p>
+			</div>
 		</div>
+
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
