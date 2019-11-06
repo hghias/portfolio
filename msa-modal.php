@@ -207,11 +207,11 @@
     <p>We wanted most of the information to be available on the home page with links to the other pages if the user wanted more information. </p>
     <div class="row d-flex justify-content-center">
 		<div class="col-lg-5 pt-2 text-center">
-			<img src="msa_wireframe.jpg" alt="" style="width:100%;"> 
+			<img src="msa_wireframe.JPG" alt="" style="width:100%;"> 
 		</div>
 		  </br>
 		<div class="col-lg-5 pt-2 text-center"> 
-			<img src="msa_wireframe1.jpg" alt="" style="width:100%;">  
+			<img src="msa_wireframe1.JPG" alt="" style="width:100%;">  
 		</div>
 	</div>
 	</br>

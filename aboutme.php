@@ -52,7 +52,7 @@
 				<a class="btn pn" id="designbutton" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>
 		</div>
 		<div class="col">
-			<img class="me float-right" src="IMG_75131.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
+			<img class="me float-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
 		</div>
 	</div>
 		
