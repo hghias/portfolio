@@ -74,7 +74,7 @@
 					</div>
 				</a>
 			</div>
-			
+
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
 				<a data-fancybox data-touch="true" href="#HafsaModal">
 					<div class="show_overlay">
@@ -449,7 +449,6 @@
 		</div>
 
 		</br>
-
 		<div class="row"> 
 			<div class="col">
 				<h3> MSA Banquet Flyer </h3>
@@ -567,6 +566,45 @@
 			</div>
 		</div>
 		 
+
+		 <div class="row"> 
+			<div class="col">
+				<h3> Link Showcase Brochure </h3>
+				</br>
+			</div>
+		</div>
+		<div class="row"> 
+			<div class="col-2" style="line-height:10px;">
+				<h5><b>Role</b></h5>
+				<p>Graphic Designer</p>
+			</div>
+			<div class="col-2" >
+				<h5><b>Deliverables</b></h5>
+				<p>Print Brochure</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Team</b></h5>
+				<p>Worked with Redefine Board</p>
+			</div>
+			<div class="col-2">
+				<h5><b>Timeline</b></h5>
+				<p>2 weeks, March 2018 </p>
+			</div>
+		</div>
+		</br>
+
+		<div class="row text-center d-flex justify-content-center">
+			<div class="col-5">
+				<img src="Link Brochure.png" alt="" style="width:100%;">
+			</div>
+			<div class="col-5">
+				<img src="Link Brochure2.png" alt="" style="width:95%;">
+			</div>
+		</div>
+	
+
+		</br>
+
 	</div>
 
 </div>
