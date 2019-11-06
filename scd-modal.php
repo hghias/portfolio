@@ -12,7 +12,7 @@
 			<h5><b>Deliverables</b></h5>
 			<p>Logos</p>
 			<p>Usage Guideline</p>
-			<p>E-commerce website </p>
+			<p>E-commerce Site </p>
 		</div>
 		<div class="col-lg-2">
 			<h5><b>Team</b></h5>
@@ -22,7 +22,7 @@
 			<h5><b>Timeline</b></h5>
 			<p>July 2019 - Present </p>
 		</div>
-		<div class="col-lg-2" style="line-height:10px;">
+		<div class="col-lg-3" style="line-height:10px;">
 			<h5><b>Next Steps</b></h5>
 			<p>Develop hi-fi Mockup</p>
 			<p>Start website development</p>

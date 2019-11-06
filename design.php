@@ -429,13 +429,13 @@
 		</div>
 		</br>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-6">
+			<div class="col-4">
 				<img src="Reclaiming Lost Narratives.png" alt="" style="width:100%;">
 				<p>Flyer</p>
 			</div>
 		</div>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-8">
+			<div class="col-7">
 				<img src="Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
@@ -481,7 +481,7 @@
 			</div>
 		</div>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-5">
+			<div class="col-4">
 				<img src="MSA Banquet Countdown 3.png" alt="" style="width:100%;">
 				<p>Instagram Countdown</p>
 			</div>
