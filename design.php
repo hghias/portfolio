@@ -62,6 +62,19 @@
 				</a>
 			</div>
 
+			<div class="project pb-3"> <!-- GRAPHIC DESIGN !-->
+				<a data-fancybox data-touch="true" href="#GraphicModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Flyer.png" alt="" style="background-color: #4B92A0; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Graphic Design Projects </h2>
+		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
+	 					</div>
+					</div>
+				</a> 	
+			</div>
+			
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
 				<a data-fancybox data-touch="true" href="#HafsaModal">
 					<div class="show_overlay">
@@ -83,19 +96,6 @@
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Michigan Movement </h2>
 		 					<p class ="text-center mx-auto"> Brand Development </p>
-	 					</div>
-					</div>
-				</a> 	
-			</div>
-
-			<div class="project pb-3 branding"> <!-- GRAPHIC DESIGN !-->
-				<a data-fancybox data-touch="true" href="#GraphicModal">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MSA Banquet Flyer_Flyer.png" alt="" style="background-color: #4B92A0; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Graphic Design Projects </h2>
-		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
 	 					</div>
 					</div>
 				</a> 	
@@ -439,8 +439,9 @@
 				<p>Ideation</p>
 			</div>
 		</div>
+		</br>
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-4">
+			<div class="col-8">
 				<img src="Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
@@ -490,8 +491,8 @@
 				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
-			<div class="col-4">
-				<img src="MSA Banquet Countdown 3.png" alt="" style="width:100%;">
+			<div class="col-3">
+				<img src="MSA Banquet Countdown 3.png" alt="" style="width:109%;">
 				<p>Instagram Countdown</p>
 			</div>
 		</div>
