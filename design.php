@@ -35,6 +35,19 @@
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class = "col-lg-4">
+			<div class="project pb-3 ux branding"> <!-- Molar Bear !-->
+				<a data-fancybox data-touch="true" href="#MolarModal">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Molar Bear Square-22.png" alt="" style="background-color: #00808d;">  
+						<div class='text-hover'>
+		 					<h2 class="text-center"> Molar Bear </h2>
+		 					<p class ="text-center mx-auto"> UX/UI Design • Brand Development</p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 			<div class="project pb-3 ux branding"> <!-- SCD !-->
 				<a data-fancybox data-touch="true" href="#scdModal">
 					<div class="show_overlay">
@@ -618,6 +631,7 @@
 <?php include ('layers-modal.php');?>
 <?php include ('Flutter-modal.php');?>
 <?php include ('buddy-modal.php');?>
+<?php include ('MolarModal.php');?>
 
 <script>    
 	$(function(){
