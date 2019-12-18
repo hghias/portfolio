@@ -278,6 +278,7 @@
 		</div>
 	</div>
 
+	</br>
 	<h5> <b>Final Features</b> </h5>
 	</br>
 	<h5 class="text-center">Onboarding</h5>
@@ -339,5 +340,5 @@
 
 	<h5> <b>Video Sketch</b> </h5>
 		<div class="embed-responsive embed-responsive-16by9">
-  			<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=jkAPalLUd1g&feature=youtu.be"></iframe>
+  			<iframe width="560" height="315" src="https://www.youtube.com/embed/jkAPalLUd1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
