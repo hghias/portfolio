@@ -25,19 +25,21 @@
 
     <h3 class="text-center"> <b>Product Brief</b> </h3>
     <hr>
-    <P>Molar bear is an app that improves oral health by incentivizing small lifestyle changes for low income communities by providing financial incentives and rewards.</P>
-    <div class="row text-center">
-		<div class="col pt-3 pb-3 text-center">
+    <!-- <P>Molar bear is an app that improves oral health by incentivizing small lifestyle changes for low income communities by providing financial incentives and rewards.</P> !-->
+    <div class="d-flex justify-content-center">
+		<div class="col-10 pt-3 pb-3 text-center">
 			<img src="Molar Bear Product Brief.jpg" alt="" style="width:100%">  <!-- border: 1px solid #DEDDDD;!-->
 		</div>
 	</div>
 
     <h3 class="text-center"> <b>Design Process</b> </h3>
     <hr>
-    <P>Our design process focused on conducting research, completing multiple design iterations and testing our different versions with users and dental professionals.</P>
-    <div class="col pt-3 pb-3 text-center">
+    <!--<P>Our design process focused on conducting research, completing multiple design iterations and testing our different versions with users and dental professionals.</P> !-->
+   <div class="d-flex justify-content-center">
+   		<div class="col-10 pt-3 pb-3 text-center">
 			<img src="Molar Bear Design Process.jpg" alt="" style="width:100%"> 
 		</div>
+   </div>
 
 	<h3 class="text-center"> <b>Strategize</b> </h3>
 	<hr>
@@ -75,7 +77,7 @@
 	</div>
 
 	<div class="d-flex justify-content-center">
-		<div class="col-8 pt-2 pb-3 text-center">
+		<div class="col-7 pt-2 pb-3 text-center">
 			<img src="Molar Bear Brainstorming.jpg" alt="" style="width:100%">   
 		</div>
 	</div>
@@ -83,9 +85,8 @@
 	</br>
 	</br>
 	</br>
-
 	<h5 class="col-10" style="line-height:60px; margin: 0 auto;"> <b>Hunt Statement</b> </h5>
-	<h4 class="col-10" style="line-height:34px; margin: 0 auto;"> Our goal is to identify <b>behaviors and barriers</b> that lead to oral diseases by observing and conducting interviews of <b>low SES adult patients </b> as well as dental professionals. We want to provide <b>accessible oral health education </b>with a focus on prevention of oral diseases.</h4>
+	<h4 class="col-10" style="line-height:34px; margin: 0 auto;"> Our goal is to identify <b style="color:#ee6c3f;">behaviors and barriers</b> that lead to oral diseases by observing and conducting interviews of <b style="color:#ee6c3f;">low SES adult patients </b> as well as dental professionals. We want to provide <b style="color:#ee6c3f;">accessible oral health education </b>with a focus on prevention of oral diseases.</h4>
 	</br>
 	</br>
 	</br>
@@ -95,7 +96,7 @@
 	<hr>
     <h5> <b>Research Methods</b> </h5>
     <div class="d-flex justify-content-center">
-		<div class="col pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear Research Methods.jpg" alt="" style="width:100%">   
 		</div>
 	</div>
@@ -119,29 +120,25 @@
 	</br>
 	<h5> <b>Research Participant Demographics</b> </h5>
 	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear Research Participant Demographics.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5> <b>Primary Research Methods</b> </h5>
 	<p>We conducted nine 30-minute college student interviews and six 10-minute interviews with the homeless population in order to accurately quantify our three main points for our app. These were Oral Health, Healthcare System, and Tech Use. We discovered that the most important questions were:</p>
-	<p>“What challenges are you facing in maintaining your oral health?” </br>
-		“What are the barriers that you face when going to the dentist?” </p>
+	<p>&emsp; “What challenges are you facing in maintaining your oral health?” </br>
+	&emsp; “What are the barriers that you face when going to the dentist?” </p>
 	<p>We discovered that one of the overarching barriers in the low-ses population was financial need and transportation. Because of this we developed two functions in Molar Bear that would help this problem: a location system to find a dentist near you, and a coupon function that allowed users to obtain monetary rewards for taking preventative measures. </p>
 	</br>
-	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+	<div class="row">
+		<div class="col-4 pb-3 text-center">
 			<img src="Molar Bear Patient Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
-	</div>
-	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-4 pb-3 text-center">
 			<img src="Molar Bear Professional Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
-	</div>
-	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-4 pb-3 text-center">
 			<img src="Molar Bear Survey.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
 	</div>
@@ -149,7 +146,7 @@
 	</br>
 	<h5> <b>Key Findings from Users</b> </h5>
 	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear User Key Findings.jpg" alt="" style="width:100%">
 		</div>
 	</div>
@@ -157,7 +154,7 @@
 	<h5> <b>Key Findings from Dental Professional</b> </h5>
 	<p> We found that primary disease problems are decay and missing teeth, & periodontal disease, prevention is crucial and less expensive in the long run and treatment, like tooth pulling, can be detrimental to overall health. </p>
 	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear Professional Key Findings.jpg" alt="" style="width:100%">
 		</div>
 	</div>
@@ -167,7 +164,7 @@
 	<h5> <b>Affinity Diagramming</b> </h5>
 	<p>Through affinity diagramming, we categorized our findings, developed persona and ideated  on key features that needed to be included in our app design</p>
 	<div class="d-flex justify-content-center">
-		<div class="col-10 pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear Affinity Diagramming.jpg" alt="" style="width:100%">
 		</div>
 	</div>
@@ -227,14 +224,13 @@
 	<h5> <b>Wireframes</b> </h5>
 	<p>We started wireframing with a couple of app features to test with users and see what they thought about navigation and intuitiveness within the app.</p>
 	<div class="d-flex justify-content-center">
-		<div class="col pb-3 text-center">
+		<div class="col-10 pb-3 text-center">
 			<img src="Molar Bear Wireframes.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
 	</br>
-	<h3 class="text-center"> <b>User Testing</b> </h3>
-	<hr>
+	<h5> <b>User Testing</b> </h5>
 	<p>We conducted interviews with dental professionals to narrow down our key features and value proposition. We decided to focus on providing personalized feedback on oral self care practices, oral health education with a focus on the financial benefits and the tracking of general health. </p>
 
 	</br>
@@ -243,7 +239,7 @@
 	<h5> <b>Prototype Version One</b> </h5>
 	<p>Our first protoype had bright colors, less clear navigation and there were informational and interaction gaps between some screens.</p>
 	<div class="d-flex justify-content-center">
-		<div class="col pb-3 text-center">
+		<div class="col-10 pb-3 text-center">
 			<img src="Molar Bear Prototype V1.jpg" alt="" style="width:100%">
 		</div>
 	</div>
@@ -263,7 +259,7 @@
 	<p><b>Features Suggested</b></p>
 	<p>The Dental Professionals also suggeted some changes in some of our features including resources and initial questionnaire.</p>
 	<ul>
-		<li>Add Resrouces</li>
+		<li>Add Resources</li>
 		<ul>
 			<li>Videos on how to brush and floss </li>
 			<li>Local news that impacts health (like recent uranium leak in the Detroit River) </li>
@@ -278,7 +274,7 @@
 	<hr>
 	<h5> <b>Levels of Preventative Approach</b> </h5>
 	<div>
-		<div class="col-10 pb-3 text-center">
+		<div class="col-8 pb-3 text-center">
 			<img src="Molar Bear Preventative Approach.jpg" alt="" style="width:100%">
 		</div>
 	</div>
@@ -338,12 +334,12 @@
 	</br>
 	<h5> <b>Design Specifications</b> </h5>
 	<div class="d-flex justify-content-center">
-		<div class="col pb-3 text-center">
+		<div class="col-10 pb-3 text-center">
 			<img src="Molar Bear Design Specifications.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5> <b>Video Sketch</b> </h5>
 		<div class="embed-responsive embed-responsive-16by9">
-  			<iframe width="560" height="315" src="https://www.youtube.com/embed/jkAPalLUd1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  			<iframe src="https://www.youtube.com/embed/jkAPalLUd1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
