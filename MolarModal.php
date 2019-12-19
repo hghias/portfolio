@@ -125,6 +125,12 @@
 	</div>
 
 	<h5> <b>Primary Research Methods</b> </h5>
+	<p>We conducted nine 30-minute college student interviews and six 10-minute interviews with the homeless population in order to accurately quantify our three main points for our app. These were Oral Health, Healthcare System, and Tech Use. We discovered that the most important questions were:</p>
+	<p>“What challenges are you facing in maintaining your oral health?” </br>
+		“What are the barriers that you face when going to the dentist?” </p>
+	<p>We discovered that one of the overarching barriers in the low-ses population was financial need and transportation. Because of this we developed two functions in Molar Bear that would help this problem: a location system to find a dentist near you, and a coupon function that allowed users to obtain monetary rewards for taking preventative measures. </p>
+
+</p>
 	<div class="d-flex justify-content-center">
 		<div class="col-10 pb-3 text-center">
 			<img src="Molar Bear Patient Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
