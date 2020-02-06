@@ -12,11 +12,11 @@
 
 
 <div class = "container-fluid mmb" data-aos="fade-down" data-aos-duration="1000" > 
-	<div class="row" style="padding-top: 14%; padding-bottom:18%;"> <!--  !-->
+	<div class="row" style="padding-top: 12vh; padding-bottom:15vh;"> <!--  !-->
 		<div class="col align-self-center">
 			<div class="typed-wrap text-center d-flex justify-content-center align-items-center">
-				<h1> Photography </h1>
-				<img class="camera" src="aperture-07.png" alt="">
+				<h1> <span class="underline">Photo</span>graphy </h1>
+				<!-- <img class="camera" src="aperture-07.png" alt=""> !-->
 			</div>
 		</div>
 	</div>
@@ -24,15 +24,15 @@
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
-			<a class="btn sh" id="designbutton" role="button" > Show All </a>
+		<div class="col pb-5 button-group" role="group" data-toggle="buttons"> 
+			<a class="btn sh" id="designbutton" role="button" > SHOW ALL </a>
 			<!-- <a class="btn al" id="designbutton" role="button" > Albums </a>
 			<a class="btn cr" id="designbutton" role="button" > Creative </a>
 			<a class="btn cl" id="designbutton" role="button" > Client </a> !-->
-			<a class="btn pr" id="designbutton" role="button" > Portrait </a>
-			<a class="btn ur" id="designbutton" role="button" > Urban </a>
-			<a class="btn na" id="designbutton" role="button" > Nature </a>
-			<a class="btn we" id="designbutton" role="button" > Wedding </a>
+			<a class="btn pr" id="designbutton" role="button" > PORTRAIT </a>
+			<a class="btn ur" id="designbutton" role="button" > URBAN </a>
+			<a class="btn na" id="designbutton" role="button" > NATURE </a>
+			<!--<a class="btn we" id="designbutton" role="button" > WEDDING </a> !-->
 			<!-- <a class="btn ev" id="designbutton" role="button" > Event </a> !-->
 		</div>
 	</div>
@@ -58,6 +58,12 @@
 			<div class="pb-4 portrait urban creative">
 				<a href="_DSC0185.jpg" data-fancybox="images"  >
 					<img class="" src="_DSC0185.jpg" alt="" width="100%">
+				</a>
+			</div>
+
+			<div class="pb-4 urban creative">
+				<a href="DSC_0244.jpg" data-fancybox="images" >
+					<img class="" src="DSC_0244.jpg" alt="" width="100%">
 				</a>
 			</div>
 
@@ -102,6 +108,12 @@
 			</div>
 
 			<div class="pb-4 portrait creative">
+				<a href="_DSC0740.JPG" data-fancybox="images" >
+					<img class="" src="_DSC0740.JPG" alt="" width="100%">
+				</a>
+			</div>
+
+			<div class="pb-4 portrait creative">
 				<a href="_DSC0247-2.jpg" data-fancybox="images" >
 					<img class="" src="_DSC0247-2.jpg" alt="" width="100%">	
 				</a>
@@ -135,14 +147,20 @@
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="_DSC1039.jpg" data-fancybox="images" >
-					<img class="" src="_DSC1039.jpg" alt="" width="100%">
+				<a href="IMG_3918.JPG" data-fancybox="images" >
+					<img class="" src="IMG_3918.JPG" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4  portrait client">
 				<a href="DSC_0145.jpg" data-fancybox="images" >
 					<img class="" src="DSC_0145.jpg" alt="" width="100%">
+				</a>
+			</div>
+
+			<div class="pb-4 portrait creative">
+				<a href="_DSC0678.JPG" data-fancybox="images" >
+					<img class="" src="_DSC0678.JPG" alt="" width="100%">
 				</a>
 			</div>
 
@@ -156,9 +174,7 @@
   buttons : [ 
     'slideShow',
     'zoom',
-    'fullScreen',
     'close',
-    'thumbs'
   ],
   protect:true,
 });

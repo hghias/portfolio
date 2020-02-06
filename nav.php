@@ -18,16 +18,16 @@
 	<div class="navbar-collapse collapse justify-content-end text-right" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item">
-				<a class="nav-link" id="design-nav" href="design.php"> DESIGN </a> 
+				<a class="nav-link mr-1" id="design-nav" href="design.php"> DESIGN </a> 
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="photo-nav" href="photography.php"> PHOTOGRAPHY </a> 
+				<a class="nav-link mr-1" id="photo-nav" href="photography.php"> PHOTOGRAPHY </a> 
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="mm-nav" href="explorations.php"> EXPLORATIONS </a>  
+				<a class="nav-link mr-1" id="mm-nav" href="explorations.php"> EXPLORATIONS </a>  
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" id="about-nav" href="aboutme.php"> ABOUT ME </a>
+				<a class="nav-link mr-1" id="about-nav" href="aboutme.php"> ABOUT ME </a>
 			</li>
 		</ul>
 	</div>

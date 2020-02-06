@@ -126,7 +126,9 @@
 </body>
 
 <script>
-	if (screen.width >= 576) { 
+	var width = window.innerWidth;
+
+	if (width >= 576) { 
 		$('html').mousemove(function(e){
 
 		var wx = $(window).width();
@@ -143,11 +145,11 @@
 	    	if($(this).attr('data-revert')) speed *= -1;
 	    	TweenMax.to($(this), 1, {x: (1 - newx*speed), y: (1 - newy*speed)});
 	    });
-	});
-	}
+		});
 
-	window.onscroll = function() { 
-		document.body.style.webkitPerspectiveOrigin = window.scrollX + "px" + window.scrollY + "px";
+		window.onscroll = function() { 
+			document.body.style.webkitPerspectiveOrigin = window.scrollX + "px" + window.scrollY + "px";
+		}
 	}
 
   AOS.init();

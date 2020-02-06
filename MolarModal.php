@@ -23,6 +23,8 @@
 	</div> 
 	</br> !-->
 
+	<div>
+	
     <h3 class="text-center"> <b>Product Brief</b> </h3>
     <hr>
     <!-- <P>Molar bear is an app that improves oral health by incentivizing small lifestyle changes for low income communities by providing financial incentives and rewards.</P> !-->

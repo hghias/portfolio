@@ -11,9 +11,9 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%;" >
+		<div class ="col my-auto align-self-center" style="padding-top: 5%; padding-bottom:8%;" >
 			<div class="typed-wrap text-center">
-				<h1> About Me </h1>
+				<h1> <span class="underline">About</span> Me</h1>
 
 			</div>
 		</div>
@@ -49,7 +49,7 @@
 				I aim to use design as a tool to foster inclusivity & create equal opportunity. With a background in computer science, my goal is to design user interfaces with regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
 				</h5>
 				</br>
-				<a class="btn pn" id="designbutton" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>
+				<a class="btn pn pl-4 pr-4" id="Contact" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>
 		</div>
 		<div class="col">
 			<img class="me float-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
@@ -73,9 +73,9 @@
 			<h2> My Design Process </h2>
 			</br>
 			<h5 style= "line-height: 150%;"> I believe that process is extremely important because it makes sure I am intentional with every decision. My design process has been abstracted from the UX design process, but can be applied to any project I am working on, whether it being product design, branding design or graphic design. Good design is human centered, which means that it is empathetic, so conducting user research is one of the most important steps. I strive to understand the client's goals and user's needs and translate them into a visual that satisfies the client and user.</h5>
- 			<div class="my-auto align-self-center text-center"> 
+ 			<div class="my-auto align-self-center text-center pb-2"> 
 				<img src="ProcessDetails.png" alt="" style="width:100%;">
-			</div>
+			</div> 
 		</div>
 	</div>
 </div> 

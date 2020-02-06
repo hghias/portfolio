@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 	<?php include ('head.php');?>
@@ -11,9 +11,10 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%;" >
+		<div class ="col my-auto align-self-center" style="padding-top: 12vh; padding-bottom:15vh;" >
 			<div class="typed-wrap text-center">
-				<h1> <span class="typed"></span> <!--<span class="typed-cursor">-</span> !--> Design</h1>
+				
+				 <h1> <span id="header" class="underline" style=""></span> Design</h1> <!--typed!-->
 
 			</div>
 		</div>
@@ -22,11 +23,11 @@
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
-			<a class="btn sh " id="designbutton" role="button"> Show All </a>
-			<a class="btn ui" id="designbutton" role="button" > UI/UX Design </a>
-			<a class="btn br" id="designbutton" role="button" > Branding Design </a>
-			<a class="btn pr" id="designbutton" role="button" > Product Design </a>
+		<div class="col pb-5 button-group" role="group" data-toggle="buttons"> 
+			<a class="btn sh" id="designbutton" role="button"> SHOW ALL </a>
+			<a class="btn ui" id="designbutton" role="button" > UI/UX DESIGN </a>
+			<a class="btn br" id="designbutton" role="button" > BRANDING DESIGN </a>
+			<a class="btn pr" id="designbutton" role="button" > PRODUCT DESIGN </a>
 			<!--<a class="btn gr" id="designbutton" role="button" > Graphic Design </a>!-->
 		</div>
 	</div>
@@ -188,8 +189,20 @@
 		</div>
 
 		<div class = "col-lg-4">
+			<div class="project pb-3 ux product"> <!-- Snug !-->
+				<a data-fancybox data-touch="true" href="Snug Business Plan & Design Process.pdf" >
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="Snug.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Snug: Encouraging Natural Sleep </h2>
+		 					<p class ="text-center mx-auto"> Product Design • UX Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
 
-		
+
 			<div class="project pb-3 branding ux graphic"> <!-- Layers !-->
 				<a data-fancybox data-touch="true" href="#layersModal">
 					<div class="show_overlay">
@@ -202,7 +215,6 @@
 	 					</div>
 					</div>
 				</a>
-				
 			</div>
 
 			<div class="project pb-3 ux graphic"> <!-- Elevator !-->
@@ -680,9 +692,8 @@
 		protect:true,
 	});
 
-
-
   AOS.init();
+
 
 $('#myModal').on('shown.bs.modal', function () {
   $('#mymodal').trigger('focus')
@@ -690,7 +701,8 @@ $('#myModal').on('shown.bs.modal', function () {
 
 
 $('#design-nav').toggleClass('navbar-active');
-
+	
+	var span = document.getElementById("header"); 
 	var url = window.location.search;
 	if (url == "?filter=ux") {
 		$('.ui').addClass("active");
@@ -699,6 +711,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.product').hide();
 		$('div.graphic').hide();
 		$('div.ux').show();
+		span.textContent = "User Experience";
 	}
 	else if (url == "?filter=branding") {
 		$('.br').addClass("active");
@@ -707,6 +720,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.ux').hide();
 		$('div.graphic').hide();
 		$('div.branding').show();
+		span.textContent = "Branding";
 	}
 	else if (url == "?filter=product") {
 		$('.pr').addClass("active");
@@ -715,9 +729,11 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.ux').hide();
 		$('div.graphic').hide();
 		$('div.product').show();
+		span.textContent = "Product";
 	}
 	else {
 		$('.sh').addClass("active");
+		span.textContent = "";
 	}
 	
 
@@ -726,12 +742,6 @@ $('#design-nav').toggleClass('navbar-active');
 	    $(this).addClass("active");
 	}); 
 
-	 
-
-	$('.btn').on('click', function(){
-	    $('.btn').removeClass("active");
-	    $(this).addClass("active");
-	});
 
 	$(".ui").click(function() { //ui/ux
 		$(this).toggleClass("active");
@@ -739,6 +749,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.product').hide();
 		$('div.graphic').hide();
 		$('div.ux').show();
+		span.textContent = "User Experience";
 	});
 
 	$(".sh").click(function() { //show all
@@ -747,6 +758,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.product').show();
 		$('div.ux').show();
 		$('div.graphic').show();
+		span.textContent = "";
 	});
 
 	$(".br").click(function() { //branding
@@ -755,6 +767,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.ux').hide();
 		$('div.graphic').hide();
 		$('div.branding').show();
+		span.textContent = "Branding";
 	});
 
 	$(".pr").click(function() { //product design
@@ -763,6 +776,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.ux').hide();
 		$('div.graphic').hide();
 		$('div.product').show();
+		span.textContent = "Product";
 	});
 
 	$(".gr").click(function() { //graphic design
@@ -771,6 +785,7 @@ $('#design-nav').toggleClass('navbar-active');
 		$('div.product').hide();
 		$('div.ux').hide();
 		$('div.graphic').show();
+		span.textContent = "Graphic";
 	});
 
 </script>

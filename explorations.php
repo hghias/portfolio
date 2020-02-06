@@ -11,10 +11,10 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="mmb col my-auto align-self-center" style="padding-top: 15%; padding-bottom:18%; " >
+		<div class ="mmb col my-auto align-self-center" style="padding-top: 12vh; padding-bottom:15vh;" >
 			<div class="typed-wrap text-center d-flex justify-content-center align-items-center">
-				<h1> Explorations </h1>
- 				<img class="mmlanding" src="fff.png" alt="">
+				<h1> <span class="underline">Explor</span>ations </h1>
+ 				<!-- <img class="mmlanding" src="fff.png" alt=""> !-->
  			</div>
 		</div>
 	</div>
@@ -22,12 +22,12 @@
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
-			<a class="btn sh" id="designbutton" role="button" > Show All </a>
-			<a class="btn pn" id="designbutton" role="button" > Painting </a>
-			<a class="btn dr" id="designbutton" role="button" > Drawing </a>
-			<a class="btn 3d" id="designbutton" role="button" > Three Dimensional </a>
-			<a class="btn dg" id="designbutton" role="button" > Other </a>
+		<div class="col pb-5 button-group" role="group" data-toggle="buttons"> 
+			<a class="btn sh" id="designbutton" role="button" > SHOW ALL </a>
+			<a class="btn pn" id="designbutton" role="button" > PAINTING </a>
+			<a class="btn dr" id="designbutton" role="button" > DRAWING </a>
+			<a class="btn 3d" id="designbutton" role="button" > THREE DIMENSIONAL </a>
+			<!--<a class="btn dg" id="designbutton" role="button" > OTHER </a>!-->
 		</div>
 	</div>
 </div>
@@ -105,7 +105,7 @@
 				</a>
 			</div>
 
-			<div class="project pb-4 digital">
+			<div class="project pb-4 drawing">
 				<a class="" href="box.jpg" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -113,6 +113,19 @@
 					<div class='text-hover'>
 						<h2 class ="text-center"> Implied Rectangle </h2>
 			 				<p class ="text-center mx-auto"> Marker, 7 x 9 </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="project pb-4 threed"> 
+				<a data-options='{"src": "#BlockModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+					<img class="img-fluid" src="IMG_9891.jpg" alt="" width="100%">
+					<div class='text-hover'>
+						<h2 class ="text-center"> Modular Blocks </h2>
+			 				<p class ="text-center mx-auto"> Wood & Cardboard </p>
 		 				</div>
 	 				</div>
 				</a>
@@ -147,7 +160,7 @@
 				</a>
 			</div>
 
-			<div class="project pb-4 digital">
+			<div class="project pb-4 threed">
 				<a data-options='{"src": "#AnaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -186,7 +199,7 @@
 				</a>
 			</div>
 
-			<div class="project pb-4 digital">
+			<div class="project pb-4 drawing">
 				<a class="" href="nat015.jpg" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -215,7 +228,7 @@
 				</a>
 			</div>
 
-			<div class="project pb-4 digital">
+			<div class="project pb-4 painting">
 				<a class="" href="Heart.png" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -229,7 +242,7 @@
 			</div>
 
 
-			<div class="project pb-4 digital">
+			<div class="project pb-4 drawing">
 				<a data-options='{"src": "#edgeModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -302,6 +315,11 @@
 
 <?php include ('footer.php');?>
 
+<div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);" id="BlockModal"> 
+	<img class="col-lg-5 pt-2" src="IMG_9891.jpg" alt="" style="width:80%;">
+	<img class="col-lg-5 pt-2" src="blocks.jpg" alt="" style="width:80%;">
+
+</div>
 
 <div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);" id="podModal"> 
 	<img class="col-lg-3 pt-2" src="22_GhiasH.jpg" alt="" style="width:80%;">
