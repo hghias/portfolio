@@ -1,12 +1,14 @@
 <!-- Molar Modal !-->
-<div class="modal p-3 p-lg-5" id="MolarModal"> 
+<a> <div class="modal p-3 p-lg-5" id="MolarModal"> 
+	<a id="MolarModal"></a>
     <img src="Molar Bear Banner-49.png" alt="" style="width:100%;">
     <div class="p-lg-5">
-     <!--</br>
+     </br>
     <div class="row"> 
 		<div class="col-lg-3">
 			<h5><b>Role</b></h5>
 			<p>Project Lead, Researcher & Designer</p>
+			<p></p>
 		</div>
 		<div class="col-lg-3" >
 			<h5><b>Deliverables</b></h5>
@@ -21,8 +23,8 @@
 			<p>Oct 2019 - Dec 2019 </p>
 		</div>
 	</div> 
-	</br> !-->
-
+	</br>
+	</br>
 	<div>
 	
     <h3 class="text-center"> <b>Product Brief</b> </h3>
@@ -341,7 +343,7 @@
 		</div>
 	</div>
 
-	<h5> <b>Video Sketch</b> </h5>
+	<!-- <h5> <b>Video Sketch</b> </h5>
 		<div class="embed-responsive embed-responsive-16by9">
   			<iframe src="https://www.youtube.com/embed/jkAPalLUd1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
+		</div> !-->

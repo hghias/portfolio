@@ -11,7 +11,7 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="col my-auto align-self-center" style="padding-top: 5%; padding-bottom:8%;" >
+		<div class ="col my-auto align-self-center" style="padding-top: 7%; padding-bottom:9%;" >
 			<div class="typed-wrap text-center">
 				<h1> <span class="underline">About</span> Me</h1>
 

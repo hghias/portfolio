@@ -69,14 +69,15 @@
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
 		</div>
 
-		<div class="col-md-6 text-md-center order-1 order-md-2">
+		<div class="col-md-4 text-md-center order-1 order-md-2">
 			<a href="design.php?filter=ux"> <img class="indeximg" src="index-ux.png" alt="UX Design Image"> </a> 
 		</div>
 	</div>
 
 	<!-- BRANDING DESIGN !-->
 	<div class= "row pt-5" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
-		<div class="col-md-6">
+		<div class="col-md-2"> </div>
+		<div class="col-md-4">
 			<a href="design.php?filter=branding"> <img class="indeximg float-right" src="index-branding.png" alt="Branding Design Image"> </a>
  		</div>
  		<div class="col-md-6 align-self-center index-center">
@@ -92,14 +93,15 @@
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="productbutton" href="design.php?filter=product" role="button"> View Product Design Projects</a>
 		</div>
 
-		<div class="col-md-6 order-1 order-md-2">
+		<div class="col-md-4 order-1 order-md-2">
 			<a href="design.php?filter=product"> <img class="indeximg float-left" src="index-product.png" alt="Product Design Image"> </a>
 		</div>
 	</div>
 
 	<!-- PHOTOGRAPHY !--> 
 	<div class= "row pt-5" id="portrait" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
-		<div class="col-md-6">
+		<div class="col-md-2"> </div>
+		<div class="col-md-4">
 			<a href="photography.php"> <img class="indeximg float-right" src="index-photography.png" alt="Photography Image"> </a>
 		</div>
 
@@ -115,7 +117,7 @@
  			<h1 style="color:#3D5EAC;"> EXPLORATIONS </h1>
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="mmbutton" href="explorations.php" role="button">View Explorations</a>
 		</div>
-		<div class="col-md-6 order-1 order-md-2">
+		<div class="col-md-4 order-1 order-md-2">
 			<a href="mixedmedia.php"> <img class="indeximg" src="index-explorations.png" alt="Explorations Image"> </a>
  		</div>
 	</div>
@@ -153,6 +155,8 @@
 	}
 
   AOS.init();
+
+
 </script>
  
 

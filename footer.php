@@ -16,7 +16,7 @@
 	</div>
 	<div class="row">
 		<div class="col pb-3 text-center">
-			<p>Website Design & Development © 2019 Hafsa Ghias</p>
+			<p>Website Design & Development © 2020 Hafsa Ghias</p>
 		</div>	
 	</div>
 </div>

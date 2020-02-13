@@ -24,14 +24,14 @@
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col pb-5 button-group" role="group" data-toggle="buttons"> 
-			<a class="btn sh" id="designbutton" role="button" > SHOW ALL </a>
+		<div class="col pb-5 horizontal-scroll" role="group" data-toggle="buttons"> 
+			<a class="btn sh pl-2 pr-2 ml-1" id="designbutton" role="button" > SHOW ALL </a>
 			<!-- <a class="btn al" id="designbutton" role="button" > Albums </a>
 			<a class="btn cr" id="designbutton" role="button" > Creative </a>
 			<a class="btn cl" id="designbutton" role="button" > Client </a> !-->
-			<a class="btn pr" id="designbutton" role="button" > PORTRAIT </a>
-			<a class="btn ur" id="designbutton" role="button" > URBAN </a>
-			<a class="btn na" id="designbutton" role="button" > NATURE </a>
+			<a class="btn pr pl-2 pr-2 ml-1" id="designbutton" role="button" > PORTRAIT </a>
+			<a class="btn ur pl-2 pr-2 ml-1" id="designbutton" role="button" > URBAN </a>
+			<a class="btn na pl-2 pr-2 ml-1" id="designbutton" role="button" > NATURE </a>
 			<!--<a class="btn we" id="designbutton" role="button" > WEDDING </a> !-->
 			<!-- <a class="btn ev" id="designbutton" role="button" > Event </a> !-->
 		</div>

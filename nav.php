@@ -38,6 +38,12 @@ $(document).ready(function(){
 	$('#nav-icon3').click(function(){
 		$(this).toggleClass('open');
 	});
-
 });
+
+/*$('.navbar-toggler').click(function(e){    
+    $('#navbar').fadeIn('slow', function(){
+    });
+});*/
+
+
 </script>

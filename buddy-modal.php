@@ -24,7 +24,7 @@
 		</br>
 	<h3 class="text-center"><b>The Challenge</b></h3>
 	<p>
-	This was an assignment for artdes 314: Change By Design. We had to ride and fully experience a Bird scooter with Beginner’s mind; complete an inventory with documentation as a visual ethnographer; and transform the Bird into the most fantastic experience we could conjure. </p>
+	For my Change By Design class (artdes 314), we had to ride and fully experience a Bird scooter with Beginner’s mind; complete an inventory with documentation as a visual ethnographer; and transform the Bird into the most fantastic experience we could conjure. </p>
 	</br>
 	<h3 class="text-center"><b>Research</b></h3>
 	

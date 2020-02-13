@@ -22,11 +22,11 @@
 
 <div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col pb-5 button-group" role="group" data-toggle="buttons"> 
-			<a class="btn sh" id="designbutton" role="button" > SHOW ALL </a>
-			<a class="btn pn" id="designbutton" role="button" > PAINTING </a>
-			<a class="btn dr" id="designbutton" role="button" > DRAWING </a>
-			<a class="btn 3d" id="designbutton" role="button" > THREE DIMENSIONAL </a>
+		<div class="col pb-5 horizontal-scroll" role="group" data-toggle="buttons"> 
+			<a class="btn sh pl-2 pr-2 ml-1" id="designbutton" role="button" > SHOW ALL </a>
+			<a class="btn pn pl-2 pr-2 ml-1" id="designbutton" role="button" > PAINTING </a>
+			<a class="btn dr pl-2 pr-2 ml-1" id="designbutton" role="button" > DRAWING </a>
+			<a class="btn 3d pl-2 pr-2 ml-1" id="designbutton" role="button" > THREE DIMENSIONAL </a>
 			<!--<a class="btn dg" id="designbutton" role="button" > OTHER </a>!-->
 		</div>
 	</div>
@@ -206,11 +206,12 @@
 		 				<img class="img-fluid" src="nat015.jpg" alt="" width="100%">
 					<div class='text-hover'>
 						<h2 class ="text-center"> Portrait Relief Print </h2>
-			 				<p class ="text-center mx-auto"> Linocut& Ink, 12 x 14  </p>
+			 				<p class ="text-center mx-auto"> Linocut & Ink, 12 x 14  </p>
 		 				</div>
 	 				</div>
 				</a>
 			</div>
+
 		</div>
 
 		<div class = "col-lg-4">
@@ -314,6 +315,7 @@
 </div>
 
 <?php include ('footer.php');?>
+
 
 <div class="text-center" style="display:none; max-width:1500px; background-color: rgba(0,0,0,0);" id="BlockModal"> 
 	<img class="col-lg-5 pt-2" src="IMG_9891.jpg" alt="" style="width:80%;">
