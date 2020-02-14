@@ -37,7 +37,7 @@ button:focus {
 /* Extra small devices (portrait phones, less than 576px) */
 @media all and (max-width: 576px) {
     .navbar-toggleable-sm { clear: both; }
-    .index-lion-container {max-width:50vw !important; left:66px; overflow:hidden;} /* max-width:65vw; */
+    .index-lion-container {max-width:50vw !important; left:100px; overflow:hidden;} /* max-width:65vw; */
     .index-Hafsa .hide {display:block;}
     .index-Hafsa h1 { font-size: 3.5rem !important;}
     .hide h1 { font-size: 3.5rem !important; }
