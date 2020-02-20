@@ -40,7 +40,7 @@
 				<a data-fancybox data-touch="true" href="#MolarModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Molar Bear Square-22.png" alt="" style="background-color: #E5BD41;">  
+						<img class="gallery_image img-fluid lazy" src="Molar Bear Square-22.png" alt="" style="background-color: #E5BD41;">  
 						<div class='text-hover'>
 		 					<h2 class="text-center"> Molar Bear </h2>
 		 					<p class ="text-center mx-auto"> UX Research • Interaction Design</p>
@@ -53,7 +53,7 @@
 				<a data-fancybox data-touch="true" href="#scdModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class="text-center"> Smart Choice Distributors </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • Web Development </p>
@@ -67,7 +67,7 @@
 					<a data-fancybox data-touch="true" href="#buddyModal"> 
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> The Buddy Bird </h2>
 		 					<p class ="text-center mx-auto">Product Design • Rapid Prototyping</p>
@@ -81,7 +81,7 @@
 				<a data-fancybox data-touch="true" href="#MSAModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="msawebsite-06.png" alt="" style="background-color: #D5622A;">
+						<img class="gallery_image img-fluid lazy" src="msawebsite-06.png" alt="" style="background-color: #D5622A;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
 		 					<p class ="text-center mx-auto"> UX Research • Visual Design • Web Development </p>
@@ -94,7 +94,7 @@
 				<a data-fancybox data-touch="true" href="#layersModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="layers-41.png" alt="" style="background-color: #5e2960;">
+						<img class="gallery_image img-fluid lazy" src="layers-41.png" alt="" style="background-color: #5e2960;">
 
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
@@ -112,7 +112,7 @@
 				<a data-fancybox data-touch="true" href="#FlutterModal" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+						<img class="gallery_image img-fluid lazy" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Flutter: A Digital Pen Pal </h2>
 		 					<p class ="text-center mx-auto"> Interaction Design • UX Research </p>
@@ -125,7 +125,7 @@
 				<a data-fancybox data-touch="true" href="#HITSModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<img class="gallery_image img-fluid lazy" src="575.jpeg" alt=""> 
 						<div class='text-hover'>
 		 					<h4 class ="text-center"> Coming Soon! </h4>
 		 					</br>
@@ -141,7 +141,7 @@
 				<a data-fancybox data-touch="true" href="#GraphicModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="graphic-42.png" alt="" style="background-color: #C5A9C2; display:block;">
+						<img class="gallery_image img-fluid lazy" src="graphic-42.png" alt="" style="background-color: #C5A9C2; display:block;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Graphic Design Projects </h2>
 		 					<p class ="text-center mx-auto"> Graphic Design • Illustration </p>
@@ -154,7 +154,7 @@
 				<a data-fancybox data-touch="true" href="Perfume_Documentation_Hafsa_Ghias.pdf" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC0063.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="_DSC0063.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Eclipse </h2>
 		 					<p class ="text-center mx-auto"> Product Design </p>
@@ -167,7 +167,7 @@
 				<a data-fancybox data-touch="true" href="#BrandModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color: #fff; display:block;">
+						<img class="gallery_image img-fluid lazy" src="optimizeBranding.png" alt="" style="background-color: #fff; display:block;">
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Branding Design Projects </h2>
 		 					<p class ="text-center mx-auto"> Brand Development </p>
@@ -184,7 +184,7 @@
 				<a data-fancybox data-touch="true" href="Snug Business Plan & Design Process.pdf" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Snug-1.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="snug-1.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Snug: Encouraging Natural Sleep </h2>
 		 					<p class ="text-center mx-auto"> Product Design • UX Research • UX Design </p>
@@ -197,7 +197,7 @@
 				<a data-fancybox data-touch="true" href="Spark.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Spark </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
@@ -211,7 +211,7 @@
 				<a data-fancybox data-touch="true" href="#HafsaModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="portfolio-43.png" alt="" style="background-color: #255484;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="portfolio-43.png" alt="" style="background-color: #255484;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Web Development </p>
@@ -224,7 +224,7 @@
 				<a data-fancybox data-touch="true" href="#DetModal">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="1 Rosa Parks Soldier-past.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="1 Rosa Parks Soldier-past.png" alt="" style="background-color:#FFF;"> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Legacy of the 1967 Detroit Rebellion </h2>
 		 					<p class ="text-center mx-auto">Photo Exhibit</p>
@@ -237,7 +237,7 @@
 				<a data-fancybox data-touch="true" href="10,000 Floor Elevator Design.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Elevator-32.png" alt=""> 
+						<img class="gallery_image img-fluid lazy" src="Elevator-32.png" alt=""> 
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> 10,000 Floor Elevator </h2>
 		 					<p class ="text-center mx-auto"> Interaction Design </p>
