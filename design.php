@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<?php include ('head.php');?>
@@ -37,7 +37,7 @@
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class = "col-lg-4">
 			<div class="project pb-3 ux"> <!-- Molar Bear !-->
-				<a data-fancybox data-touch="true" href="#MolarModal">
+				<a href="MolarBear.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="Molar Bear Square-22.png" alt="" style="background-color: #E5BD41;">  
@@ -49,25 +49,37 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- SCD !-->
-				<a data-fancybox data-touch="true" href="#scdModal">
+			<!-- <div class="project pb-3 branding"> SCD 
+				<a href="SCD.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> 
 						<div class='text-hover'>
 		 					<h2 class="text-center"> Smart Choice Distributors </h2>
 		 					<p class ="text-center mx-auto"> Brand Development • Web Development </p>
 	 					</div>
 					</div>
 				</a>
-			</div>
+			</div> !-->
 
-			
-			<div class="project pb-3 product"> <!-- BUDDY !-->
-					<a data-fancybox data-touch="true" href="#buddyModal"> 
+			<div class="project pb-3 product branding gr"> <!-- SPARK !-->
+				<a data-fancybox data-touch="true" href="Spark.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="_DSC1267.jpg" alt=""> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Spark: Furniture that Inspires Connection </h2>
+		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 product"> <!-- BUDDY !-->
+					<a href="BuddyBird.php"> 
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid lazy" src="buddybird.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> The Buddy Bird </h2>
 		 					<p class ="text-center mx-auto">Product Design • Rapid Prototyping</p>
@@ -78,7 +90,7 @@
 
 
 			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
-				<a data-fancybox data-touch="true" href="#MSAModal">
+				<a href="MSA.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="msawebsite-06.png" alt="" style="background-color: #D5622A;">
@@ -91,7 +103,7 @@
 			</div>
 
 			<div class="project pb-3 graphic"> <!-- Layers !-->
-				<a data-fancybox data-touch="true" href="#layersModal">
+				<a href="Layers.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="layers-41.png" alt="" style="background-color: #5e2960;">
@@ -109,7 +121,7 @@
 		<div class = "col-lg-4">
 
 			<div class="project pb-3 ux"> <!-- Flutter !-->
-				<a data-fancybox data-touch="true" href="#FlutterModal" >
+				<a href="Flutter.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
@@ -122,7 +134,7 @@
 			</div>
 
 			<div class="project pb-3 ux"> <!--HITS !-->
-				<a data-fancybox data-touch="true" href="#HITSModal">
+				<a href="HITS.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="575.jpeg" alt=""> 
@@ -138,7 +150,7 @@
 
 
 			<div class="project pb-3 graphic"> <!-- GRAPHIC DESIGN !-->
-				<a data-fancybox data-touch="true" href="#GraphicModal">
+				<a href="GraphicDesign.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="graphic-42.png" alt="" style="background-color: #C5A9C2; display:block;">
@@ -164,8 +176,8 @@
 			</div>
 
 			<div class="project pb-3 branding"> <!-- Branding Design !-->
-				<a data-fancybox data-touch="true" href="#BrandModal">
-					<div class="show_overlay">
+				<a href="BrandingDesign.php">
+					<div class="show_overlay"> 
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="optimizeBranding.png" alt="" style="background-color: #fff; display:block;">
 						<div class='text-hover'>
@@ -180,6 +192,20 @@
 		</div>
 
 		<div class = "col-lg-4">
+
+			<div class="project pb-3 product graphic">  <!--Munchies -->
+				<a href="Munchies.php">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Munchies: The Emotion Tracker </h2>
+		 					<p class ="text-center mx-auto"> Product Design • Packaging Design • Illustration </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 			<div class="project pb-3 ux product"> <!-- Snug !-->
 				<a data-fancybox data-touch="true" href="Snug Business Plan & Design Process.pdf" >
 					<div class="show_overlay">
@@ -193,22 +219,9 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 product branding gr"> <!-- SPARK !-->
-				<a data-fancybox data-touch="true" href="Spark.pdf">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="converge.jpg" alt="" style="background-color: #1f3160;"> <!--#f0efef!-->
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Spark </h2>
-		 					<p class ="text-center mx-auto"> Brand Development • Product Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
 
 			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
-				<a data-fancybox data-touch="true" href="#HafsaModal">
+				<a href="Portfolio.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
 						<img class="gallery_image img-fluid lazy" src="portfolio-43.png" alt="" style="background-color: #255484;"> <!--#f0efef!-->
@@ -233,20 +246,7 @@
 				</a>
 			</div>	
 
-			 <div class="project pb-3 ux">  <!-- Elevator !-->
-				<a data-fancybox data-touch="true" href="10,000 Floor Elevator Design.pdf">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="Elevator-32.png" alt=""> 
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> 10,000 Floor Elevator </h2>
-		 					<p class ="text-center mx-auto"> Interaction Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<!-- <div class="project pb-3 product"> One Handed Pan Holder
+			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
 				<a data-fancybox data-touch="true" href="Final Project.pdf" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -257,79 +257,26 @@
 	 					</div>
 					</div>
 				</a>
-			</div> !-->
+			</div> 
 
-			<!-- <div class="project pb-3 product">  Delightful Design 
-				<a data-fancybox data-touch="true" href="#HITSModal">
+
+			<div class="project pb-3 ux">  <!-- Elevator !--> 
+				<a data-fancybox data-touch="true" href="10,000 Floor Elevator Design.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<img class="gallery_image img-fluid lazy" src="Elevator-32.png" alt=""> 
 						<div class='text-hover'>
-		 					<h4 class ="text-center"> Coming Soon! </h4>
-		 					</br>
-		 					<h2 class ="text-center"> HITS Service Catalog Improvement </h2>
-		 					<p class ="text-center mx-auto"> UX Research • UX Design </p>
+		 					<h2 class ="text-center"> 10,000 Floor Elevator </h2>
+		 					<p class ="text-center mx-auto"> Interaction Design </p>
 	 					</div>
 					</div>
 				</a>
-			</div>!-->
+			</div> 
 
+			
 		</div>
 	</div>
 </div>
-
-
-<!-- <div class="project pb-3 branding">  OPTIMIZE 
-		<a data-fancybox data-touch="true" href="#optModal">
-			<div class="show_overlay">
-		 		<div class="overlay"></div>
-					<img class="gallery_image img-fluid" src="optimizeBranding.png" alt="" style="background-color:#FFF;">
-				<div class='text-hover'>
-		 			<h2 class ="text-center"> Optimize Branding Consultant </h2>
-		 			<p class ="text-center mx-auto">Brand Development</p>
-	 			</div>
-			</div>
-		</a>
-	</div>	
-
-			<div class="project pb-3 branding"> REDEFINE 
- 				<a data-fancybox data-touch="true" href="#RedefineModal">
-	 				<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Redefine1-46.png" alt="" style="background-color: #A35780; display:block; height:auto;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Redefine </h2>
-		 					<p class ="text-center mx-auto">Brand Development • Organization Development</p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			 <div class="project pb-3 branding"> MICHIGAN MOVEMENT
-				<a data-fancybox data-touch="true" href="#MMModal">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="MM.png" alt="" style="background-color: #4B92A0; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Michigan Movement </h2>
-		 					<p class ="text-center mx-auto"> Brand Development </p>
-	 					</div>
-					</div>
-				</a> 	
-			</div> 
-
-			<div class="project pb-3 branding"> PAANI 
-				<a data-fancybox data-touch="true" href="#PaaniModal">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="Paani.png" alt="" style="background-color: #009cd7; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Paani </h2>
-		 					<p class ="text-center mx-auto"> Brand Development </p>
-	 					</div>
-					</div>
-				</a>
-			</div> !-->
 
 
 <?php include ('footer.php');?>
@@ -340,19 +287,6 @@
 <div class="modal modalx" id="DetModal">
 	 <img class="horizontal-scroll" src="Legacy of the 1967 Detroit Rebellion-01.jpg" alt="" style="height:86vh;">
 </div>
-
-
-<?php include ('HITSModal.php');?>
-<?php include ('branding-modal.php');?>
-<?php include ('graphic-modal.php');?>
-<?php include ('msa-modal.php');?>
-<?php include ('portfolio-modal.php');?>
-<?php include ('optimize-modal.php');?>
-<?php include ('scd-modal.php');?>
-<?php include ('layers-modal.php');?>
-<?php include ('Flutter-modal.php');?>
-<?php include ('buddy-modal.php');?>
-<?php include ('MolarModal.php');?>
 
 <script>    
 	$(function(){

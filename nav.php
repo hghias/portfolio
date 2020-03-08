@@ -2,7 +2,7 @@
 
 <nav class="navbar navbar-expand-md">
 	<a class="navbar-brand col p-0 pt-3" id="home-nav" href="index.php"> 
-		<img class="navbar-img" src="Hafsa Logo-15.png" alt="logo" > 
+		<img class="navbar-img" src="Hafsa Logo-15.png" alt="logo" style="width:96px; height:67px"> 
 	</a>
 
 	<!-- Toggler/collapsibe Button -->

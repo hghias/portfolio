@@ -22,6 +22,7 @@ a:focus {
 	text-decoration:none !important;
 }
 
+
 img:hover { 
 	text-decoration:none !important;
 }
@@ -49,6 +50,8 @@ button:focus {
     .about h1 { font-size: 2.2rem !important;}
     .about h2 { font-size: 1.5rem !important; line-height:1.5;}
     .about h4 { font-size: 1.2rem !important; line-height:1.5;}
+    .padding-left { padding-left:3rem !important;}
+    .padding-right { padding-right:3rem !important;}
  }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -58,6 +61,8 @@ button:focus {
   	/*.nav-item .nav-link {font-size:1.5rem;}*/
     .index-Hafsa .hide { display:block; }
     .index-Ghias {display:none;}
+    .padding-left { padding-left:3rem !important;}
+    .padding-right { padding-right:3rem !important;}
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -66,6 +71,8 @@ button:focus {
     .nav-item .nav-link {font-size:1rem;}*/
     .index-Hafsa .hide { display:block; }
     .index-Ghias {display:none;}
+    .padding-left { padding-left:12rem !important;}
+    .padding-right { padding-right:12rem !important;}
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -74,9 +81,15 @@ button:focus {
     .nav-item .nav-link {font-size:1rem;}*/
     .index-Hafsa .hide { display:none; }
     .index-Ghias {display:block;}
+    .padding-left { padding-left:15rem !important;}
+    .padding-right { padding-right:15rem !important;}
 }
 
+.padding-left {
+}
 
+.padding-right {
+}
 
 /* HEADER */
 .navbar-img { 

@@ -41,23 +41,38 @@
 		</div>
 	</div>
 	<div class="row ">
-		<div class="col-9">
+		<div class="col-lg-9">
 			<h5 style= "line-height: 150%;">
-				I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career in software development, but changed my focus when I fell in love with design and its potential to change the world. Engineering makes things work, but design impacts if, how, and why we use something. 
+				I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career in software development, but changed my focus to UX design when I fell in love with design and its potential to change the world. I wanted to shape what products look like and how they function, rather than working on building them.
 				</br>
 				</br>
-				I aim to use design as a tool to foster inclusivity & create equal opportunity. With a background in computer science, my goal is to design user interfaces with regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
+				I aim to use design as a tool to foster inclusivity & create equal opportunity. . I’m passionate about bringing people together by breaking down barriers, whether that be personal, cultural, or structural barriers. With a background in computer science, my goal is to design user interfaces with regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>
 				</h5>
 				</br>
 				<a class="btn pn pl-4 pr-4" id="Contact" role="button" href="Resume_Hafsa_Ghias.pdf" target="blank"> Resume </a>
 		</div>
-		<div class="col">
-			<img class="me float-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3);">
+		<div class="col-lg-3">
+			<img class="me float-lg-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3); color:#EEF3F6;">
 		</div>
 	</div>
 		
 	<div class="row">
 		<div class="col">
+			</br>
+			</br>	
+			<h2> Experience </h2>
+			</br>
+			</br>
+			<div class="row text-center">
+				<div class="col text-center">
+					<img src="Experience.png" alt="" style="width:90%;">
+				</div>
+			</div>
+			</br>
+			</br>
+			<h5 style= "line-height: 150%;"> During my software development internship at Ally Financial, I gained an understanding of the agile workflow by completing an end-to-end project. got to gave me I realized that I wanted to shape what products look like and how they function, rather than working on making them. And that’s how I found UX. The next summer I went back to Ally as a UX designer and I loved it. I was embedded in an agile team and owned a feature that I got to see through its launch. I also had the opportunity to work on developing a pattern library. Currently, I am interning at Michigan Medicine as UX researcher where I have developed our research methods which includes user interviews and usability testing. Next week I am going to start conducting the first of 30 user interviews. Throughout my time at college, I’ve also been freelancing as a web designer and developer, branding designer and photographer. And this experience has taught me how to help my clients communicate their design needs and how to put my clients needs over what I think might look nice. 
+			</br>
+
 			</br>
 			</br>	
 			<h2> Design Philosophy </h2>
@@ -72,7 +87,7 @@
 			
 			<h2> My Design Process </h2>
 			</br>
-			<h5 style= "line-height: 150%;"> I believe that process is extremely important because it makes sure I am intentional with every decision. My design process has been abstracted from the UX design process, but can be applied to any project I am working on, whether it being product design, branding design or graphic design. Good design is human centered, which means that it is empathetic, so conducting user research is one of the most important steps. I strive to understand the client's goals and user's needs and translate them into a visual that satisfies the client and user.</h5>
+			<h5 style= "line-height: 150%;"> I believe that process is important because it makes sure I am intentional with every decision. My design process has been abstracted from the UX design process so it can be applied to any project I am working on, whether it is product design, branding design or graphic design. Good design is human centered -  which means that it is empathetic, so conducting user research is one of the most important steps. I strive to understand the client's goals and user's needs and translate them into a visual that satisfies the client and user.</h5>
  			<div class="my-auto align-self-center text-center pb-2"> 
 				<img src="ProcessDetails.png" alt="" style="width:100%;">
 			</div> 
