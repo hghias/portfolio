@@ -49,18 +49,20 @@
 				</a>
 			</div>
 
-			<!-- <div class="project pb-3 branding"> SCD 
-				<a href="SCD.php">
+			<div class="project pb-3 ux"> <!--HITS !-->
+				<a href="HITS.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> 
+						<img class="gallery_image img-fluid lazy" src="575.jpeg" alt=""> 
 						<div class='text-hover'>
-		 					<h2 class="text-center"> Smart Choice Distributors </h2>
-		 					<p class ="text-center mx-auto"> Brand Development • Web Development </p>
+		 					<h4 class ="text-center"> Coming Soon! </h4>
+		 					</br>
+		 					<h2 class ="text-center"> HITS Service Catalog Improvement </h2>
+		 					<p class ="text-center mx-auto"> UX Research • UX Design </p>
 	 					</div>
 					</div>
 				</a>
-			</div> !-->
+			</div>
 
 			<div class="project pb-3 product branding gr"> <!-- SPARK !-->
 				<a data-fancybox data-touch="true" href="Spark.pdf">
@@ -75,74 +77,14 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 product"> <!-- BUDDY !-->
-					<a href="BuddyBird.php"> 
+			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
+				<a data-fancybox data-touch="true" href="Final Project.pdf" >
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="buddybird.jpg" alt=""> <!--#f0efef!-->
+						<img class="gallery_image img-fluid" src="Kitchen.jpg" alt="" style="background-color: #1f3160;">
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> The Buddy Bird </h2>
-		 					<p class ="text-center mx-auto">Product Design • Rapid Prototyping</p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-
-			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
-				<a href="MSA.php">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="msawebsite-06.png" alt="" style="background-color: #D5622A;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
-		 					<p class ="text-center mx-auto"> UX Research • Visual Design • Web Development </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 graphic"> <!-- Layers !-->
-				<a href="Layers.php">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="layers-41.png" alt="" style="background-color: #5e2960;">
-
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
-		 					<p class ="text-center mx-auto"> Illustration • Graphic Design </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-		
-		</div>
-
-		<div class = "col-lg-4">
-
-			<div class="project pb-3 ux"> <!-- Flutter !-->
-				<a href="Flutter.php">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Flutter: A Digital Pen Pal </h2>
-		 					<p class ="text-center mx-auto"> Interaction Design • UX Research </p>
-	 					</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="project pb-3 ux"> <!--HITS !-->
-				<a href="HITS.php">
-					<div class="show_overlay">
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="575.jpeg" alt=""> 
-						<div class='text-hover'>
-		 					<h4 class ="text-center"> Coming Soon! </h4>
-		 					</br>
-		 					<h2 class ="text-center"> HITS Service Catalog Improvement </h2>
-		 					<p class ="text-center mx-auto"> UX Research • UX Design </p>
+		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
+		 					<p class ="text-center mx-auto"> Product Design </p>
 	 					</div>
 					</div>
 				</a>
@@ -162,6 +104,62 @@
 				</a> 	
 			</div>
 
+			<!-- <div class="project pb-3 branding"> SCD 
+				<a href="SCD.php">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid lazy" src="Smart Choice Distributors.png" alt="" style="background-color: #1f3160;"> 
+						<div class='text-hover'>
+		 					<h2 class="text-center"> Smart Choice Distributors </h2>
+		 					<p class ="text-center mx-auto"> Brand Development • Web Development </p>
+	 					</div>
+					</div>
+				</a>
+			</div> !-->
+		
+		</div>
+
+		<div class = "col-lg-4">
+
+			<div class="project pb-3 ux"> <!-- Flutter !-->
+				<a href="Flutter.php">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid lazy" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Flutter: A Digital Pen Pal </h2>
+		 					<p class ="text-center mx-auto"> Interaction Design • UX Research </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="project pb-3 product branding graphic">  <!--Munchies -->
+				<a href="Munchies.php">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Munchies: The Emotion Tracker </h2>
+		 					<p class ="text-center mx-auto"> Product Design • Packaging Design • Illustration </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+			
+			<div class="project pb-3 ux"> <!-- MSA UX DESIGN !-->
+				<a href="MSA.php">
+					<div class="show_overlay">
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid lazy" src="msawebsite-06.png" alt="" style="background-color: #D5622A;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> MSA Website Overhaul </h2>
+		 					<p class ="text-center mx-auto"> UX Research • Visual Design • Web Development </p>
+	 					</div>
+					</div>
+				</a>
+			</div>
+
 			<div class="project pb-3 product"> <!-- Eclipse !-->
 				<a data-fancybox data-touch="true" href="Perfume_Documentation_Hafsa_Ghias.pdf" >
 					<div class="show_overlay">
@@ -175,36 +173,23 @@
 				</a>
 			</div>
 
-			<div class="project pb-3 branding"> <!-- Branding Design !-->
-				<a href="BrandingDesign.php">
-					<div class="show_overlay"> 
-		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="optimizeBranding.png" alt="" style="background-color: #fff; display:block;">
-						<div class='text-hover'>
-		 					<h2 class ="text-center"> Branding Design Projects </h2>
-		 					<p class ="text-center mx-auto"> Brand Development </p>
-	 					</div>
-					</div>
-				</a> 	
-			</div>
-
-			
-		</div>
-
-		<div class = "col-lg-4">
-
-			<div class="project pb-3 product graphic">  <!--Munchies -->
-				<a href="Munchies.php">
+			<div class="project pb-3 graphic"> <!-- Layers !-->
+				<a href="Layers.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<img class="gallery_image img-fluid lazy" src="layers-41.png" alt="" style="background-color: #5e2960;">
+
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Munchies: The Emotion Tracker </h2>
-		 					<p class ="text-center mx-auto"> Product Design • Packaging Design • Illustration </p>
+		 					<h2 class ="text-center"> Layers: The Impact of Design </h2>
+		 					<p class ="text-center mx-auto"> Illustration • Graphic Design </p>
 	 					</div>
 					</div>
 				</a>
 			</div>
+			
+		</div>
+
+		<div class = "col-lg-4">
 
 			<div class="project pb-3 ux product"> <!-- Snug !-->
 				<a data-fancybox data-touch="true" href="Snug Business Plan & Design Process.pdf" >
@@ -219,15 +204,14 @@
 				</a>
 			</div>
 
-
-			<div class="project pb-3 ux branding"> <!-- PORTFOLIO !-->
-				<a href="Portfolio.php">
+			<div class="project pb-3 product"> <!-- BUDDY !-->
+					<a href="BuddyBird.php"> 
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="portfolio-43.png" alt="" style="background-color: #255484;"> <!--#f0efef!-->
+						<img class="gallery_image img-fluid lazy" src="buddybird.jpg" alt=""> <!--#f0efef!-->
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
-		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Web Development </p>
+		 					<h2 class ="text-center"> The Buddy Bird </h2>
+		 					<p class ="text-center mx-auto">Product Design • Rapid Prototyping</p>
 	 					</div>
 					</div>
 				</a>
@@ -246,21 +230,33 @@
 				</a>
 			</div>	
 
-			<div class="project pb-3 product"> <!-- One Handed Pan Holder !-->
-				<a data-fancybox data-touch="true" href="Final Project.pdf" >
+			<div class="project pb-3 branding"> <!-- Branding Design !-->
+				<a href="BrandingDesign.php">
+					<div class="show_overlay"> 
+		 				<div class="overlay"></div>
+						<img class="gallery_image img-fluid lazy" src="optimizeBranding.png" alt="" style="background-color: #fff; display:block;">
+						<div class='text-hover'>
+		 					<h2 class ="text-center"> Branding Design Projects </h2>
+		 					<p class ="text-center mx-auto"> Brand Development </p>
+	 					</div>
+					</div>
+				</a> 	
+			</div>
+
+			<!-- <div class="project pb-3 ux branding"> PORTFOLIO 
+				<a href="Portfolio.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="_DSC0419.jpg" alt="" style="background-color: #1f3160;">
+						<img class="gallery_image img-fluid lazy" src="portfolio-43.png" alt="" style="background-color: #255484;"> 
 						<div class='text-hover'>
-		 					<h2 class ="text-center"> One Handed Pan Holder </h2>
-		 					<p class ="text-center mx-auto"> Product Design </p>
+		 					<h2 class ="text-center"> Portfolio Overhaul </h2>
+		 					<p class ="text-center mx-auto"> Brand Development • UX/UI Design • Web Development </p>
 	 					</div>
 					</div>
 				</a>
-			</div> 
+			</div> !--> 
 
-
-			<div class="project pb-3 ux">  <!-- Elevator !--> 
+			<!-- <div class="project pb-3 ux">  
 				<a data-fancybox data-touch="true" href="10,000 Floor Elevator Design.pdf">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
@@ -271,7 +267,7 @@
 	 					</div>
 					</div>
 				</a>
-			</div> 
+			</div> !-->
 
 			
 		</div>

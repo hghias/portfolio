@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<?php include ('head.php');?>
@@ -13,34 +13,36 @@
 <div class="mt-5"> 
     <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Portfolio-hero-41.png" alt="" style="width:100%;">
 	</br>
-	</br>
+
 	<div class="padding-left padding-right"> 
-	</br>
-	</br>
 	<div class="row"> 
-		<div class="col-2">
+		<div class="col-lg-2">
 			<h5><b>Role</b></h5>
 			<p>UI/UX designer & Front end developer </p>
 		</div>
-		<div class="col-2" style="line-height:10px;" >
+		<div class="col-lg-2" style="line-height:10px;" >
 			<h5><b>Deliverables</b></h5>
 			<p>Logo</p>
 			<p>Website</p>
 		</div>
-		<div class="col-2">
+		<div class="col-lg-2">
 			<h5><b>Timeline</b></h5>
 			<p>Sept 2018 - Feb 2019 </p>
 		</div>
 	</div>
-	<h3 class="text-center"> <b>Understand the Problem</b> </h3>
+	</br>
+
+	<h3 class="text-center"> <b>The Problem</b> </h3>
 	<p>I created my old portfolio website many years ago using a website builder. It’s not visually appealing, there are too many pages and the information architecture is not intuitive. My goal is to completely redesign my portfolio website using the UX process and code it from scratch. This will be a challenge because I’ve never coded a full website before and have no experience with frameworks, responsive development, optimization, and deployment. But I look forward to researching a lot and overcoming these challenges! I also identified different personas: recruiters and clients. The website is first and foremost for recruiters, so I will be focusing on what they are looking for in potential hires. </p>
 
 	<h3 class="text-center"> <b>Research</b> </h3>
 	<h5> <b>Comparative Analysis</b> </h5>
 	<p>I researched other UX portfolios to gain inspiration for my layout, content organization and visuals.</p>
 
-	<div class="col text-center">
-		<img src="portfolio_comparativeanlaysis.png" alt="" style="width:50%;"> 
+	<div class="d-flex justify-content-center">
+		<div class="col-lg-6 text-center">
+			<img src="portfolio_comparativeanlaysis.png" alt="" style="width:100%;"> 
+		</div>
 	</div>
 
 	</br>
@@ -63,7 +65,7 @@
 	<h3 class="text-center"> <b>Ideate</b> </h3>
     <h5> <b>Sitemap</b> </h5>
 	    
-	<div class="row">
+	<div class="row d-flex justify-content-center">
 		<div class="col text-center">
 			<img src="Portfolio_Old Sitemap.jpg" alt="" style="width:70%;"> 
 			<p>Old Sitemap</p>
@@ -79,17 +81,17 @@
 	<h5> <b>Wireframes</b> </h5>
 	<p>I wanted to make my landing page visually interesting and interactable. For the the pages with my work, there would be a gallery, with links to a modal with more information about my projects. </p>
 	
-	<div class="row">
-	    <div class="col text-center">
-			<img src="portfolio_wireframe0.jpg" alt="" style="width:70%;">
+	<div class="row d-flex justify-content-center">
+	    <div class="col-lg-8 text-center">
+			<img src="portfolio_wireframe0.jpg" alt="" style="width:100%;">
 	    </div>
 	</div>
-	<div class="row pt-3">
-		<div class="col text-right">
-			<img src="portfolio_wireframe2.jpg" alt="" style="width:70%;"> 
+	<div class="row d-flex justify-content-center pt-3">
+		<div class="col-lg-4 text-right">
+			<img src="portfolio_wireframe2.jpg" alt="" style="width:100%;"> 
 		</div>
-		<div class="col text-left"> 
-			<img src="portfolio_wireframe.jpg" alt="" style="width:70%;">  
+		<div class="col-lg-4 text-left"> 
+			<img src="portfolio_wireframe.jpg" alt="" style="width:100%;">  
 		</div>
 	</div>
 	</br>
@@ -99,9 +101,9 @@
 	<h5> <b>Low Fidelity Mockup</b> </h5>
 	<p>I developed a low fidelity mockup so I could start coding the framework of my website, </p>
 	
-	<div class="row">
-		<div class="col text-center">
-			<img src="Portfolio_Lofi Mockup.png" alt="" style="width:60%;"> 
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-6 text-center">
+			<img src="Portfolio_Lofi Mockup.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	</br>
@@ -109,9 +111,9 @@
 	<h5><b>Branding</b> </h5>
 	<p> Before I created a style guide, I decided to develop a brand for myself that I could incorporate into the site. I wanted to incorporate my initials and a lion because my name in Arabic means lioness. Below are my sketches: </p>
 	
-	<div class="row">
-		<div class="col text-center">
-			<img src="PersonalLogoSketches.png" alt="" style="width:60%;"> 
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-8 text-center">
+			<img src="PersonalLogoSketches.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	
@@ -119,9 +121,9 @@
 	
 	<p>I struggled to decide on a logo and so I showed my sketches to a professor who suggested to create a monogram using my initials and incorporate part of the lion into the letters. He suggested that the lion shouldn't be really big because it would take attention away from my initials and would be the only thing people would focus on. Below is my final logo: </p>
 		
-	<div class="row">
-		<div class="col text-center">
-			<img src="hg.jpg" alt="" style="width:60%;"> 
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-8 text-center">
+			<img src="hg.jpg" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	
@@ -129,9 +131,9 @@
 	
 	<h5> <b>Style Guide</b></h5>
 	<p> Once I had a lofi mockup, I created a style guide so I could make a high fidelity mockup. </p>
-	<div class="row">
-		<div class="col text-center">
-			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:60%; outline:1px solid #255484;"> 
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-8 text-center">
+			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:100%; outline:1px solid #255484;"> 
 		</div>
 	</div>
 	</br>
@@ -164,9 +166,9 @@
 	<h3 class="text-center"> <b>Implement</b> </h3>
 
 	<h5> <b>Development</b> </h5>
-	<div class="row">
-		<div class="col text-center">
-			<img src="dev process.png" alt="" style="width:60%;"> 
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-8 text-center">
+			<img src="dev process.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	

@@ -46,24 +46,27 @@
 </br>
 	<h3 class="text-center"><b>Sketches</b></h3>
 	<p>Our favorite idea was to create a platform that would allow two people to ride the scooter. It's not an uncommon sight to see people riding double around campus. It's extremely unsafe and we've seen people get disbalanced and fall off while riding. The platform could solve that problem!</p>
-</div>
+
 	<div class="text-center">
-	<img class="col-lg-4 " src="Buddy Bird Sketch.JPG" alt="" style="width:100%;">
+		<img class="col-lg-4 " src="Buddy Bird Sketch.JPG" alt="" style="width:100%;">
 	</div>
-</br>
-</br>
+	</br>
+	</br>
 
 	<h3 class="text-center"><b>Design</b></h3>
 	<div class="text-center">
 		<img class="col-lg-4 pt-2" src="_DSC1298.jpg" alt="" style="width:100%;">
 		<img class="col-lg-4 pt-2" src="_DSC1267.jpg" alt="" style="width:100%;">
 	</div>
-</br>
-</br>
+	</br>
+	</br>
 
-<div class="pl-lg-5 pr-lg-5" style="padding-left:288px !important; padding-right:288px !important">
-	<h3 class="text-center"><b>Evaluate</b></h3>
-	<h5><b>Limitations</b></h5>
-	<p>Since we only had one week to complete this project, we did not get to make sure that the design worked. When we tried to stand on it, it did not balance two people and so if I wanted to continue with this project, I would consult a mechanical engineer to see how we could make it more sturdy</p>
-	<p>Additionally, the board is big and bulky, so it would be cool if it could be a collapsible design that you could keep in your bag until you're riding a scooter. </p>
+	<div class="pl-lg-5 pr-lg-5">
+		<h3 class="text-center"><b>Evaluate</b></h3>
+		<h5><b>Limitations</b></h5>
+		<p>Since we only had one week to complete this project, we did not get to make sure that the design worked. When we tried to stand on it, it did not balance two people and so if I wanted to continue with this project, I would consult a mechanical engineer to see how we could make it more sturdy</p>
+		<p>Additionally, the board is big and bulky, so it would be cool if it could be a collapsible design that you could keep in your bag until you're riding a scooter. </p>
+	</div>
 </div>
+</div>
+</body>

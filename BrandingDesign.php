@@ -34,7 +34,7 @@
     <a id="redefine">
     <img src="Redefine-Hero-37.png" alt="" style="width:100%;"> </a>
     </br>
-	<div class="p-5">
+	<div class="pt-3">
 		<div class="row"> 
 			<div class="col-md-2" style="line-height:10px;">
 				<h5><b>Role</b></h5>
@@ -55,7 +55,7 @@
 			</div>
 		</div>
 	</div>
-
+	</br>
 	 <div class="row d-flex justify-content-center">
 		<div class="col-md-6 align-self-center">
 			<h4> <b>Redefine Mission</b> </h4>
@@ -69,7 +69,7 @@
 	<!--Michigan Movement!-->
 	<a id="mm"> <img class="pt-5 mt-md-5" src="MM-hero-36.png" alt="" style="width:100%;"> </a>
     </br>
-	<div class="p-5">
+	<div class="pt-3">
 		<div class="row"> 
 			<div class="col-md-2">
 				<h5><b>Role</b></h5>
@@ -89,14 +89,14 @@
 			</div>
 		</div>
 	</div>
-
+	</br>
 	<div class="row d-flex justify-content-center">
 		<div class="col-md-6 pr-md-4">
 			<h5> <b>Michigan Movement Mission</b> </h5>
 		    <h5 style="line-height:35px;"> Michigan Movement is a student-run organization that provides aid to individuals, families, and students experiencing homelessness and poverty in our local community. They are rooted in education, health, and wellness, and value a sustainable, innovative, and collaborative approach to address our community's health and social disparities. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission. </h5>
 		</div>
 		<div class="col-md-4 pt-3 pt-md-0 text-center">
-		    <img src="MM sketches.JPG" alt="" style="width:90%;">
+		    <img src="MM sketches.JPG" alt="" style="width:100%;">
 
 		</div>
 	 </div>
@@ -110,7 +110,7 @@
     <!-- Paani !-->
     <a id="paani"> <img class="pt-3" src="Paani-Hero-38.png" alt="" style="width:100%;"> </a>
     </br>
-	<div class="p-3">
+	<div class="pt-3">
 		<div class="row"> 
 			<div class="col-md-2" style="line-height:10px;">
 				<h5><b>Role</b></h5>
@@ -130,34 +130,35 @@
 			</div>
 		</div>
 	</div>
-
+	</br>
 	<div class="row d-flex justify-content-center">
-	<div class="col-10 "> 
+	<div class="col-lg-10 "> 
 		<h5> <b>Paani's Mission</b> </h5>
 	   <p>In the light of a new age and new hope for Pakistan, Paani is a 501(c)3 non-profit that aims to improve sanitation issues occurring within Pakistan by creating a space for innovative solutions and educating local and international communities. Paani does this by the means of primary, secondary and tertiary prevention: by focusing on advocacy projects to improve public knowledge on sanitation practices, building and revitalizing sources of water, and donating items to rural health clinics. </p>
     </div>
 	</div>
 
 	<div class="row d-flex justify-content-center">
-		<div class="col-md-5 pr-4">
+		<div class="col-lg-5 pr-lg-4">
 		     <h5> <b>Design</b> </h5>
 		     <p> The cofounders came to me with 3 designs of Paani, which means water, written in Urdu to use to design the logo. The clients wanted Paani to be written in Urdu and the text to be in the shape of a teardrop.</p>
    			<p> In the first few variations, I only worked with the Urdu word and tried to frame it in a circle and a teardrop. The final design includes the word Paani written in both English and Urdu, so everyone can read it. Additionally, the dots in the Urdu word are drawn like diamonds or starts, to symbolize hope and progress. I also designed a t-shirt. We decided to use the word Paak in Urdu, which means pure, and to model it after the a raindrop. ​</p>
 		</div>
-		<div class="col-md-5 text-center">
+		<div class="col-lg-5 text-center">
 		    <img src="Paani Sketches-12.png" alt="" style="border: 1px solid #DEDDDD; width:100%;">
 		</div>
 	 </div>
 
 	 <div class="row d-flex justify-content-center">
-	 	<div class="col-md-9 text-center">
+	 	<div class="col-lg-9 text-center">
 		    <img src="Paani Style Guide-13.png" alt="" style="width:100%;">
 		</div>
 	</div>
+	</br>
 
 	<!-- optiMize !--> 
-	<a id="opt"> <img class="pt-5 mt-5" src="optimize-hero-39.png" alt="" style="width:100%;"> </a>
-	<div class="row p-5"> 
+	<a id="opt"> <img class="pt-lg-5 mt-lg-5" src="optimize-hero-39.png" alt="" style="width:100%;"> </a>
+	<div class="row pt-3"> 
 		<div class="col-lg-2" style="line-height:10px;">
 			<h5><b>Role</b></h5>
 			<p>Branding designer</p>
@@ -176,9 +177,9 @@
 			<p>Sept 2018 - May 2019 </p>
 		</div>
 	</div>
-
+	</br>
 	<div class="row d-flex justify-content-center">
-		<div class="col-4 pr-5">
+		<div class="col-lg-4 pr-5">
 		<h5> <b>The Challenge</b> </h5>
 	    <p>optiMize is a social innovation incubator for students to develop their projects. The student organization hosts a social innovation challenge every year, offering workshops, mentorship and funding for students to create self-directed projects to make a positive impact. I am on the student staff as a design consultant and have been helping teams with branding design. The challenge for me was to figure out how to manage multiple teams at the same time, have a fast turn around for the logos and still create quality work.</p>
 	  	</br>
@@ -187,10 +188,10 @@
 			     
 		</div>
 
-		<div class="col-4 text-center">
+		<div class="col-lg-4 mb-2 text-center">
 		    <img src="brandingbrief.png" alt=""  style="width:100%;">
 		</div>
-		<div class="col-4 text-center">
+		<div class="col-lg-4 text-center">
 		    <img src="brandingbrief2.png" alt=""  style="width:100%;">
 		</div>	
 	</div>
@@ -206,19 +207,19 @@
 	</div>
 
     <div class="row d-flex justify-content-center">
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="optSketch.JPG" alt=""  style="width:100%;">
 		</div>
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="optSketch3.JPG" alt=""  style="width:100%;">
 		</div>
 		<!-- <div class="col-2 text-center">
 		    <img src="optSketch4.JPG" alt=""  style="width:100%;">
 		</div> !-->
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="optSketch5.JPG" alt=""  style="width:100%;">
 		</div>
-		<div class="col-3 text-center">
+		<div class="col-lg-3 text-center">
 		    <img src="optSketch6.JPG" alt=""  style="width:100%;">
 		</div>
 	</div>
@@ -234,16 +235,16 @@
 	</div>
 
 	<div class="row d-flex justify-content-center">
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="fivenorth.png" alt=""  style="width:100%;">
 		</div>
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="guardians.png" alt=""  style="width:100%;">
 		</div> 
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="shout.png" alt=""  style="width:100%;">
 		</div>
-		<div class="col-3 text-center">
+		<div class="col-lg-3 mb-2 text-center">
 		    <img src="reuniao.png" alt=""  style="width:100%;">
 		</div>
 	</div>
@@ -259,13 +260,13 @@
 	</div> 
 
     <div class="row d-flex justify-content-center">
-		<div class="col-4 text-center">
+		<div class="col-lg-4 mb-2 text-center">
 		    <img src="ThriveFinal.png" alt=""  style="width:100%;">
 		</div>
-		<div class="col-4 text-center">
+		<div class="col-lg-4 mb-2 text-center">
 		    <img src="NeohealthFinal.png" alt=""  style="width:100%;">
 		</div> 
-		<div class="col-4 text-center">
+		<div class="col-lg-4 mb-2 text-center">
 		    <img src="FiveNorthFinal.png" alt=""  style="width:100%;">
 		</div>
 	</div>
