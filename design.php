@@ -57,7 +57,7 @@
 						<div class='text-hover'>
 		 					<h4 class ="text-center"> Coming Soon! </h4>
 		 					</br>
-		 					<h2 class ="text-center"> HITS Service Catalog Improvement </h2>
+		 					<h2 class ="text-center"> HITS Service Catalog Redesign </h2>
 		 					<p class ="text-center mx-auto"> UX Research • UX Design </p>
 	 					</div>
 					</div>
