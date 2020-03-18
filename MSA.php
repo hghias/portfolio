@@ -11,7 +11,7 @@
 	</div>
 
 <div class="mt-5 mb-5"> 
-    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="msa-hero-40.png" alt="" style="width:100%;">
+    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="MSA/msa-hero-40.png" alt="" style="width:100%;">
 	</br>
 	<div class="padding-left padding-right">
     <div class="row"> 
@@ -73,13 +73,13 @@
 		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="msa_old.png" alt="First slide">
+				<img class="d-block w-100" src="MSA/msa_old.png" alt="First slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="msa_old1.png" alt="Second slide">
+				<img class="d-block w-100" src="MSA/msa_old1.png" alt="Second slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="msa_old2.png" alt="Third slide">
+				<img class="d-block w-100" src="MSA/msa_old2.png" alt="Third slide">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -112,10 +112,10 @@
  		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA Interview Questions.png" alt="First slide">
+				<img class="d-block w-100" src="MSA/MSA Interview Questions.png" alt="First slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA Interview Questions1.png" alt="Second slide">
+				<img class="d-block w-100" src="MSA/MSA Interview Questions1.png" alt="Second slide">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carousel2" role="button" data-slide="prev">
@@ -136,13 +136,13 @@
  		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA survey response.jpg" alt="First slide">
+				<img class="d-block w-100" src="MSA/MSA survey response.jpg" alt="First slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA survey response2.jpg" alt="Second slide">
+				<img class="d-block w-100" src="MSA/MSA survey response2.jpg" alt="Second slide">
 			</div>
 			<div class="carousel-item" style="background-color: #FFFF !important">
-				<img class="d-block w-100" src="MSA survey response3.jpg" alt="Third slide">
+				<img class="d-block w-100" src="MSA/MSA survey response3.jpg" alt="Third slide">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carousel3" role="button" data-slide="prev">
@@ -164,18 +164,18 @@
 
     <div class="row">
 		<div class="col-lg-6 pt-2 text-center">
-			<img src="Personas-01.png" alt="" style="width:100%;"> 
+			<img src="MSA/Personas-01.png" alt="" style="width:100%;"> 
 		</div>
 		<div class="col-lg-6 pt-2 text-center"> 
-			<img src="Personas-02.png" alt="" style="width:100%;">  
+			<img src="MSA/Personas-02.png" alt="" style="width:100%;">  
 		</div>
 	</div>
 	<div class="row pt-3">
 		<div class="col-lg-6 pt-2 text-center">
-			<img src="Personas-03.png" alt="" style="width:100%;"> 
+			<img src="MSA/Personas-03.png" alt="" style="width:100%;"> 
 		</div>
 		<div class="col-lg-6 pt-2 text-center">
-			<img src="Personas-04.png" alt="" style="width:100%;"> 
+			<img src="MSA/Personas-04.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 
@@ -185,8 +185,8 @@
 	<p> Before designing the website, we did some research on how other MSA around the world organize and design their websites. </p>
 
 	<div class="d-flex justify-content-center">
-		<div class="col-lg-7">
-			<img src="MSA_comparativeanlaysis.png" alt="" style="width:100%;"> 
+		<div class="col-lg-9">
+			<img src="MSA/MSA_comparativeanlaysis.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 		</br>
@@ -216,11 +216,11 @@
 
     <div class="row">
 		<div class="col-6 text-center">
-			<img src="msa old sitemap.jpg" alt="" style="width:100%;"> 
+			<img src="MSA/msa old sitemap.jpg" alt="" style="width:100%;"> 
 			<p>Old Sitemap</p>
 		</div>
 		<div class="col-6 text-center"> 
-			<img src="msa new sitemap.jpg" alt="" style="width:100%;">  
+			<img src="MSA/msa new sitemap.jpg" alt="" style="width:100%;">  
 			<p>New Sitemap</p>
 		</div>
 	</div>
@@ -232,12 +232,8 @@
     <h4> <b>Wireframes</b> </h4>
     <p>We wanted most of the information to be available on the home page with links to the other pages if the user wanted more information. </p>
     <div class="row d-flex justify-content-center">
-		<div class="col-lg-5 pt-2 text-center">
-			<img src="msa_wireframe.JPG" alt="" style="width:100%;"> 
-		</div>
-		  </br>
-		<div class="col-lg-5 pt-2 text-center"> 
-			<img src="msa_wireframe1.JPG" alt="" style="width:95%;">  
+		<div class="col-lg-9 pt-2 text-center">
+			<img src="MSA/msa_wireframe.jpg" alt="" style="width:100%;"> 
 		</div>
 	</div>
 
@@ -252,7 +248,7 @@
 
      <div class="row d-flex justify-content-center">
 		<div class="col text-center">
-			<img src="msa_lofi.png" alt="" style="width:100%;"> 
+			<img src="MSA/msa_lofi.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	<!-- <div class="row pt-3">
@@ -266,7 +262,7 @@
   
      <div class="row d-flex justify-content-center">
 		<div class="col-lg-7 text-center">
-			<img src="msa_styleguide.jpg" alt="" style="width:100%; outline:1px solid #255484;"> 
+			<img src="MSA/msa_styleguide.jpg" alt="" style="width:100%; outline:1px solid #255484;"> 
 		</div>
 	</div>
 	 </br>
@@ -274,7 +270,7 @@
 	<p> I created a high fidelity mockup and sent it to the Executive board for feedback and testing!</p>
      <div class="row d-flex justify-content-center">
 		<div class="col text-center">
-			<img src="msap.png" alt="" style="width:100%;"> 
+			<img src="MSA/msap.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
     </br>

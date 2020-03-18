@@ -11,7 +11,7 @@
 	</div>
 
 <div class="mt-5" > 
-    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Molar Bear Banner-49.png" alt="" style="width:100%;">
+    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="MolarBear/Molar Bear Banner-49.png" alt="" style="width:100%;">
     
 <div class="padding-left padding-right">
     </br>
@@ -46,7 +46,7 @@
 
 	   	<div class="col-md-3 text-center">
 	   		<video width="100%" controls autoplay loop muted controlsList=”nodownload”>
-	    		<source src="MolarBear.mov" type="video/mp4">
+	    		<source src="MolarBear/MolarBear.mov" type="video/mp4">
 	    		Sorry, your browser doesn't support embedded videos.
 	    	</video>
 	    	<p>prototype walkthrough</p>
@@ -64,7 +64,7 @@
     <!--<P>Our design process focused on conducting research, completing multiple design iterations and testing our different versions with users and dental professionals.</P> !-->
    <div class="d-flex justify-content-center">
    		<div class="col-10 pt-3 text-center">
-			<img src="Molar Bear Design Process.jpg" alt="" style="width:100%"> 
+			<img src="MolarBear/Molar Bear Design Process.jpg" alt="" style="width:100%"> 
 		</div>
    </div>
 
@@ -104,7 +104,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-7 pt-2 pb-3 text-center">
-			<img src="Molar Bear Brainstorming.jpg" alt="" style="width:100%">   
+			<img src="MolarBear/Molar Bear Brainstorming.jpg" alt="" style="width:100%">   
 		</div>
 	</div>
 
@@ -122,7 +122,7 @@
     <div class="d-flex justify-content-center">
 		
 		<div class="col-8 pb-3 text-center">
-			<img src="Molar Bear Research Methods.jpg" alt="" style="width:100%">   
+			<img src="MolarBear/Molar Bear Research Methods.jpg" alt="" style="width:100%">   
 		</div> 
 
 	</div>
@@ -148,7 +148,7 @@
 	<h4> <b>Research Participant Demographics</b> </h4>
 	<div class="d-flex justify-content-center">
 		<div class="col-8 pb-3 text-center">
-			<img src="Molar Bear Research Participant Demographics.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Research Participant Demographics.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -162,13 +162,13 @@
 	</br>
 	<div class="row">
 		<div class="col-lg-4 pb-3 text-center">
-			<img src="Molar Bear Patient Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
+			<img src="MolarBear/Molar Bear Patient Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
 		<div class="col-lg-4 pb-3 text-center">
-			<img src="Molar Bear Professional Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
+			<img src="MolarBear/Molar Bear Professional Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
 		<div class="col-lg-4 pb-3 text-center">
-			<img src="Molar Bear Survey.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
+			<img src="MolarBear/Molar Bear Survey.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
 	</div>
 
@@ -178,7 +178,7 @@
 	<h4> <b>Key Findings from Users</b> </h4>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear User Key Findings.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear User Key Findings.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -189,7 +189,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Professional Key Findings.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Professional Key Findings.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -202,7 +202,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Affinity Diagramming.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Affinity Diagramming.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -255,7 +255,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col pb-3 text-center">
-			<img src="Molar Bear Paper Prototype.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Paper Prototype.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 	</br>
@@ -266,7 +266,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-10 pb-3 text-center">
-			<img src="Molar Bear Wireframes.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Wireframes.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 	</br>
@@ -285,7 +285,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-10 pb-3 text-center">
-			<img src="Molar Bear Prototype V1.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Prototype V1.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -366,49 +366,49 @@
 	<h5 class="text-center">Onboarding</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Onboarding.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Onboarding.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Initial Questionnaire</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Initial Questionnaire.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Initial Questionnaire.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Daily Goal Tracking</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Daily Tracking.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Daily Tracking.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Track Progress</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Progress.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Progress.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Rewards</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-3 pb-3 text-center">
-			<img src="Molar Bear Rewards.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Rewards.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Resources</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Resources.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Resources.png" alt="" style="width:100%">
 		</div>
 	</div>
 
 	<h5 class="text-center">Notifications</h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
-			<img src="Molar Bear Notifications.png" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Notifications.png" alt="" style="width:100%">
 		</div>
 	</div>
 
@@ -416,7 +416,7 @@
 	<h5> <b>Design Specifications</b> </h5>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-9 pb-3 text-center">
-			<img src="Molar Bear Design Specifications.jpg" alt="" style="width:100%">
+			<img src="MolarBear/Molar Bear Design Specifications.jpg" alt="" style="width:100%">
 		</div>
 	</div>
 	

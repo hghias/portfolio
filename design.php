@@ -53,7 +53,7 @@
 				<a href="HITS.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid lazy" src="575.jpeg" alt=""> 
+						<img class="gallery_image img-fluid lazy" src="HITS.png" alt="" style="background-color: #853754;"> 
 						<div class='text-hover'>
 		 					<h4 class ="text-center"> Coming Soon! </h4>
 		 					</br>
@@ -138,7 +138,7 @@
 				<a href="Munchies.php">
 					<div class="show_overlay">
 		 				<div class="overlay"></div>
-						<img class="gallery_image img-fluid" src="575.jpeg" alt=""> 
+						<img class="gallery_image img-fluid" src="munchies.jpg" alt=""> 
 						<div class='text-hover'>
 		 					<h2 class ="text-center"> Munchies: The Emotion Tracker </h2>
 		 					<p class ="text-center mx-auto"> Product Design • Packaging Design • Illustration </p>

@@ -44,38 +44,38 @@
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 		<div class="col-lg-4 ">
 			<div class="pb-4 wedding portrait client">
-				<a href="IMG_0620.jpg" data-fancybox="images"  >
-					<img class="lazy" src="IMG_0620.jpg" alt="" width="100%">	
+				<a href="Photography/IMG_0620.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/IMG_0620.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0361.jpg" data-fancybox="images"  >
-					<img class="lazy" src="_DSC0361.jpg" alt="" width="100%">
+				<a href="Photography/_DSC0361.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/_DSC0361.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait urban creative">
-				<a href="_DSC0185.jpg" data-fancybox="images"  >
-					<img class="lazy" src="_DSC0185.jpg" alt="" width="100%">
+				<a href="Photography/_DSC0185.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/_DSC0185.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="DSC_0244.jpg" data-fancybox="images" >
-					<img class="lazy" src="DSC_0244.jpg" alt="" width="100%">
+				<a href="Photography/DSC_0244.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/DSC_0244.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="DSC_0253-3.jpg" data-fancybox="images"  >
-					<img class="lazy" src="DSC_0253-3.jpg" alt="" width="100%">
+				<a href="Photography/DSC_0253-3.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/DSC_0253-3.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 nature creative">
-				<a href="print large.jpg" data-fancybox="images"  >
-					<img class="lazy" src="print large.jpg" alt="" width="100%">
+				<a href="Photography/print.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/print.jpg" alt="" width="100%">
 				</a>
 			</div>
 
@@ -84,50 +84,50 @@
 
 		<div class="col-lg-4 ">
 			<div class="pb-4 urban creative">
-				<a href="_DSC1379.JPG" data-fancybox="images" >
-					<img class="lazy" src="_DSC1379.JPG" alt="" width="100%">
+				<a href="Photography/_DSC1379.JPG" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC1379.JPG" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait client">
-				<a href="DSC_0330.jpg" data-fancybox="images"  >
-					<img class="lazy" src="DSC_0330.jpg" alt="" width="100%">
+				<a href="Photography/DSC_0330.jpg" data-fancybox="images"  >
+					<img class="lazy" src="Photography/DSC_0330.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="_DSC1300-2.jpg" data-fancybox="images" >
-					<img class="lazy" src="_DSC1300-2.jpg" alt="" width="100%">
+				<a href="Photography/_DSC1300-2.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC1300-2.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait urban creative">
-				<a href="_DSC0037.jpg" data-fancybox="images" >
-					<img class="lazy" src="_DSC0037.jpg" alt="" width="100%">	
+				<a href="Photography/_DSC0037.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0037.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0740.JPG" data-fancybox="images" >
-					<img class="lazy" src="_DSC0740.JPG" alt="" width="100%">
+				<a href="Photography/_DSC0740.JPG" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0740.JPG" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0247-2.jpg" data-fancybox="images" >
-					<img class="lazy" src="_DSC0247-2.jpg" alt="" width="100%">	
+				<a href="Photography/_DSC0247-2.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0247-2.jpg" alt="" width="100%">	
 				</a>
 			</div>
 
 			<div class="pb-4 nature creative">
-				<a href="DSC_0396.jpg" data-fancybox="images" >
-					<img class="lazy" src="DSC_0396.jpg" alt="" width="100%">
+				<a href="Photography/DSC_0396.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/DSC_0396.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="IKTM6155.JPG" data-fancybox="images" >
-					<img class="lazy" src="IKTM6155.JPG" alt="" width="100%">
+				<a href="Photography/IKTM6155.JPG" data-fancybox="images" >
+					<img class="lazy" src="Photography/IKTM6155.JPG" alt="" width="100%">
 				</a>
 			</div>
 
@@ -135,32 +135,32 @@
 
 		<div class="col-lg-4 ">
 			<div class="pb-4 nature creative">
-				<a href="_DSC0202.jpg" data-fancybox="images" >
-					<img class="lazy" src="_DSC0202.jpg" alt="" width="100%">
+				<a href="Photography/_DSC0202.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0202.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4  portrait creative">
-				<a href="_DSC0108.jpg" data-fancybox="images" >
-					<img class="lazy" src="_DSC0108.jpg" alt="" width="100%">
+				<a href="Photography/_DSC0108.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0108.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 urban creative">
-				<a href="IMG_3918.JPG" data-fancybox="images" >
-					<img class="lazy" src="IMG_3918.JPG" alt="" width="100%">
+				<a href="Photography/IMG_3918.JPG" data-fancybox="images" >
+					<img class="lazy" src="Photography/IMG_3918.JPG" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4  portrait client">
-				<a href="DSC_0145.jpg" data-fancybox="images" >
-					<img class="lazy" src="DSC_0145.jpg" alt="" width="100%">
+				<a href="Photography/DSC_0145.jpg" data-fancybox="images" >
+					<img class="lazy" src="Photography/DSC_0145.jpg" alt="" width="100%">
 				</a>
 			</div>
 
 			<div class="pb-4 portrait creative">
-				<a href="_DSC0678.JPG" data-fancybox="images" >
-					<img class="lazy" src="_DSC0678.JPG" alt="" width="100%">
+				<a href="Photography/_DSC0678.JPG" data-fancybox="images" >
+					<img class="lazy" src="Photography/_DSC0678.JPG" alt="" width="100%">
 				</a>
 			</div>
 

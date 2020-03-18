@@ -65,12 +65,12 @@
 	<!-- UX DESIGN !-->
 	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
 		<div class="col-md-6 p-4 text-left text-md-right align-self-center order-2 order-md-1"> <!-- index-center !-->
-			<h1 style="color: #1f3160;"> USER EXPERIENCE DESIGN </h1>
+			<h1 style="color: #C69E2E;"> USER EXPERIENCE DESIGN </h1>
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
 		</div>
 
 		<div class="col-md-4 text-md-center order-1 order-md-2">
-			<a href="design.php?filter=ux"> <img class="indeximg" src="index-ux.png" alt="UX Design Image"> </a> 
+			<a href="design.php?filter=ux"> <img class="indeximg" src="index-ux1.png" alt="UX Design Image"> </a> 
 		</div>
 	</div>
 

@@ -11,7 +11,7 @@
 	</div>
 
 <div class="mt-5"> 
-    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Portfolio-hero-41.png" alt="" style="width:100%;">
+    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Portfolio/Portfolio-hero-41.png" alt="" style="width:100%;">
 	</br>
 
 	<div class="padding-left padding-right"> 
@@ -41,7 +41,7 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-6 text-center">
-			<img src="portfolio_comparativeanlaysis.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/portfolio_comparativeanlaysis.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 
@@ -67,11 +67,11 @@
 	    
 	<div class="row d-flex justify-content-center">
 		<div class="col text-center">
-			<img src="Portfolio_Old Sitemap.jpg" alt="" style="width:70%;"> 
+			<img src="Portfolio/Portfolio_Old Sitemap.jpg" alt="" style="width:70%;"> 
 			<p>Old Sitemap</p>
 		</div>
 		<div class="col text-center"> 
-			<img src="Portfolio_New Sitemap.jpg" alt="" style="width:70%;">  
+			<img src="Portfolio/Portfolio_New Sitemap.jpg" alt="" style="width:70%;">  
 			<p>New Sitemap</p>
 		</div>
 	</div>
@@ -83,15 +83,15 @@
 	
 	<div class="row d-flex justify-content-center">
 	    <div class="col-lg-8 text-center">
-			<img src="portfolio_wireframe0.jpg" alt="" style="width:100%;">
+			<img src="Portfolio/portfolio_wireframe0.jpg" alt="" style="width:100%;">
 	    </div>
 	</div>
 	<div class="row d-flex justify-content-center pt-3">
 		<div class="col-lg-4 text-right">
-			<img src="portfolio_wireframe2.jpg" alt="" style="width:100%;"> 
+			<img src="Portfolio/portfolio_wireframe2.jpg" alt="" style="width:100%;"> 
 		</div>
 		<div class="col-lg-4 text-left"> 
-			<img src="portfolio_wireframe.jpg" alt="" style="width:100%;">  
+			<img src="Portfolio/portfolio_wireframe.jpg" alt="" style="width:100%;">  
 		</div>
 	</div>
 	</br>
@@ -103,7 +103,7 @@
 	
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-6 text-center">
-			<img src="Portfolio_Lofi Mockup.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/Portfolio_Lofi Mockup.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	</br>
@@ -113,7 +113,7 @@
 	
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 text-center">
-			<img src="PersonalLogoSketches.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/PersonalLogoSketches.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	
@@ -123,7 +123,7 @@
 		
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 text-center">
-			<img src="hg.jpg" alt="" style="width:100%;"> 
+			<img src="Portfolio/hg.jpg" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	
@@ -133,7 +133,7 @@
 	<p> Once I had a lofi mockup, I created a style guide so I could make a high fidelity mockup. </p>
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 text-center">
-			<img src="Portfolio_Style_Guide.jpg" alt="" style="width:100%; outline:1px solid #255484;"> 
+			<img src="Portfolio/Portfolio_Style_Guide.jpg" alt="" style="width:100%; outline:1px solid #255484;"> 
 		</div>
 	</div>
 	</br>
@@ -144,7 +144,7 @@
 	
 	 <div class="row">
 		<div class="col text-center">
-			<img src="hifi1.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/hifi1.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	
@@ -155,10 +155,10 @@
 		
 	<div class="row">
 		<div class="col-8 text-center">
-			<img src="hifi2.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/hifi2.png" alt="" style="width:100%;"> 
 		</div>
 		<div class="col text-center">
-			<img src="hifi_mobile.png" alt="" style="width:78%;"> 
+			<img src="Portfolio/hifi_mobile.png" alt="" style="width:78%;"> 
 		</div>
 	</div>
 	</br>
@@ -168,7 +168,7 @@
 	<h5> <b>Development</b> </h5>
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 text-center">
-			<img src="dev process.png" alt="" style="width:100%;"> 
+			<img src="Portfolio/dev process.png" alt="" style="width:100%;"> 
 		</div>
 	</div>
 	

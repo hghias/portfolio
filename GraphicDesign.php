@@ -59,18 +59,18 @@
 
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-4">
-				<img src="Reclaiming Lost Narratives.png" alt="" style="width:100%;">
+				<img src="Graphic/Reclaiming Lost Narratives.png" alt="" style="width:100%;">
 				<p>Flyer</p>
 			</div>
 			<div class="col-7">
-				<img src="Reclaiming Lost Narratives Ideation.png" alt="" style="width:95%;">
+				<img src="Graphic/Reclaiming Lost Narratives Ideation.png" alt="" style="width:95%;">
 				<p>Ideation</p>
 			</div>
 		</div>
 		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
-				<img src="Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
+				<img src="Graphic/Reclaiming Lost Narratives Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
 		</div>
@@ -104,22 +104,22 @@
 
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-6">
-				<img src="MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
+				<img src="Graphic/MSA Banquet Flyer_Flyer.png" alt="" style="width:100%;">
 				<p>Flyer</p>
 			</div>
 			<div class="col-6">
-				<img src="Power of Small Deeds Ideation.png" alt="" style="width:100%;">
+				<img src="Graphic/Power of Small Deeds Ideation.png" alt="" style="width:100%;">
 				<p>Ideation</p>
 			</div>
 		</div>
 		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
-				<img src="MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
+				<img src="Graphic/MSA Banquet Flyer_Banner.png" alt="" style="width:100%;">
 				<p>Facebook Banner</p>
 			</div>
 			<div class="col-3">
-				<img src="MSA Banquet Countdown 3.png" alt="" style="width:105%;">
+				<img src="Graphic/MSA Banquet Countdown 3.png" alt="" style="width:105%;">
 				<p>Instagram Countdown</p>
 			</div>
 		</div>
@@ -152,7 +152,7 @@
 		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-8">
-				<img src="The optiMize Community.png" alt="" style="width:80%; border: 1px solid #DEDDDD; width:100%;">
+				<img src="Graphic/The optiMize Community.png" alt="" style="width:80%; border: 1px solid #DEDDDD; width:100%;">
 			</div>
 		</div>
 		 
@@ -189,7 +189,7 @@
 		</br>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-6">
-				<img src="MSA merch.png" alt="" style="width:100%;">
+				<img src="Graphic/MSA merch.png" alt="" style="width:100%;">
 			</div>
 		</div>
 		 
@@ -221,11 +221,8 @@
 		</br>
 
 		<div class="row text-center d-flex justify-content-center">
-			<div class="col-5">
-				<img src="Link Brochure.png" alt="" style="width:100%;">
-			</div>
-			<div class="col-5">
-				<img src="Link Brochure2.png" alt="" style="width:95%;">
+			<div class="col-12">
+				<img src="Graphic/Link Brochure.jpg" alt="" style="width:100%;">
 			</div>
 		</div>
 	

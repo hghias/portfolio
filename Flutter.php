@@ -11,7 +11,7 @@
 	</div>
 
 <div class="mt-5"> 
-    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Flutter-Hero-12.png" alt="" style="width:100%;">
+    <img class="pt-lg-3 pl-lg-5 pr-lg-5 p-3" src="Flutter/Flutter-Hero-12.png" alt="" style="width:100%;">
 	</br>
 	</br>
 	<div class="padding-left padding-right">
@@ -42,10 +42,9 @@
 		</div>
 		</br>
 		</br>
-	
 
     	<div class="row d-flex justify-content-center align-items-center">
-	   		<div class="col-lg-6 mr-md-5">
+	   		<div class="col-lg-6">
 				<h4> <b>The Problem</b> </h3>
 				</br>
     			<h4 style="line-height:35px;"> Children and estranged parents often have a <b>weak relationship </b> with inefficient communication. Even if one or both wants to repair the relationship, they don't know how to reach out to the other and <b>efforts are often inconsistent and inadequate.</b> Flutter is digital whiteboard and app with guiding prompts that aims to help <b>develop meaningful connections</b> between a parent and child. </h4>
@@ -53,7 +52,7 @@
 
 			<div class="col-lg-6 text-center">
 	   			<video width="100%" controls autoplay loop muted controlsList=”nodownload” style="width:100%; border: 1px solid #DEDDDD;">
-	    			<source src="Flutter.mov" type="video/mp4">
+	    			<source src="Flutter/Flutter.mov" type="video/mp4">
 	    			Sorry, your browser doesn't support embedded videos.
 	    		</video>
 	    		<p>prototype walkthrough</p>
@@ -66,7 +65,7 @@
     	<hr>
     	<div class="d-flex justify-content-center">
 	   		<div class="col-lg-10 pt-3 text-center">
-				<img src="FlutterDesignProcess.png" alt="" style="width:100%"> 
+				<img src="Flutter/FlutterDesignProcess.png" alt="" style="width:100%"> 
 			</div>
    		</div>
 
@@ -108,11 +107,11 @@
 
 		<div class="row text-center">
 			<div class="col-lg-6 pb-2">
-				<img src="Flutter-Primary Research.jpg" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter-Primary Research.jpg" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 			</br>
 			<div class="col-lg-6">
-				<img src="Flutter-Secondary Research.jpg" alt="" style="width:100%;border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter-Secondary Research.jpg" alt="" style="width:100%;border: 1px solid #DEDDDD;">
 			</div>
 		</div>
 		</br>
@@ -120,11 +119,11 @@
 		<h4> <b> Personas </b></h4>
 		<div class="row text-center">
 				<div class="col-lg-6 pb-2">
-					<img src="Flutter-Henry Persona.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+					<img src="Flutter/Flutter-Henry Persona.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 				</div>
 				</br>
 				<div class="col-lg-6">
-					<img src="Flutter-Rachel Persona.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
+					<img src="Flutter/Flutter-Rachel Persona.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
 				</div>
 		</div>
 		</br>
@@ -154,11 +153,11 @@
 
 		<div class="row text-center">
 			<div class="col-lg-6 pb-2">
-				<img src="Flutter Ideation.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter Ideation.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 			</br>
 			<div class="col-lg-6">
-				<img src="Flutter Wireframes.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter Wireframes.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
 				</div>
 		</div>
 		</br>
@@ -166,11 +165,11 @@
 		<h4> <b> Use Cases </b></h4>
 		<div class="row text-center">
 			<div class="col-lg-6 pb-2">
-				<img src="Flutter-Scenario1.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter-Scenario1.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 			</br>
 			<div class="col-lg-6">
-				<img src="Flutter-Scenario2.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter-Scenario2.png" alt="" style="width:100%;border: 1px solid #DEDDDD;">
 			</div>
 		</div>
  
@@ -180,7 +179,7 @@
 		</br>
 		<div class="row text-center">
 			<div class="col text-center">
-				<img src="Flutter.jpg" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter.jpg" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 		</div>
 		</br>
@@ -188,7 +187,7 @@
 		<h4> <b> Web Mockup </b></h4>
 		<div class="row text-center">
 			<div class="col text-center">
-				<img src="Flutter Web.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter Web.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 		</div>
 		</br>
@@ -196,7 +195,7 @@
 		<h4> <b> Mobile Mockup </b></h4>
 		<div class="row text-center">
 			<div class="col text-center">
-				<img src="Flutter Mobile.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter Mobile.png" alt="" style="width:100%; border: 1px solid #DEDDDD;">
 			</div>
 		</div>
 		</br>
@@ -204,7 +203,7 @@
 		<h4> <b> Style Guide </b></h4>
 		<div class="row text-center">
 			<div class="col text-center">
-				<img src="Flutter Style Guide.png" alt="" style="width:70%; border: 1px solid #DEDDDD;">
+				<img src="Flutter/Flutter Style Guide.png" alt="" style="width:70%; border: 1px solid #DEDDDD;">
 			</div>
 		</div>
 		</br>

@@ -418,14 +418,14 @@ button:focus {
 /* UX DESIGN */
 
 #uxbutton{
- 	color: #1f3160;
-    border-color: #1f3160;
+ 	color: #C69E2E;
+    border-color: #C69E2E;
     font-size:18px;
 }
 
 #uxbutton:hover { 
 	color: #ffff;
-	background-color: #1f3160;
+	background-color: #C69E2E;
 }
 
 

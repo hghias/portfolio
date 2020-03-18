@@ -32,7 +32,7 @@
 
     <!--Redefine!-->
     <a id="redefine">
-    <img src="Redefine-Hero-37.png" alt="" style="width:100%;"> </a>
+    <img src="Branding/Redefine-Hero-37.png" alt="" style="width:100%;"> </a>
     </br>
 	<div class="pt-3">
 		<div class="row"> 
@@ -62,12 +62,12 @@
 		     <h4 style="line-height:40px;"> Redefine is an organization that promotes social respect through the exhibition of original student artwork created from experiences with inequality. To represent our mission, we chose a dragonfly because it represents change, adaptability, emotions, peace, harmony and strength. </h4>
 		</div>
 		<div class="col-md-5 pt-3 pt-md-0 text-center">
-		    <img src="Redefine Visual Identity-16.png" alt=""  style="width:100%;">
+		    <img src="Branding/Redefine Visual Identity-16.png" alt=""  style="width:100%;">
 		</div>
 	 </div>
 
 	<!--Michigan Movement!-->
-	<a id="mm"> <img class="pt-5 mt-md-5" src="MM-hero-36.png" alt="" style="width:100%;"> </a>
+	<a id="mm"> <img class="pt-5 mt-md-5" src="Branding/MM-hero-36.png" alt="" style="width:100%;"> </a>
     </br>
 	<div class="pt-3">
 		<div class="row"> 
@@ -96,19 +96,19 @@
 		    <h5 style="line-height:35px;"> Michigan Movement is a student-run organization that provides aid to individuals, families, and students experiencing homelessness and poverty in our local community. They are rooted in education, health, and wellness, and value a sustainable, innovative, and collaborative approach to address our community's health and social disparities. I worked with the co-founders to design their logo when they first started the organization and then again when they shifted their mission. </h5>
 		</div>
 		<div class="col-md-4 pt-3 pt-md-0 text-center">
-		    <img src="MM sketches.JPG" alt="" style="width:100%;">
+		    <img src="Branding/MM sketches.JPG" alt="" style="width:100%;">
 
 		</div>
 	 </div>
 	
     <div class="row text-center d-flex justify-content-center">
 		<div class="col-md-9 text-center">
-		    <img src="MM Style Guide.png" alt="" style="width:100%;">
+		    <img src="Branding/MM Style Guide.png" alt="" style="width:100%;">
 		</div>
 	 </div>
 
     <!-- Paani !-->
-    <a id="paani"> <img class="pt-3" src="Paani-Hero-38.png" alt="" style="width:100%;"> </a>
+    <a id="paani"> <img class="pt-3" src="Branding/Paani-Hero-38.png" alt="" style="width:100%;"> </a>
     </br>
 	<div class="pt-3">
 		<div class="row"> 
@@ -145,19 +145,19 @@
    			<p> In the first few variations, I only worked with the Urdu word and tried to frame it in a circle and a teardrop. The final design includes the word Paani written in both English and Urdu, so everyone can read it. Additionally, the dots in the Urdu word are drawn like diamonds or starts, to symbolize hope and progress. I also designed a t-shirt. We decided to use the word Paak in Urdu, which means pure, and to model it after the a raindrop. ​</p>
 		</div>
 		<div class="col-lg-5 text-center">
-		    <img src="Paani Sketches-12.png" alt="" style="border: 1px solid #DEDDDD; width:100%;">
+		    <img src="Branding/Paani Sketches-12.png" alt="" style="border: 1px solid #DEDDDD; width:100%;">
 		</div>
 	 </div>
 
 	 <div class="row d-flex justify-content-center">
 	 	<div class="col-lg-9 text-center">
-		    <img src="Paani Style Guide-13.png" alt="" style="width:100%;">
+		    <img src="Branding/Paani Style Guide-13.png" alt="" style="width:100%;">
 		</div>
 	</div>
 	</br>
 
 	<!-- optiMize !--> 
-	<a id="opt"> <img class="pt-lg-5 mt-lg-5" src="optimize-hero-39.png" alt="" style="width:100%;"> </a>
+	<a id="opt"> <img class="pt-lg-5 mt-lg-5" src="Branding/optimize-hero-39.png" alt="" style="width:100%;"> </a>
 	<div class="row pt-3"> 
 		<div class="col-lg-2" style="line-height:10px;">
 			<h5><b>Role</b></h5>
@@ -189,10 +189,10 @@
 		</div>
 
 		<div class="col-lg-4 mb-2 text-center">
-		    <img src="brandingbrief.png" alt=""  style="width:100%;">
+		    <img src="Branding/brandingbrief.png" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-4 text-center">
-		    <img src="brandingbrief2.png" alt=""  style="width:100%;">
+		    <img src="Branding/brandingbrief2.png" alt=""  style="width:100%;">
 		</div>	
 	</div>
 	</br>
@@ -208,19 +208,19 @@
 
     <div class="row d-flex justify-content-center">
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="optSketch.JPG" alt=""  style="width:100%;">
+		    <img src="Branding/optSketch.JPG" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="optSketch3.JPG" alt=""  style="width:100%;">
+		    <img src="Branding/optSketch3.JPG" alt=""  style="width:100%;">
 		</div>
 		<!-- <div class="col-2 text-center">
 		    <img src="optSketch4.JPG" alt=""  style="width:100%;">
 		</div> !-->
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="optSketch5.JPG" alt=""  style="width:100%;">
+		    <img src="Branding/optSketch5.JPG" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-3 text-center">
-		    <img src="optSketch6.JPG" alt=""  style="width:100%;">
+		    <img src="Branding/optSketch6.JPG" alt=""  style="width:100%;">
 		</div>
 	</div>
 	
@@ -236,16 +236,16 @@
 
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="fivenorth.png" alt=""  style="width:100%;">
+		    <img src="Branding/fivenorth.png" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="guardians.png" alt=""  style="width:100%;">
+		    <img src="Branding/guardians.png" alt=""  style="width:100%;">
 		</div> 
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="shout.png" alt=""  style="width:100%;">
+		    <img src="Branding/shout.png" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-3 mb-2 text-center">
-		    <img src="reuniao.png" alt=""  style="width:100%;">
+		    <img src="Branding/reuniao.png" alt=""  style="width:100%;">
 		</div>
 	</div>
  	
@@ -261,13 +261,13 @@
 
     <div class="row d-flex justify-content-center">
 		<div class="col-lg-4 mb-2 text-center">
-		    <img src="ThriveFinal.png" alt=""  style="width:100%;">
+		    <img src="Branding/ThriveFinal.png" alt=""  style="width:100%;">
 		</div>
 		<div class="col-lg-4 mb-2 text-center">
-		    <img src="NeohealthFinal.png" alt=""  style="width:100%;">
+		    <img src="Branding/NeohealthFinal.png" alt=""  style="width:100%;">
 		</div> 
 		<div class="col-lg-4 mb-2 text-center">
-		    <img src="FiveNorthFinal.png" alt=""  style="width:100%;">
+		    <img src="Branding/FiveNorthFinal.png" alt=""  style="width:100%;">
 		</div>
 	</div>
 </div>	
