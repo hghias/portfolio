@@ -40,6 +40,10 @@ button:focus {
 	outline: 0 !important; 
 }
 
+/* img { // To remove option to save pictures, but it's disabling the slideshow option on photography page
+    pointer-events: none;
+} */
+
 /* MEDIA QUERIES */
 
 
