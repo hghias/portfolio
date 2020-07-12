@@ -1,5 +1,6 @@
 
 @import url(https://fonts.google.com/specimen/Assistant);
+@import url(https://fonts.google.com/specimen/Playfair+Display);
 
 body{
 	font-family: "Assistant", sans-serif !important; 
@@ -8,10 +9,14 @@ body{
 	overflow-x: hidden;
 }
 
+.Playfair-Display {
+	font-family: "Playfair Display", sans-serif !important; 
+}
+
 /*GENERAL*/
 html {
     font-size: 1rem;
-    line-height:1.4;
+    line-height:2 !important;
 }
 
 p{ 

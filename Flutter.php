@@ -47,7 +47,7 @@
 	   		<div class="col-lg-6">
 				<h4> <b>The Problem</b> </h3>
 				</br>
-    			<h4 style="line-height:35px;"> Children and estranged parents often have a <b>weak relationship </b> with inefficient communication. Even if one or both wants to repair the relationship, they don't know how to reach out to the other and <b>efforts are often inconsistent and inadequate.</b> Flutter is digital whiteboard and app with guiding prompts that aims to help <b>develop meaningful connections</b> between a parent and child. </h4>
+    			<h4 style="line-height:35px;"> Children and estranged parents often have a <b>weak relationship </b> with inefficient communication. Even if one or both wants to repair the relationship, they don't know how to reach out to the other and <b>efforts are often inconsistent and inadequate.</b> Flutter is a digital whiteboard and app with guiding prompts that aims to help <b>develop meaningful connections</b> between a parent and child. </h4>
 			</div>
 
 			<div class="col-lg-6 text-center">
@@ -95,7 +95,7 @@
 			<li> How has divorce impacted your emotions, behaviors and strength of bonds? </li>
 			<li> How did you cope with or perceived the divorce?  </li>
 		</ul>
-		<p>From the interviews, we found that for children affected at a young age, living with one parent was normal. Often it was the father who left the household and children lost connection with extended family of estranged parent. There was different levels of contact depending on physical location and relationship between parents.</p>
+		<p>From the interviews, we found that for children affected at a young age, living with one parent was normal. Often it was the father who left the household and children lost connection with the extended family of estranged parent. There were different levels of contact depending on physical lothe cation and relationship between parents.</p>
 		<p>For our secondary research, we researched the influence of divorce on child and parent, with a focus on psychological wellbeing and strength of relationship. We also looked into ways of rebuilding relationships between the estranged parent and child. Our research confirmed the fact that it was usually the fathers who left after the divorce. We not only learned about the child's impact but also the impact on the parent: older divorced men without a partner become particularly vulnerable during old age and they feel increased anxiety, loneliness and guilt for leaving their child. </p>
 		<p>Since we had just a few days to conduct interviews and compile research, we had to make some assumptions and had some blindspots</p>
 		<ul>
@@ -146,9 +146,9 @@
 		<hr>
 	
 		<h4> <b> Sketches </b></h4>
-		<p>The first sketch is am emotion tracker lamp - a bedside lamp that users can input their mood into and that will change the color of the connected lamp. Both users can keep track of their own day and see how the other party’s day was like. An app for the parent allows them to see what their children have inputted and also share how they’re feeling, They can also leave voice messages that their children can play from the lamp.</p>
+		<p>The first sketch is an emotion tracker lamp - a bedside lamp that users can input their mood into and that will change the color of the connected lamp. Both users can keep track of their own day and see how the other party’s day was like. An app for the parent allows them to see what their children have inputted and also share how they’re feeling, They can also leave voice messages that their children can play from the lamp.</p>
 		<p>The second sketch is a vibration bracelet - allows users to set touch patterns for specific messages such as “I love you” or “I miss you” that send to the recipient’s bracelet. An app for the parent allows them to see what their kids have sent them and send a touch pattern back. </p>
-		<p>We realized these ideas didn't allow for meaningful connection - A teenager who is upset with her father and won't take a phone call, wouldn't willingly input her own feelings or want to communicate through vibrations. We needed something that would help facilitate that communication, rebuild their connection and also didn't connect the Henry and Rachel together 100%. This was when we came up with the idea of a digital whiteboard that would give them prompts, games and drawing exercises they could complete together to create positive interactions with each other. </p>
+		<p>We realized these ideas didn't allow for meaningful connection - A teenager who is upset with her father and won't take a phone call, wouldn't willingly input her own feelings or want to communicate through vibrations. We needed something that would help facilitate that communication, rebuild their connection and also didn't connect Henry and Rachel together 100%. This was when we came up with the idea of a digital whiteboard that would give them prompts, games and drawing exercises they could complete together to create positive interactions with each other. </p>
 		
 
 		<div class="row text-center">
@@ -221,3 +221,17 @@
 	</div>
 </div>
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+
+        /*
+        https://stackoverflow.com/questions/9756159/using-javascript-how-to-create-a-go-back-link-that-takes-the-user-to-a-link-i
+        */
+    }
+});
+</script>

@@ -11,7 +11,7 @@
 <!-- LANDING PAGE !-->
 <div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
 	<div class="row">
-		<div class ="col my-auto align-self-center" style="padding-top: 7%; padding-bottom:9%;" >
+		<div class ="col my-auto align-self-center" style="padding-top: 7%; padding-bottom:5%;" >
 			<div class="typed-wrap text-center">
 				<h1> <span class="underline">About</span> Me</h1>
 
@@ -20,19 +20,6 @@
 	</div>
 </div>
 
-<!--
-<div class="container-fluid" data-aos="fade-up" data-aos-duration="1000">
-	<div class="row">
-		<div class="col btn-toolbar btn-group pb-5 " role="group" data-toggle="buttons"> 
-			<a class="btn sh" id="designbutton" role="button" > About Me </a>
-			<a class="btn pn" id="designbutton" role="button" > Resume </a>
-			<a class="btn dr" id="designbutton" role="button" > Design Process </a>
-			<a class="btn dg" id="designbutton" role="button" > Commissions </a>
-			<a class="btn 3d" id="designbutton" role="button" > Contact Me </a>
-		</div>
-	</div>
-</div>
-!-->
 <div class="container" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
 		<div class="col-8">
@@ -43,7 +30,17 @@
 	<div class="row ">
 		<div class="col-lg-9">
 			<h5 style= "line-height: 150%;">
-				I’m currently a senior at the University of Michigan studying art & design with a focus on user experience design. I started my college career in software development, but changed my focus to UX design when I fell in love with design and its potential to change the world. I wanted to shape what products look like and how they function, rather than working on building them.
+				In Arabic, Hafsa means lioness. I have always resonated with what my name means
+
+				qualities embody
+				my work speaks to that: it's strong, powerful. 
+				leadership
+
+				
+				My name has always helped me draw ambition, creativity and confidence .  I've always drawn power from it. I like to think my passion, creativity and courage comes from my name. 
+				</br>
+				</br>
+				I’m a recent graduate from the University of Michigan with a B.A in art & design with a focus on user experience design. I started my college career in software development, but changed my focus to UX design when I fell in love with design and its potential to change the world. With a strong drive for solving problems, I enjoyed shaping what products look like and how they function more than building them.
 				</br>
 				</br>
 				I aim to use design as a tool to foster inclusivity & create equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether that be personal, cultural, or structural barriers. With a background in computer science, my goal is to design user interfaces with regards to the limitations that arise in the development phase. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?” </I>

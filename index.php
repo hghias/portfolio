@@ -48,11 +48,12 @@
 
 		</div>
 		<div class="col-8 col-md-7 pl-md-5 pt-md-5 pt-3 pb-md-5 pb-3 mt-md-5 mb-md-5 about">
-			<h1 style="color:#48A2B5; line-height:1.5;"> Hi, it's nice to meet you! </h1>
+			<h1 style="color:#48A2B5; "> Hi, I'm Hafsa! </h1>
+
 			</br>
-			<h2> I’m a user experience designer focused on fostering inclusivity and creating equal opportunity. </h2>
+			<h2  style="line-height:1.5 !important"> I’m a user experience designer passionate about using design as a tool to foster inclusivity and creating equal opportunity. With a background in computer science, my goal is to design engaging user experiences with regards to my technical limitations.</h2>
 			</br>
-			<h4>I'm graduating from the University of Michigan in May 2020 and am looking for full time UX opportunities!</h4>
+			<h4 style="line-height:1.5 !important">I'm a new graduate from the University of Michigan seeking full time UX opportunities!</h4>
 			</br>
 			<a class="btn pb-2 pt-2 pl-4 pr-4" id="Contact" href="mailto:hghias@umich.edu" role="button"> Get In Touch </a>
 		</div>
@@ -61,12 +62,17 @@
 </div>
 
 <div class="container-fluid p-0 pl-2 pr-2 pb-5">
+	<h2 class="text-center"> EXPLORE MY WORK </h2>
 
 	<!-- UX DESIGN !-->
 	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
 		<div class="col-md-6 p-4 text-left text-md-right align-self-center order-2 order-md-1"> <!-- index-center !-->
 			<h1 style="color: #C69E2E;"> USER EXPERIENCE DESIGN </h1>
-			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
+			<!-- <div class="d-flex justify-content-end">
+				<p class="col-lg-8 p-0" style="color: #C69E2E;"> As a perpetually curious person, UX has allowed me to step into worlds I would have never entered in before including healthcare, fintech and education!  </p>
+			</div> !--> 
+			
+			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4 " id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
 		</div>
 
 		<div class="col-md-4 text-md-center order-1 order-md-2">

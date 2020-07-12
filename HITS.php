@@ -18,16 +18,17 @@
     <div class="row"> 
 		<div class="col-lg-3">
 			<h5><b>Role</b></h5>
-			<p>UX Research & Design Intern</p>
+			<p>Lead UX Researcher and Designer</p>
 			<p></p>
 		</div>
 		<div class="col-lg-3" >
 			<h5><b>Deliverables</b></h5>
-			<p> User Research Findings & Reccomendations</p>
+			<p> Report and presentation deck of research and recommendations </br> 
+            Mockups of recommended redesign</p>
 		</div>
 		<div class="col-lg-3">
 			<h5><b>Team</b></h5>
-			<p>Worked with the Project Lead, Marketing & Engagement Lead, Service Catalog Product Manager & Project Manager</p>
+			<p> Project Lead and Service Catalog Product Manager</p>
 		</div>
 		<div class="col-lg-3">
 			<h5><b>Timeline</b></h5>
@@ -169,7 +170,7 @@
 
     </br>
     <h5> <b> Ideate </b></h5>
-    <p>Based off of the insights from the first round of interviews, I created redesigns and will be conducting usability tests using these mockups to see if the task success rate improves.</p>
+    <p>Based on the insights from the first round of interviews, I created redesigns and will be conducting usability tests using these mockups to see if the task success rate improves.</p>
     <div class="row d-flex justify-content-center">
         <div class="col-lg-12 text-center">
             <img src="HITSIteration1.png" alt="" style="width:100%;">
@@ -185,4 +186,18 @@
 </div>
 </div>
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+
+        /*
+        https://stackoverflow.com/questions/9756159/using-javascript-how-to-create-a-go-back-link-that-takes-the-user-to-a-link-i
+        */
+    }
+});
+</script>
 

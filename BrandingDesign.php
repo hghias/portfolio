@@ -273,3 +273,13 @@
 </div>	
 </div>
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+    }
+});
+</script>

@@ -70,3 +70,17 @@
 </div>
 </div>
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+
+        /*
+        https://stackoverflow.com/questions/9756159/using-javascript-how-to-create-a-go-back-link-that-takes-the-user-to-a-link-i
+        */
+    }
+});
+</script>

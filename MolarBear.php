@@ -90,7 +90,7 @@
 		    	<tr>
 		    		<th>Design</th>
 		    		<td> •  Minimal </br>
-		    			 •  East to use </br>
+		    			 •  Easy to use </br>
 		    			 •  Customizable </br>
 		    		</td>
 		    	</tr>
@@ -280,7 +280,7 @@
 	<hr>
 
 	<h5> <b>Prototype Version One</b> </h5>
-	<p>Our first protoype had bright colors, less clear navigation and there were informational and interaction gaps between some screens.</p>
+	<p>Our first prototype had bright colors, less clear navigation and there were informational and interaction gaps between some screens.</p>
 
 
 	<div class="d-flex justify-content-center">
@@ -303,7 +303,7 @@
 		<li>In our think aloud testing we learned the importance of keeping navigation clear to the user. After feedback from other classmates, we simplified our options panel and made the icons for moving back and forth in the app easier to understand and more predictable.</li>
 	</ul>
 	<p><b>Features Suggested</b></p>
-	<p>The Dental Professionals also suggeted some changes in some of our features including resources and initial questionnaire.</p>
+	<p>The Dental Professionals also suggested some changes in some of our features including resources and initial questionnaire.</p>
 	<ul>
 		<li>Add Resources</li>
 		<ul>
@@ -419,7 +419,40 @@
 			<img src="MolarBear/Molar Bear Design Specifications.jpg" alt="" style="width:100%">
 		</div>
 	</div>
-	
+
+	<hr>
+	<h4> <b>Similar Projects</b> </h4>
+	</br>
+	<div class="row"> 
+		<div class="col-lg-4">
+			<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+			</br>
+			<h3>Flutter</h3>
+		</div>
+
+		<div class="col-lg-4">
+			<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+		</div>
+		<div class="col-lg-4">
+			<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
+		</div>
+	</div>
+
 </div>
 </div> 
+
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+
+        /*
+        https://stackoverflow.com/questions/9756159/using-javascript-how-to-create-a-go-back-link-that-takes-the-user-to-a-link-i
+        */
+    }
+});
+</script>

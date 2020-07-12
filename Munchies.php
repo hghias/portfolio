@@ -74,7 +74,7 @@
         </br>
 
         <h4> <b> Sketches </b></h4>
-        <p> By understanding the models of wellbeing, the factors that impact wellbeing and the approaches to designing positive computing, I narrowed down what type of problems I wanted to tackle. My initial sketches tackle <b>preventative or active aspects to improving emotional health and mindfulness.</b> Through multiple sessions of critique, I narrowed my idea based on <b>impact and feasibility</b> to building a <b>mood tracker</b> and to cutify it, I decided to make a little monster that you feed different color jellybeans that correspond with how you were feeling that day. This allows you to track how you've been feeling over a period of time and be mindful about why you've been feeling the way you are. </p>
+        <p> By understanding the models of wellbeing, the factors that impact wellbeing and the approaches to designing positive computing, I narrowed down what type of problems I wanted to tackle. My initial sketches tackle <b>preventative or active aspects to improve emotional health and mindfulness.</b> Through multiple sessions of critique, I narrowed my idea based on <b>impact and feasibility</b> to building a <b>mood tracker</b> and to cutify it, I decided to make a little monster that you feed different color jellybeans that correspond with how you were feeling that day. This allows you to track how you've been feeling over a period of time and be mindful about why you've been feeling the way you are. </p>
         <div class="row text-center">
             <div class="col text-center">
                 <img src="Munchies/MunchiesSketches.jpg" alt="" style="width:100%;">
@@ -90,14 +90,14 @@
         <ul>
             <li> <b>Emotional literacy</b> is the ability to identify, understand, and respond to emotions in oneself and others in a healthy manner.</li>
             <li>Children who have a <b>strong foundation in emotional literacy</b> tolerate frustration better, get into fewer fights, engage in less self-destructive behavior, are healthier, less lonely, less impulsive, more focused, and they have greater academic achievement.</li>
-            <li> <b>Three variables in child’s ability to label emotions:</b> (1) the child’s temperament and developmental status, (2) parental socialization and environmental support, and (3) the teacher and child care providers’ emphasis on emotional literacy.</li>
+            <li> <b>Three variables in a child’s ability to label emotions:</b> (1) the child’s temperament and developmental status, (2) parental socialization and environmental support, and (3) the teacher and child care providers’ emphasis on emotional literacy.</li>
             <li> <b>Strategies to foster emotional literacy in children:</b> express your own feelings, label children's feelings, and play games, sing songs, and read stories with new feeling words.</li>
         </ul>
 
         <a href="https://doi-org.proxy.lib.umich.edu/10.1017/S095457940300018X" target="blank" style="color:#158c97;";">First Grade Emotion Knowledge as a Predictor of Fifth Grade Self-Reported Internalizing Behaviors in Children from Economically Disadvantaged Families, Cambridge University Press</a>
         <ul >
             <li>Most children begin to <b>attach labels to emotions when they reach 18 months of age </b> and they become able to <b>discuss feeling states they have experienced by 28 months.</b> </li>
-            <li> The ability to label emotions on the basis of expressive and situational cues is <b>closely linked to verbal ability</b></li>
+            <li> The ability to label emotions on the basis of expressive and situational cues is <b>closely linked to verbal ability.</b></li>
             <li> <b>Differential emotions theory</b> states that each emotion has an adaptive function that stems from its motivational quality. Emotions can be activated by cognitions, physiological states, or other emotions. As children develop, emotions self-organize into patterns that can be activated by environmental events.</li>
             <li>Throughout early and middle childhood <b>repeated misperception of emotion cues may lead to inefficient or maladaptive emotion patterns</b> and emotion–cognition structures that activate negative emotions such as shame, guilt, sadness, and fear at inappropriate times.</li>
         </ul>
@@ -120,7 +120,7 @@
         </br>
         
         <h4> <b> Prototyping </b></h4>
-        <p>I haven't worked with clay in a very long time, so I did a lot of experimenting to make sure that the structure is strong and wouldn't crack when the clay is being baked. At the same time I was trying to make sure that the monster looked cute and had a big enough and easily accessible mouth to make sure it's functionable. </p>
+        <p>I haven't worked with clay in a very long time, so I did a lot of experimenting to make sure that the structure would be strong and wouldn't crack when the clay would be baked. At the same time I tried to make sure that the monster looked cute and had a big enough and easily accessible mouth to maintain functionality. </p>
         <div class="row text-center">
             <div class="col text-center">
                 <img src="Munchies/MunchiesPrototype.jpg" alt="" style="width:100%;">
@@ -179,3 +179,17 @@
     </div>
 </div>
 </body>
+
+<script>
+
+$('body').keyup(function(e){
+    if(e.which == 27){
+       /*window.location.replace("design.php");*/
+        history.back();
+
+        /*
+        https://stackoverflow.com/questions/9756159/using-javascript-how-to-create-a-go-back-link-that-takes-the-user-to-a-link-i
+        */
+    }
+});
+</script>
