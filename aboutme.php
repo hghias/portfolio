@@ -30,7 +30,7 @@
 	<div class="row ">
 		<div class="col-lg-9">
 			<h5 style= "line-height: 150%;">
-				In Arabic, Hafsa means lioness. I have always resonated with what my name means
+				<!--In Arabic, Hafsa means lioness. I have always resonated with what my name means
 
 				qualities embody
 				my work speaks to that: it's strong, powerful. 
@@ -38,8 +38,7 @@
 
 				
 				My name has always helped me draw ambition, creativity and confidence .  I've always drawn power from it. I like to think my passion, creativity and courage comes from my name. 
-				</br>
-				</br>
+				!-->
 				I’m a recent graduate from the University of Michigan with a B.A in art & design with a focus on user experience design. I started my college career in software development, but changed my focus to UX design when I fell in love with design and its potential to change the world. With a strong drive for solving problems, I enjoyed shaping what products look like and how they function more than building them.
 				</br>
 				</br>
