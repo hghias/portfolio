@@ -117,6 +117,14 @@ button:focus {
 	display:inline-block !important;
 }
 
+a{
+ color:#48A2B5 !important;
+}
+
+a:hover{
+border-bottom: 2px solid #48A2B5 !important;
+}
+
 .navbar-nav a:link, a:visited { 
 	color: #255484;
 	font-size: 1.2rem;
@@ -402,7 +410,7 @@ button:focus {
 } */
 
 .index-intro{ 
-	background-color: #D9E2E9; 
+	background-color: #D9DFEF; 
 	left: -15px; 
  }
 
@@ -422,6 +430,18 @@ button:focus {
 	color: #48A2B5;
     background-color: #fff;
     border-color:#5198A7;
+}
+
+#Secondary { 
+	color: #48A2B5;
+    background-color: #fff;
+    border-color:#5198A7;
+    font-size:16px;	
+}
+
+#Secondary:hover { 
+	color: #fff;
+    background-color: #48A2B5;
 }
 
 /* UX DESIGN */
@@ -578,7 +598,7 @@ button:focus {
 }
 
 .footer-row { 
-	background-color:#D9E2E9;
+	background-color:#D9DFEF;
 }
 
 .text {
@@ -638,7 +658,52 @@ button:focus {
 	position: relative; 
 }
 
+/* DESIGN */
 .text-hover { 
+	position: absolute; 
+	color: #EEF3F6 !important;
+	top: 50%;
+  	left: 50%;
+  	-webkit-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+	-webkit-transition: visibility 0s, opacity 0.5s linear;
+ 	transition: visibility 0s, opacity 0.5s linear;
+	visibility:visible;
+	opacity:1;
+	/*transition: opacity .6s visibility .6s; */
+	
+ }
+
+ .project:hover .text-hover{ 		
+ 	visibility:hidden;
+ 	opacity: 0;
+
+ }
+
+ .project:hover .overlay{ 		
+ 	visibility: hidden;
+ 	opacity: 0;
+ 	-webkit-transition: visibility 0s, opacity 0.5s linear;
+ 	transition: visibility 0s, opacity 0.5s linear;
+
+ }
+.show_overlay { 
+	position: relative; 
+}
+
+ .overlay { 
+ 	position: absolute;
+ 	background: #255484af;
+  	top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+ 	visibility:visible;
+ }
+
+/*EXPLORATIONS*/
+.text-hover-inverse { 
 	position: absolute; 
 	color: #EEF3F6 !important;
 	top: 50%;
@@ -654,30 +719,23 @@ button:focus {
 	
  }
 
- .project:hover .text-hover{ 		
- 	visibility: visible;
+ .projectE:hover .text-hover-inverse{ 		
+ 	visibility:visible;
  	opacity: 1;
 
  }
 
- .fancybox-content {
-}
-
-  .project:hover .overlay{ 		
+ .projectE:hover .overlayE{ 		
  	visibility: visible;
  	opacity: 1;
  	-webkit-transition: visibility 0s, opacity 0.5s linear;
  	transition: visibility 0s, opacity 0.5s linear;
 
-
  }
-.show_overlay { 
-	position: relative; 
-}
 
- .overlay { 
+ .overlayE { 
  	position: absolute;
- 	background: #255484bf;
+ 	background: #255484af;
   	top: 0;
     right: 0;
     left: 0;

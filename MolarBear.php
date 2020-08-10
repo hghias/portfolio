@@ -420,6 +420,7 @@
 		</div>
 	</div>
 
+
 	<hr>
 	<h4> <b>Similar Projects</b> </h4>
 	</br>

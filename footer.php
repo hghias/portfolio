@@ -9,7 +9,7 @@
 				<img id="linkedin-icon" class= "footer" src="linkedin.png" alt="Linkedin" style="width:48px; height:48px"> 
 			</a>
 
-			<a class="" href="https://www.instagram.com/hafsagphotography/" target="blank"> 
+			<a class="" href="https://www.instagram.com/hafsathecreator/" target="blank"> 
 				<img id="instagram-icon" class= "footer" src="instagram.png" alt="Instagram" style="width:48px; height:48px"> 
 			</a>
 		</span>

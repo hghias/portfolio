@@ -202,8 +202,8 @@
 		<!-- 7 !-->
 
 		<div class="col-lg-4 pb-4 project nature">
-			<a href="Photography/DSC_0396.jpg" data-fancybox="images" >
-				<img class="lazy" src="Photography/DSC_0396.jpg" alt="" width="100%">
+			<a href="Photography/DSC_0104.jpg" data-fancybox="images" >
+				<img class="lazy" src="Photography/DSC_0104.jpg" alt="" width="100%">
 			</a>
 		</div>
 
@@ -303,6 +303,7 @@
 	    $(this).addClass("active");
 	});
 
+	//const urlParams = new URLSearchParams(window.location.search);
 
 	$(".sh").click(function() { //show all
 		$(this).toggleClass("active");
@@ -312,6 +313,9 @@
 
 
 	$(".pr").click(function() { //portrait
+		//urlParams.set('filter', 'portrait');
+		//window.location.search = urlParams;
+
 		$(this).toggleClass("active");
 		$('div.project').hide();
 		$('div.portrait').fadeIn(1000, "linear");
@@ -319,12 +323,16 @@
 
 
 	$(".ur").click(function() { //urban
+		//urlParams.set('filter', 'urban');
+		//window.location.search = urlParams;
 		$(this).toggleClass("active");
 		$('div.project').hide();
 		$('div.urban').fadeIn(1000, "linear");
 	});
 
 	$(".na").click(function() { //nature
+		//urlParams.set('filter', 'nature');
+		//window.location.search = urlParams;
 		$(this).toggleClass("active");
 		$('div.project').hide();
 		$('div.nature').fadeIn(1000, "linear");

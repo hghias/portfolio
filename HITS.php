@@ -23,7 +23,7 @@
 		</div>
 		<div class="col-lg-3" >
 			<h5><b>Deliverables</b></h5>
-			<p> Report and presentation deck of research and recommendations </br> 
+			<p> Generate research report and presentation for stakeholders </br> 
             Mockups of recommended redesign</p>
 		</div>
 		<div class="col-lg-3">
@@ -38,43 +38,38 @@
 	</br>
 	</br>
 	
-    <h3 class="text-center"> <b>Strategize</b> </h3>
-    <h5> <b> Background </b></h5>
-    <p>Health Information Technology & Services (HITS) plays an integral role in the success of Michigan Medicine by providing clinicians, educators, researchers, students, and staff with technology-related information, products, services, and support. The goal of the Service Portal is to lead the customers who are looking for hardware, software or an IT service to the right place the first time. </p>
-    <!-- <ul>
-    	<li>If something is broken, a call to the service desk or using the “Report a Problem” form are the simplest and most direct methods.</li>
-    	<li>To request something, navigating to or searching for the relevant service catalog item are the simplest and most direct methods.</li> 
-    </ul> !-->
-    </br>
-    <h5> <b> The Problem </b></h5>
-    <p>The assumption is that many customers are trying to reach these “right places” and failing leading to frustration and time wasted in being redirected to the “right place”.  From an internal perspective, the “right places” also align with the most resource efficient methods as well. </br>
-    Phase II aims to understand how the customer uses the Service Portal to find the “right place” for their issues, how successful they are being, and what we can do to make that effort as simple, correct, direct, and efficient as possible. I joined the team as the UX expert and will construct and conduct user interviews, develop suggestions based on user feedback, and iterate across interview cohorts.</p>
-    </br>
-    <!--<h5> <b> Current State </b></h5>
-    <p>In the last 12 months, 42% (53,793) of all Incidents handled by the Service Desk were categorized as Service Requests. Of those, 84% (45,207) originated on the phone and 9% originated from the “Submit a Problem” form.</p>
-    </br> !-->
+    <h4> <b> The Problem </b></h4>
+    <p>Health Information Technology & Services (HITS) provides Michigan Medicine employees with technology-related information, products, services, and support. The Service Portal is an online patform that aims to lead customers who are looking for hardware, software or an IT service to the right place the first time. However we found that in the last 12 months 42% of calls and general requests could've been resolved through the service portal. I was brought to the team to understand how customers are using the Service Portal, how successful they are in finding what they're looking for, and what design changes can improve efficiency.</p>
 
-    <h5> <b> Future State </b></h5>
-    <p>Upon completion of the multi-phase Service Catalog Continuous Improvement project, we will have improved the customer experience by optimizing the service portal and catalog in such a way that customers find the correct service as simply, directly, and efficiently as possible. </br>
-    This will reinforce customer trust and confidence in our content, and inform our design of how users interact with our services.  In practice, this will also reduce the operational burden on the service desk and allow us to better allocate resources. </p>
     </br>
-    <h5> <b> Project Success Criteria </b></h5>
+    </br>
+    
+    
+    <!-- <h5> <b> Project Success Criteria </b></h5>
     <ul>
     	<li>Conduct customer experience research and analysis </li>
     	<li>Generate slidedeck with findings and recommendations </li> 
     	<li>Present findings to Business IT Management, Service Operations Improvement program stakeholders, and HITS Service Owners. </li>
     	<li>Prioritize improvements for Phase III of the project</li>
     	<li>Suggested changes are within Service Now customization constraints</li>
-    </ul>
+    </ul>!-->
+
+     <h3> <b>Process</b> </h3>
+    <hr>
+
+     <div class="d-flex justify-content-center">
+        <div class="col text-center">
+            <img src="HITS-Process.png" alt="" style="width:100%"> 
+        </div>
+   </div>
 
     </br>
     <h3 class="text-center"> <b>Research</b> </h3>
     <h5> <b> Research Methods </b></h5>
     <ul>
         <li>Conduct Usability Testing to validate our prototype and evaluate customers’ perception of value, ease of use, and efficiency in performing tasks.</li>
-        <li>Conduct A/B Testing to identify most effective prototypes by observing how customers navigate through the portal.</li>
-        <li>Analyze heat maps and google analytics on HITS Customer Site and Service Portal to better understand customer behaviors on the websites.</li>
-        <li>Leverage insights from phase 1 customer interviews and persona development to inform phase 2 design recommendations. </li>
+        <li>Analyze analytics on Service Portal to better understand customer behaviors on the websites.</li>
+        <li>Leverage insights from phase 1 customer interviews and persona development to inform my design recommendations. </li>
     </ul>
 
     </br>
