@@ -119,12 +119,12 @@ button:focus {
 
 
 .navbar-nav a:link, a:visited { 
-	color: #255484;
+	color:#255484 !important;
 	font-size: 1.2rem;
 }
 
 .navbar-nav a:hover { 
-	color:#48A2B5;
+	color:#48A2B5 !important;
 	font-size: 1.2rem;
 	border-bottom: 2px solid #48A2B5 !important;
 }
