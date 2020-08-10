@@ -117,13 +117,6 @@ button:focus {
 	display:inline-block !important;
 }
 
-a{
- color:#48A2B5 !important;
-}
-
-a:hover{
-border-bottom: 2px solid #48A2B5 !important;
-}
 
 .navbar-nav a:link, a:visited { 
 	color: #255484;

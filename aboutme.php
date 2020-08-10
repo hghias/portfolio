@@ -157,7 +157,7 @@
 		<div class="w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Featured in University of Michigan True Blue Bicentennial films </h4>
 			<p style="font-size:18px;"> University of Michigan | April 2017 </p>
-			<p>&emsp;The two Films <a href="https://www.youtube.com/watch?v=aBdUd1GcR4Y"> "The Purpose"</a> and <a href="https://www.youtube.com/watch?v=hOFmNb-nu0k"> "The Diag"</a> were aired at True Blue! A Tribute to Michigan, shown at Hill Auditorium on April 8, 2017</p>
+			<p>&emsp;The two Films <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=aBdUd1GcR4Y"  target="blank"> "The Purpose"</a> and <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=hOFmNb-nu0k"  target="blank"> "The Diag"</a> were aired at True Blue! A Tribute to Michigan, shown at Hill Auditorium on April 8, 2017</p>
 		</div>
 	</div>
 

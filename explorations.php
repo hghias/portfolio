@@ -94,7 +94,7 @@
 				<a data-options='{"src": "#animationModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/Fin.gif" alt="" width="100%">
+		 				<img class="mx-auto d-block" src="Explorations/_DSC0964.JPG" alt="" width="100%">
 					<div class='text-hover-inverse'>
 						<h5 class="text-center">Click to Watch</h5>
 						</br>

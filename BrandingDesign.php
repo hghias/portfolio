@@ -13,7 +13,6 @@
 <div class="mt-5 mb-5"> 
 	<div class="padding-left padding-right">
    
-
 	<!-- optiMize !--> 
 	<a id="opt"> <img class="pt-lg-5 mt-lg-5" src="Branding/optimize-hero-39.png" alt="" style="width:100%;"> </a>
 	<div class="row pt-3"> 
