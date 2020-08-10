@@ -112,12 +112,9 @@ button:focus {
 .navbar-img { 
 	width:6rem;
 }
-
 .nav-link {
 	display:inline-block !important;
 }
-
-
 .navbar-nav a:link, a:visited { 
 	color:#255484 !important;
 	font-size: 1.2rem;
