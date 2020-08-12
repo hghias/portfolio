@@ -18,6 +18,9 @@
 	<div class="navbar-collapse collapse justify-content-end text-right" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item">
+				<a class="nav-link mr-1" id="about-nav" href="aboutme.php"> ABOUT ME </a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link mr-1" id="design-nav" href="design.php"> DESIGN </a> 
 			</li>
 			<li class="nav-item">
@@ -25,9 +28,6 @@
 			</li>
 			<li class="nav-item">
 				<a class="nav-link mr-1" id="mm-nav" href="explorations.php"> EXPLORATIONS </a>  
-			</li>
-			<li class="nav-item">
-				<a class="nav-link mr-1" id="about-nav" href="aboutme.php"> ABOUT ME </a>
 			</li>
 		</ul>
 	</div>

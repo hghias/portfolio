@@ -106,6 +106,7 @@ button:focus {
 }
 
 .padding-right {
+	
 }
 
 /* HEADER */
@@ -116,18 +117,18 @@ button:focus {
 	display:inline-block !important;
 }
 .navbar-nav a:link, a:visited { 
-	color:#255484 !important;
+	color:#255484;
 	font-size: 1.2rem;
 }
 
 .navbar-nav a:hover { 
-	color:#48A2B5 !important;
+	color:#48A2B5;
 	font-size: 1.2rem;
 	border-bottom: 2px solid #48A2B5 !important;
 }
 
 .navbar-active {
-	color:#48A2B5 !important;
+	color:#48A2B5;
 	border-bottom: 2px solid #48A2B5 !important;
 }
 
@@ -369,36 +370,6 @@ button:focus {
 	}
 }
 
- /*@keyframes pulse {
-	0% {
-		transform: scale(0.9);
-		opacity: 0.7;		
-	}
-	50% {
-		transform: scale(1);
-		opacity: 1;	
-	}	
-	100% {
-		transform: scale(0.9);
-		opacity: 0.7;	
-	}			
-}
-
-@-webkit-keyframes pulse {
-	0% {
-		-webkit-transform: scale(0.95);
-		opacity: 0.7;		
-	}
-	50% {
-		-webkit-transform: scale(1);
-		opacity: 1;	
-	}	
-	100% {
-		-webkit-transform: scale(0.95);
-		opacity: 0.7;	
-	}			
-} */
-
 .index-intro{ 
 	background-color: #D9DFEF; 
 	left: -15px; 
@@ -527,8 +498,7 @@ button:focus {
     -webkit-animation: blink 1.5s infinite;
     -moz-animation: blink 1.5s infinite;
     animation: blink 1.5s infinite;
-}*/
-
+}
 @keyframes blink {
 	50% {
 		opacity:0.0;
@@ -539,7 +509,7 @@ button:focus {
 	50% {
 		opacity:0.0;
 	}
-}
+}*/
 
 .horizontal-scroll{
 	display: inline-block; 
@@ -668,6 +638,7 @@ button:focus {
  .project:hover .text-hover{ 		
  	visibility:hidden;
  	opacity: 0;
+ 	transition-delay:0.5s;
 
  }
 
@@ -676,6 +647,7 @@ button:focus {
  	opacity: 0;
  	-webkit-transition: visibility 0s, opacity 0.5s linear;
  	transition: visibility 0s, opacity 0.5s linear;
+ 	transition-delay:0.5s;
 
  }
 .show_overlay { 
@@ -684,7 +656,7 @@ button:focus {
 
  .overlay { 
  	position: absolute;
- 	background: #255484af;
+ 	background: #255484bf;
   	top: 0;
     right: 0;
     left: 0;
@@ -725,7 +697,7 @@ button:focus {
 
  .overlayE { 
  	position: absolute;
- 	background: #255484af;
+ 	background: #255484bf;
   	top: 0;
     right: 0;
     left: 0;

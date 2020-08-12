@@ -22,46 +22,47 @@
 
 <div class="container" data-aos="fade-up" data-aos-duration="1000">
 	<div class="row">
-		<div class="col-8 p-0">
+		<div class="col-8">
 			<h2 style="color:#48A2B5;"> Hi, I'm Hafsa! </h2>
 			</br>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-lg-8 p-0">
-			<h5 style= "line-height: 145%;"> &emsp;I'm a user experience designer focused on using design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether that be personal, cultural, technological or structural barriers. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition throughout the design process. In all the projects that I pursue, I ask <I> “How can we maximize this design to be intuitive, functional, inclusive & aesthetic?”</I> &nbsp;My development background allows me to understand and collaborate effectively with engineering partners. With experience in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences.
+	<div class="row d-flex justify-content-center">
+		<div class="col-lg-8 order-2 order-lg-1">
+			<h5 style= "line-height: 145%;"> &emsp;I’m a UX designer with design and software development experience in a range of industries including fintech, medical, education and e-commerce (<a style="color:#48A2B5;" href="#experience">click to see my experiences</a>). My past UX opportunities have taught me how to easily navigate and translate complex systems and compliance into user friendly experiences. My development background allows me to understand and collaborate effectively with engineering partners. With a strong drive for solving problems, I enjoy being involved in the whole design process including conducting user research, creating prototypes, and coding (<a style="color:#48A2B5;" href="#process">see my design process</a>). My goal is to use design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether they are personal, cultural, technological or structural. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. 
 			</br>
 			</br>
-			&emsp;I graduated from the University of Michigan (Class of 2020) with a B.A. in art and design. My multidisciplinary education exposed me to a range of mediums and technologies. This allows me to experiment with how I can combine unique mediums to enhance my work today! I love learning and am always trying out something new - my recent endeavors have been learning animation and woodworking. Front-end development keeps me on my toes and coding this portfolio site taught me a lot about coding and devops. I try to spend as much time outside and can be found drawing, reading, hiking or with a camera in my hand! 
+			&emsp;I graduated from the University of Michigan (Class of 2020) with a B.A. in art and design. My multidisciplinary education exposed me to a range of mediums and technologies. This allows me to experiment with how I can combine unique mediums to enhance my work today! I love learning and am always trying out something new - my recent endeavors have been learning animation and woodworking. Coding keeps me on my toes and developing this portfolio site taught me a lot about front-end development, analytics and devops. I try to spend as much time outside and can be found drawing, reading, hiking or with a camera in my hand! 
 			</br>
 			</br>
-			&emsp;I am currently looking for full time UX opportunities and am also open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a> for any work or collaboration opportunities or if you'd just like to chat :)
+			&emsp;I am currently looking for full time UX opportunities where I can be involved in the whole design process and learn from seasoned designers. I am also open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a> for any work or collaboration opportunities or if you'd just like to chat :)
 			</h5>
 		</div>
-		<div class="col-lg-4 p-lg-0 pt-3 text-center">
-			<img class="me float-lg-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.2); color:#EEF3F6;">
-		</div>
-	</div>
-</div>
 
-<div class="container" data-aos="fade-up" data-aos-duration="1000">
+			<div class="col-lg-4 col-6 p-lg-0 pt-lg-3 pb-3 order-1 order-lg-2">
+				<img class="me float-lg-right" src="headshot.jpg" alt="" style="box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.2); color:#EEF3F6; /*border-radius: 50%;*/">
+			</div>
+
+	</div>
+
+	<a id="experience"></a>
 	<div class="row pt-5"> 
-		<div class="">
+			<div class="col-lg-2 col-md-3 col">
 			<h2 class="mb-0"> <b>Experience</b> </h2> 
 		</div>
-		<div class="col-1" style="position:relative">
-			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="Resume_Hafsa_Ghias.pdf" target="_blank" style="font-size:18px;"> View Resume as a PDF</a>
+		<div class="col pr-3" style="position:relative">
+			<a class="btn pn pl-2 pr-2 float-md-none float-right" id="Contact" role="button" href="Resume_Hafsa_Ghias.pdf" target="_blank" style="font-size:18px;"> View Resume as a PDF</a>
 		</div>
 	</div>	
 			
 	</br>
 
 	<div class="row pb-2">
-		<div class="w-auto my-auto align-self-center"> 
-			<h4 class="mb-0 pb-1" style="color:#48A2B5;"> UX Research Intern at Michigan Medicine </h4>
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0 pb-1" style="color:#48A2B5;"> UX Research Intern at <b>Michigan Medicine</b> </h4>
 			<p style="font-size:18px;" > Ann Arbor, MI | Jan 2020 - April 2020 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="HITS.php" target="blank"> View Project </a>
 		</div>
 	</div>
@@ -72,11 +73,11 @@
 	</ul>
 	
 	<div class="row pb-2 pt-2">
-		<div class="w-auto my-auto align-self-center"> 
-			<h4 class="mb-0 pb-1" style="color:#48A2B5;"> UX Design Intern at Ally Financial</h4>
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0 pb-1" style="color:#48A2B5;"> UX Design Intern at <b>Ally Financial</b></h4>
 			<p style="font-size:18px;"> Detroit, MI | May 2019 - Aug 2019 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="ally.php" target="blank"> View Project </a>
 		</div>
 	</div>
@@ -86,38 +87,42 @@
 		<li>Designed UI pattern library for SmartAuction mockups, contributed to journey mapping and persona creation for posting a vehicle on SmartAuction and completed Ally accessibility training.</li>
 	</ul>
 
-	<h4 class="pt-2 pb-0" style="color:#48A2B5;">Software Development Intern at Ally Financial </h4>
-	<p style="font-size:18px;"> Detroit, MI | May 2018 - Aug 2018 </p>
+	<div class="row pb-2 pt-2">
+		<div class="col">
+			<h4 class="pt-2 pb-0" style="color:#48A2B5;"> Software Development Intern at <b>Ally Financial</b> </h4>
+			<p style="font-size:18px;"> Detroit, MI | May 2018 - Aug 2018 </p>
+		</div>
+	</div>
 	<ul>
 		<li>Designed and developed a form in Salesforce Community using Apex and Javascript. Successfully moved the solution from Docusign to Salesforce, saving Ally $353,000 annually. Worked with developers to deliver a Java job to send emails with a custom, secure link to the form.</li>
 		<li>Completed end-to-end agile project by defining project scope and business requirements, writing stories, and completing development, deployment and testing.</li>
 	</ul>
 
 	<div class="row pb-2 pt-2">
-		<div class="w-auto my-auto align-self-center"> 
-			<h4 class="mb-0 pb-1" style="color:#48A2B5;">Freelance Designer & Web Developer</h4>
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0 pb-1" style="color:#48A2B5;">Founder, Designer & Developer at <b>Hafsa G Designs</b></h4>
 			<p class="p-0" style="font-size:18px;"> Ann Arbor, MI | May 2017 - Present </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="design.php?filter=branding" target="blank"> View Projects </a>
 		</div>
 	</div>
 	<ul>
-		<li>Designed and developed a website for a wholesale business moving their business online.</li> 
-		<li>Developed brand, merchandise & website for 4+ non-profit organizations and businesses.</li>
-		<li>Conducted design consultations for 15 tech incubator teams and created branding guide.</li>
+		<li>Designed and developed a website for Smart Choice Distributors, a wholesale business, moving their business online.</li> 
+		<li>Developed brand identity, merchandise & website for 4+ non-profit organizations and businesses including Paani, Michigan Movement, Muslim Student Association and Smart Choice Distributors.</li>
+		<li>Conducted design consultations for 15 optiMize, tech incubator, teams and created branding guide.</li>
 		<li>Developed client management, pricing, and project management skills.</li>
 	</ul>
 
 	<div class="row pt-3"> 
-		<div class="">
+		<div class="col">
 			<h2 class="mb-0"> <b>Education</b> </h2> 
 		</div>
 	</div>	
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
-			<h4 class="mb-0" style="color:#48A2B5;"> University of Michigan | Penny W. Stamps School of Art & Design </h4>
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0" style="color:#48A2B5;"> <b>University of Michigan </b>| Penny W. Stamps School of Art & Design </h4>
 			<p style="font-size:18px;"> Ann Arbor, MI | Sept 2015 - May 2020 </p>
 		</div>
 	</div>
@@ -127,25 +132,64 @@
 
 	</ul>
 
+	<div class="row pt-3"> 
+		<div class="col">
+			<h2 class="mb-0"> <b>Leadership</b> </h2> 
+		</div>
+	</div>	
+
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
-			<h4 class="mb-0" style="color:#48A2B5;"> Co-Founder & Co-President of Redefine</h4>
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0" style="color:#48A2B5;"> Co-Founder, Co-President & Ex Officio at <b>Redefine</b></h4>
+			<p style="font-size:18px;"> Ann Arbor, MI | Oct 2015 - May 2020 </p>
 		</div>
 	</div>
 	<ul>  
 		<li>Co-founded organization promoting social respect through exhibition of artwork created from experiences with inequality.</li>
 		<li>Led team of 14 board members in marketing, fundraising, and talent recruitment initiatives. Developed branding & promotional material for the organization.</li>
-		<li> Awarded $140,000 and a summer fellowship by optiMize in April 2016. Awarded Cross Cultural Programming Award by the Michigan Difference Student Leadership in April 2019. </li>
+	</ul>
+
+	<div class="row pb-2 pt-3">
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0" style="color:#48A2B5;"> Representative at <b>Dean of Students Advisory Board</b></h4>
+			<p style="font-size:18px;"> Ann Arbor, MI | Sept 2018 - May 2019 </p>
+		</div>
+	</div>
+	<ul>  
+		<li>Advised the Dean of Students, Laura Jones, on issues affecting student life on campus and discuss new initiatives and emergent issues. The Board's recommendations help to influence Dean of Student goals, services, and overall effectiveness.</li>
+	</ul>
+
+	<div class="row pb-2 pt-3">
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0" style="color:#48A2B5;"> Marketing and Communications Chair at <b>Muslim Student Association</b></h4>
+			<p style="font-size:18px;"> Ann Arbor, MI | Sept 2018 - May 2019 </p>
+		</div>
+	</div>
+	<ul>  
+		<li>Created flyers and visuals for MSA programming, worked with Social Media Chair to leverage social media and assisted the operations chair with weekly email content</li>
+		<li>Collaborated with board members on program marketing strategies and supervised a core group of photographers to document MSA events</li>
+	</ul>
+
+	<div class="row pb-2 pt-3">
+		<div class="col w-auto my-auto align-self-center"> 
+			<h4 class="mb-0" style="color:#48A2B5;"> Social Innovation Challenge Participant, Fellow & Selection Board Member at <b>optiMize</b></h4>
+			<p style="font-size:18px;"> Ann Arbor, MI | Oct 2015 - May 2019 </p>
+		</div>
+	</div>
+	<ul>  
+		<li>Successfully completed the optiMize Social Innovation Challenge and pitched to a panel of judges that judged Redefine on the criteria of social impact, scalability and creativity.</li>
+		<li>Awarded $14,000 and received a summer fellowship to continue developing the Redefine</li>
+		<li>After the challenge, participated in judging and distributing $200,000 to 2016-17 Social Innovation Challenge teams.</li>
 	</ul>
 
 	<div class="row pt-3"> 
-		<div class="">
+		<div class="col">
 			<h2 class="mb-0"> <b>Honors & Awards</b> </h2> 
 		</div>
 	</div>	
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Cross Cultural Programming Group Award for Redefine </h4>
 			<p style="font-size:18px;"> Michigan Difference Student Leadership Award | April 2019 </p>
 			<p>&emsp;Award presented for improving the campus climate by working together to present initiatives that increases the campus community’s understanding of different cultures and provides opportunities for cross cultural exchanges.</p>
@@ -154,15 +198,15 @@
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Featured in University of Michigan True Blue Bicentennial films </h4>
 			<p style="font-size:18px;"> University of Michigan | April 2017 </p>
-			<p>&emsp;The two Films <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=aBdUd1GcR4Y"  target="blank"> "The Purpose"</a> and <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=hOFmNb-nu0k"  target="blank"> "The Diag"</a> were aired at True Blue! A Tribute to Michigan, shown at Hill Auditorium on April 8, 2017</p>
+			<p>&emsp;Appeared in two Films <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=aBdUd1GcR4Y"  target="blank"> "The Purpose"</a> and <a style="color:#48A2B5 !important;" href="https://www.youtube.com/watch?v=hOFmNb-nu0k"  target="blank"> "The Diag"</a> along with notable alumni like Sanjay Gupta and James Earl Jones. They were aired at True Blue! A Tribute to Michigan, shown at Hill Auditorium on April 8, 2017</p>
 		</div>
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Student of the Year Award </h4>
 			<p style="font-size:18px;"> Michigan Daily | April 2016 </p>
 			<p>&emsp;Awarded the Student of the Year award by The Michigan Daily for the 2015-2016 year. Nominated for the starting the student organization, Redefine and the work done with optiMize.</p>
@@ -170,66 +214,66 @@
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> optiMize Summer Fellow </h4>
 			<p style="font-size:18px;"> optiMize| March 2016 </p>
-			<p>&emsp;Awarded $14,000 and received a summer fellowship to continue developing the Redefine.</p>
+			<p>&emsp;Awarded $14,000 and received a summer fellowship to continue developing the Redefine where we received guidance from past fellows, various local entrepreneurs and from Jessica Alba's The Honest Company.</p>
 		</div>
 	</div>
 
 
 	<div class="row pt-3"> 
-		<div class="">
+		<div class="col">
 			<h2 class="mb-0"> <b>Publications</b> </h2> 
 		</div>
 	</div>	
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Over 40 different artists participate in LINK cross-cultural talent showcase </h4>
 			<p style="font-size:18px;"> Michigan Daily | March 20,2018 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="https://www.michigandaily.com/section/campus-life/link" target="blank"> See Article </a>
 		</div>
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Shift Talent Showcase celebrates cultural individuality through performance</h4>
 			<p style="font-size:18px;"> Michigan Daily | March 16,2017 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="https://www.michigandaily.com/section/campus-life/shift-talent-showcase-conveys-immigrant-first-generation-experiences-through-art" target="blank"> See Article </a>
 		</div>
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Op-Ed: Using creativity to build bridges</h4>
 			<p style="font-size:18px;"> Michigan Daily | April 13,2016 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="https://www.michigandaily.com/section/viewpoints/op-ed-islamaphobia-cant-keep-us-flying-artist-collective-optimize-social-justice" target="blank"> See Article </a>
 		</div>
 	</div>
 
 	<div class="row pb-2 pt-3">
-		<div class="w-auto my-auto align-self-center"> 
+		<div class="col w-auto my-auto align-self-center"> 
 			<h4 class="mb-0" style="color:#48A2B5;"> Student of the Year: Hafsa Ghias</h4>
 			<p style="font-size:18px;"> Michigan Daily | April 10,2016 </p>
 		</div>
-		<div class="w-auto pl-3">
+		<div class="w-auto pl-3 pr-3">
 			<a class="btn pn pl-2 pr-2" id="Secondary" role="button" href="https://www.michigandaily.com/section/statement/student-year-hafsa-ghias" target="blank"> See Article </a>
 		</div>
 	</div>
-
+	<a id="process"></a>
 	</br>
-	<div class="row pb-3">
-		<div class="col p-0">
+	<div class="row pb-3 pt-2">
+		<div class="col">
 			<h2> <b>My Design Process</b> </h2>
 			</br>
-			<h5 style= "line-height: 145%;"> &emsp; As a full stack UX designer, I enjoy conducting user research and creating prototypes, but I am most in my element when designing new features to address user needs. I strive to understand the client's goals and user's needs and translate them into a design that satisfies the client and user. My design process has been abstracted from the UX design process so it can be applied to any project I am working on, whether it is product design, branding design or graphic design. </h5>
+			<h5 style= "line-height: 145%;"> &emsp; As a full stack UX designer, I enjoy being involved in the full design process, but being able to work directly with users is one of the reasons why I love UX so much. My goal with every project is to understand the business needs, user goals and technology constraints and find a solution that satisfies all three spaces. I believe open communication, trust, and feedback is the key to finding balance and creating a great product! While the design process is more often than not as linear or cyclical as my process diagram below, the diagram visualizes how I approach any problem! </h5>
 		</div>
 	 	<div class="my-auto align-self-center text-center pb-2"> 
 			<img src="ProcessDetails.png" alt="" style="width:100%;">

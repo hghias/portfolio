@@ -51,7 +51,7 @@
 			<h1 style="color:#48A2B5;"> Hi, I'm Hafsa! </h1>
 
 			</br>
-			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition throughout the design process. My development background allows me to understand and collaborate effectively with engineering partners. With experience in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
+			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. My development background allows me to understand and collaborate effectively with engineering partners. With experience in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
 			</br>
 			<h4 style="line-height:1.5 !important">I am currently seeking full time user experience design opportunities where I can be involved in the whole design process and learn from seasoned designers. Feel free to reach out at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu.</a></h4>
 			</br>
