@@ -100,19 +100,24 @@
     </br>
 
 	<h5> <b>Brainstorming Session</b> </h5>
-	<p>Through our brainstorming process we looked to create a shared understanding of oral health and do some preliminary ideation. We explored what oral health is and what factors impact oral health? </p>
+	<p>Through our brainstorming process we looked to create a shared understanding of oral health and do some preliminary ideation. We explored what oral health is and what factors impact oral health. </p>
 
 	<div class="d-flex justify-content-center">
-		<div class="col-7 pt-2 pb-3 text-center">
+		<div class="col-10 pt-2 pb-3 text-center">
 			<img src="MolarBear/Molar Bear Brainstorming.jpg" alt="" style="width:100%">   
 		</div>
 	</div>
 
 	</br>
+</div>
+	<div class="pt-5 pb-5" style="background-color:#ffb8a38c;">
+		<div class="padding-left padding-right pt-5 pb-5">
+			<h4 style="line-height:60px;"> <b>Hunt Statement</b> </h4>
+			<h4 style="line-height:34px;"> Our goal is to identify <b style="color:#ee6c3f;">behaviors and barriers</b> that lead to oral diseases by observing and conducting interviews of <b style="color:#ee6c3f;">low SES adult patients </b> as well as dental professionals. We want to provide <b style="color:#ee6c3f;">accessible oral health education </b>with a focus on prevention of oral diseases.</h4>
+		</div>
 
-	<h4 style="line-height:60px;"> <b>Hunt Statement</b> </h4>
-	<h4 style="line-height:34px;"> Our goal is to identify <b style="color:#ee6c3f;">behaviors and barriers</b> that lead to oral diseases by observing and conducting interviews of <b style="color:#ee6c3f;">low SES adult patients </b> as well as dental professionals. We want to provide <b style="color:#ee6c3f;">accessible oral health education </b>with a focus on prevention of oral diseases.</h4>
-	
+	</div>
+<div class="padding-left padding-right">
 	</br>
 	<h5 style="color: #777777"> <b>Research</b> </h5>
 	<hr>
@@ -152,6 +157,7 @@
 		</div>
 	</div>
 
+	</br>
 
 	<h4> <b>Primary Research Methods</b> </h4>
 	<p>We conducted nine 30-minute college student interviews and six 10-minute interviews with the homeless population in order to accurately quantify our three main points for our app. These were Oral Health, Healthcare System, and Tech Use. We discovered that the most important questions were:</p>
@@ -160,21 +166,22 @@
 	<p>We discovered that one of the overarching barriers in the low-ses population was financial need and transportation. Because of this we developed two functions in Molar Bear that would help this problem: a location system to find a dentist near you, and a coupon function that allowed users to obtain monetary rewards for taking preventative measures. </p>
 
 	</br>
-	<div class="row">
-		<div class="col-lg-4 pb-3 text-center">
+
+</div>
+	<div class="row p-5 d-flex justify-content-center" style="background-color:#ffb8a38c;">
+		<div class="col-lg-4 pt-3 pb-3 text-center">
 			<img src="MolarBear/Molar Bear Patient Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
-		<div class="col-lg-4 pb-3 text-center">
+		<div class="col-lg-4 pt-3 pb-3 text-center">
 			<img src="MolarBear/Molar Bear Professional Interviews.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
-		<div class="col-lg-4 pb-3 text-center">
+		<div class="col-lg-4 pt-3 pb-3 text-center">
 			<img src="MolarBear/Molar Bear Survey.jpg" alt="" style="width:100%; border: 1px solid #EEEEEE;">
 		</div>
 	</div>
-
-
 	</br>
 
+<div class="padding-left padding-right">
 	<h4> <b>Key Findings from Users</b> </h4>
 	<div class="d-flex justify-content-center">
 		<div class="col-lg-8 pb-3 text-center">
@@ -420,7 +427,7 @@
 		</div>
 	</div>
 
-
+	<!--
 	<hr>
 	<h4> <b>Similar Projects</b> </h4>
 	</br>
@@ -437,7 +444,7 @@
 		<div class="col-lg-4">
 			<img class="gallery_image img-fluid" src="Flutter-44.png" alt="" style="background-color: #034d61;"> 
 		</div>
-	</div>
+	</div> !-->
 
 </div>
 </div> 

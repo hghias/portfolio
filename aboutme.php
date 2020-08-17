@@ -9,7 +9,7 @@
 	<?php include ('nav.php');?>
 
 <!-- LANDING PAGE !-->
-<div class = "container-fluid" data-aos="fade-down" data-aos-duration="1000"> 
+<div class = "container-fluid" data-aos="fade-down"> 
 	<div class="row">
 		<div class ="col my-auto align-self-center" style="padding-top: 7%; padding-bottom:5%;" >
 			<div class="typed-wrap text-center">
@@ -20,7 +20,7 @@
 	</div>
 </div>
 
-<div class="container" data-aos="fade-up" data-aos-duration="1000">
+<div class="container" data-aos="fade-up">
 	<div class="row">
 		<div class="col-8">
 			<h2 style="color:#48A2B5;"> Hi, I'm Hafsa! </h2>
@@ -29,13 +29,13 @@
 	</div>
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 order-2 order-lg-1">
-			<h5 style= "line-height: 145%;"> &emsp;I’m a UX designer with design and software development experience in a range of industries including fintech, medical, education and e-commerce (<a style="color:#48A2B5;" href="#experience">click to see my experiences</a>). My past UX opportunities have taught me how to easily navigate and translate complex systems and compliance into user friendly experiences. My development background allows me to understand and collaborate effectively with engineering partners. With a strong drive for solving problems, I enjoy being involved in the whole design process including conducting user research, creating prototypes, and coding (<a style="color:#48A2B5;" href="#process">see my design process</a>). My goal is to use design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether they are personal, cultural, technological or structural. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. 
+			<h5 style= "line-height: 145%;"> &emsp;I’m a UX designer with design and software development experience in a range of industries including fintech, medical, education and e-commerce (<a style="color:#48A2B5;" href="#experience">see my experiences</a>). My past UX opportunities have taught me how to easily navigate and translate complex systems and compliance into user friendly experiences. My development background allows me to understand and collaborate effectively with engineering partners. With a strong drive for solving problems, I enjoy being involved in the whole design process including conducting user research, creating prototypes, and coding (<a style="color:#48A2B5;" href="#process">see my design process</a>). My goal is to use design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether they are personal, cultural, technological or structural. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. 
 			</br>
 			</br>
 			&emsp;I graduated from the University of Michigan (Class of 2020) with a B.A. in art and design. My multidisciplinary education exposed me to a range of mediums and technologies. This allows me to experiment with how I can combine unique mediums to enhance my work today! I love learning and am always trying out something new - my recent endeavors have been learning animation and woodworking. Coding keeps me on my toes and developing this portfolio site taught me a lot about front-end development, analytics and devops. I try to spend as much time outside and can be found drawing, reading, hiking or with a camera in my hand! 
 			</br>
 			</br>
-			&emsp;I am currently looking for full time UX opportunities where I can be involved in the whole design process and learn from seasoned designers. I am also open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a> for any work or collaboration opportunities or if you'd just like to chat :)
+			&emsp;I am currently looking for full time UX opportunities where I can be involved in the whole design process and learn from seasoned designers. I am also open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a>, connect on <a style="color:#48A2B5;" href="https://www.linkedin.com/in/hafsa-ghias/"> Linkedin </a> or check out my <a style="color:#48A2B5;" href="https://www.instagram.com/hafsathecreator/?hl=en"> design Instagram, </a> for any work or collaboration opportunities or if you'd just like to chat :)
 			</h5>
 		</div>
 
@@ -45,6 +45,7 @@
 
 	</div>
 
+	<div data-aos="fade-up">
 	<a id="experience"></a>
 	<div class="row pt-5"> 
 			<div class="col-lg-2 col-md-3 col">
@@ -71,6 +72,7 @@
 		<li>Developed wireframes, mockups and prototypes with information architecture and design improvements using research findings and ServiceNow analytics. Worked with Service Catalog project manager to ensure designs were technically feasible.</li>
 		<li>Presented findings to business IT management and service portal owners and generated 40 page report of research protocol, key findings, and design recommendations.</li>
 	</ul>
+</div>
 	
 	<div class="row pb-2 pt-2">
 		<div class="col w-auto my-auto align-self-center"> 
@@ -285,7 +287,12 @@
  <?php include ('footer.php');?>
 
 <script>
-	AOS.init();
+	AOS.init({
+  	disable: false,
+  	duration: 1000, 
+  	mirror:true,
+  });
+
 	$('#about-nav').toggleClass('navbar-active');
 
 </script>

@@ -43,7 +43,7 @@
 </div>
 
 <div class="container-fluid p-0">
-	<div class="row pl-0 pt-5 pb-5" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class="row pl-0 pt-5 pb-5" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
 		<div class="pl-0 col-3 index-intro">
 
 		</div>
@@ -51,7 +51,7 @@
 			<h1 style="color:#48A2B5;"> Hi, I'm Hafsa! </h1>
 
 			</br>
-			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. My development background allows me to understand and collaborate effectively with engineering partners. With experience in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
+			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. My development background allows me to understand and collaborate effectively with engineering partners. With experience designing SaaS products in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
 			</br>
 			<h4 style="line-height:1.5 !important">I am currently seeking full time user experience design opportunities where I can be involved in the whole design process and learn from seasoned designers. Feel free to reach out at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu.</a></h4>
 			</br>
@@ -65,7 +65,7 @@
 	<h2 class="text-center"> EXPLORE MY WORK </h2>
 
 	<!-- UX DESIGN !-->
-	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
 		<div class="col-md-6 p-4 text-left text-md-right align-self-center order-2 order-md-1"> <!-- index-center !-->
 			<h1 style="color: #C69E2E;"> USER EXPERIENCE DESIGN </h1>
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4 " id="uxbutton" href="design.php?filter=ux" role="button">View UX Projects</a>
@@ -77,7 +77,7 @@
 	</div>
 
 	<!-- BRANDING DESIGN !-->
-	<div class= "row pt-5" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class= "row pt-5" data-aos="fade-up" data-aos-duration="800" data-aos-anchor-placement="center-center" id="parallax">
 		<div class="col-md-2"> </div>
 		<div class="col-md-4">
 			<a href="design.php?filter=branding"> <img class="indeximg float-right" src="index-branding.png" alt="Branding Design Image"> </a>
@@ -89,7 +89,7 @@
 	</div>
 
 	<!-- PRODUCT DESIGN !--> 
-	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-anchor-placement="center-center" id="prod parallax">
 		<div class="col-md-6 text-left text-md-right align-self-center order-2 order-md-1">
  			<h1 style="color:#BD975A;" > PRODUCT DESIGN </h1>
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="productbutton" href="design.php?filter=product" role="button"> View Product Design Projects</a>
@@ -101,7 +101,7 @@
 	</div>
 
 	<!-- PHOTOGRAPHY !--> 
-	<div class= "row pt-5" id="portrait" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class= "row pt-5" id="portrait" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
 		<div class="col-md-2"> </div>
 		<div class="col-md-4">
 			<a href="photography.php"> <img class="indeximg float-right" src="index-photography.png" alt="Photography Image"> </a>
@@ -114,7 +114,7 @@
 	</div>
 
 	<!-- EXPLORATIONS !--> 
-	<div class= "row pt-5 flex-row" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor="#portrait" data-aos-anchor-placement="top-bottom" id="parallax">
+	<div class= "row pt-5 flex-row" data-aos="fade-up" data-aos-anchor="#portrait" data-aos-anchor-placement="center-center" id="parallax">
 		<div class="col-md-6 text-left text-md-right align-self-center order-2 order-md-1">
  			<h1 style="color:#3D5EAC;"> EXPLORATIONS </h1>
 			<a class="btn mt-2 pb-2 pt-2 pl-4 pr-4" id="mmbutton" href="explorations.php" role="button">View Explorations</a>
@@ -156,7 +156,11 @@
 		}
 	}
 
-  AOS.init();
+  AOS.init({
+  	disable: 'phone',
+  	duration: 1000, 
+  	mirror:true,
+  });
 
 
 </script>
