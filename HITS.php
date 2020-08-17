@@ -203,14 +203,30 @@
     <h4> <b> Final Prototype </b></h4>
     </br>
     <div class="d-flex justify-content-center">
-        <div class="col-11 text-center">
-            <video width="100%" controls autoplay loop muted controlsList=”nodownload”>
-                <source src="HITS/HITS.mov" type="video/mp4">
-                   Sorry, your browser doesn't support embedded videos.
-            </video>
-            <p>Desktop prototype walkthrough</p>
+        <div class="col-12 text-center">
+            <img src="HITS/FinalPrototype.png" alt="" style="width:100%;">
         </div>
      </div>
+     </br>
+     <h4> <b> Research Report </b></h4>
+     </br>
+</div>
+    <div class="d-flex pl-5 pr-5 justify-content-center">
+        <div class="col ">
+            <img src="HITS/RR2.png" alt="" style="width:100%;">
+        </div>
+        <div class="col ">
+            <img src="HITS/RR3.png" alt="" style="width:100%;">
+        </div>
+        <div class="col">
+            <img src="HITS/RR4.png" alt="" style="width:100%;">
+        </div>
+        <div class="col">
+            <img src="HITS/RR5.png" alt="" style="width:100%;">
+        </div>
+
+    </div>
+
 
     <!-- <h5> <b> Key Findings </b></h5>
     <ul>
