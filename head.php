@@ -1,5 +1,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+<meta name="description" content="Hi, I'm Hafsa! I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity.">
+
 <title>Hafsa Ghias</title>
 	
 <link rel="shortcut icon" href="Hafsa Logo-13.png" type="image/x-icon">

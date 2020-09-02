@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 	<?php include ('head.php');?>
-
 </head>
 <body id="index">
 	<?php include ('nav.php');?>
