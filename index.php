@@ -43,9 +43,7 @@
 
 <div class="container-fluid p-0">
 	<div class="row pl-0 pt-5 pb-5" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
-		<div class="pl-0 col-3 index-intro">
-
-		</div>
+		<div class="pl-0 col-3 index-intro"> </div>
 		<div class="col-8 col-md-7 pl-md-5 pt-md-5 pt-3 pb-md-5 pb-3 mt-md-5 mb-md-5 about">
 			<h1 style="color:#48A2B5;"> Hi, I'm Hafsa! </h1>
 
@@ -61,7 +59,8 @@
 </div>
 
 <div class="container-fluid p-0 pl-2 pr-2 pb-5">
-	<h2 class="text-center"> EXPLORE MY WORK </h2>
+	
+	<h2 class="text-center" data-aos="fade-down"> EXPLORE MY WORK </h2>
 
 	<!-- UX DESIGN !-->
 	<div class="row pt-5 flex-row" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
@@ -76,7 +75,7 @@
 	</div>
 
 	<!-- BRANDING DESIGN !-->
-	<div class= "row pt-5" data-aos="fade-up" data-aos-duration="800" data-aos-anchor-placement="center-center" id="parallax">
+	<div class= "row pt-5" data-aos="fade-up" data-aos-anchor-placement="center-center" id="parallax">
 		<div class="col-md-2"> </div>
 		<div class="col-md-4">
 			<a href="design.php?filter=branding"> <img class="indeximg float-right" src="index-branding.png" alt="Branding Design Image"> </a>
@@ -100,7 +99,7 @@
 	</div>
 
 	<!-- PHOTOGRAPHY !--> 
-	<div class= "row pt-5" id="portrait" data-aos="fade-up" data-aos-anchor-placement="top-center" id="parallax">
+	<div class= "row pt-5" id="portrait" data-aos="fade-up" data-aos-anchor-placement="center-center" id="parallax">
 		<div class="col-md-2"> </div>
 		<div class="col-md-4">
 			<a href="photography.php"> <img class="indeximg float-right" src="index-photography.png" alt="Photography Image"> </a>
@@ -157,7 +156,7 @@
 
   AOS.init({
   	disable: 'phone',
-  	duration: 1000, 
+  	duration: 800, 
   	mirror:true,
   });
 
