@@ -209,23 +209,6 @@
 				</a>
 			</div>
 
-			<!-- !--> 
-
-			<!--<div class="col-lg-6 projectE pb-4 time">
-				<a data-options='{"src": "#animationModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/_DSC0964.JPG" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h5 class="text-center">Click to Watch</h5>
-						</br>
-						<h2 class ="text-center"> Stronger Together </h2>
-			 				<p class ="text-center mx-auto"> Stop Motion Animation </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>!-->
-
 
 			<div class="col-lg-3 projectE pb-4 threed"> <!-- Pentapod !-->
 				<a data-options='{"src": "#podModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -255,20 +238,6 @@
 				</a>
 			</div>
 
-			<!--<div class="col-lg-3 projectE pb-4 threed">
-				<a href="Explorations/box-1.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/box-1.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h5 class="text-center">Click to See More</h5>
-						</br>
-						<h2 class ="text-center"> Every Box I made in Art School </h2>
-			 				<p class ="text-center mx-auto"> Mixed Media </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>!-->
 
 			<div class="col-lg-6 projectE pb-4 time">
 				<a data-options='{"src": "#videoModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -287,20 +256,6 @@
 
 			<!-- X !-->
 
-			<!--<div class="col-lg-3 projectE pb-4 threed">
-				<a href="Explorations/table.jpeg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/table.jpeg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h5 class="text-center">Click to See More</h5>
-						</br>
-						<h2 class ="text-center"> Table </h2>
-			 				<p class ="text-center mx-auto"> Wood </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>!-->
 
 			<div class="col-lg-3 projectE pb-4 threed">
 				<a data-options='{"src": "#EclipseModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -317,27 +272,6 @@
 				</a>
 			</div>
 
-			<!-- X !-->
-
-			
-
-
-			<!-- X !-->
-
-			<!--<div class="col-lg-3 projectE pb-4 threed">
-				<a href="Explorations/_DSC0931-Edit.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/_DSC0931-Edit.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h5 class="text-center">Click to See More</h5>
-						</br>
-						<h2 class ="text-center"> Wings </h2>
-			 				<p class ="text-center mx-auto"> Forks </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>!-->
 
 			<div class="col-lg-3 projectE pb-4 time">
 				<a data-options='{"src": "#AnaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -369,22 +303,6 @@
 	 				</div>
 				</a>
 			</div>
-
-
-			<!-- <div class="col-lg-3 projectE pb-4 twod">
-				<a data-options='{"src": "#comicModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/Comic-01.png" alt="" width="100%">	
-		 				<div class='text-hover-inverse'>
-		 					<h5 class="text-center">Click to See Comic</h5>
-						</br>
-		 					<h2 class ="text-center"> Free Falling</h2>
-		 					<p class ="text-center mx-auto"> Illustration </p>
-	 					</div>
-	 				</div>
-				</a>
-			</div> !-->
 
 			<div class="col-lg-3 projectE pb-4 twod"> 
 				<a data-options='{"src": "#isoModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -530,85 +448,7 @@
 				</a>
 			</div>
 
-
-			
-			<!-- X !-->
-			
-
-			
-
-
 			<!-- 
-
-
-			
-
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a class="     " href="Explorations/box.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-					<img class="img-fluid" src="Explorations/box.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> Implied Rectangle </h2>
-			 				<p class ="text-center mx-auto"> Marker, 7 x 9 </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a class="     " href="Explorations/type_Script.png" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-					<img class="img-fluid" src="Explorations/type_Script.png" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> Type </h2>
-			 				<p class ="text-center mx-auto"> Marker, 7 x 9 </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a class="     " href="Explorations/expressivetype.png" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-					<img class="img-fluid" src="Explorations/expressivetype.png" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> Expressive Type </h2>
-			 				<p class ="text-center mx-auto"> Marker, 7 x 9 </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-4 projectE pb-4 threed">
-				<a data-options='{"src": "#sunModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/1_GhiasH.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> Sunset Surprise </h2>
-			 				<p class ="text-center mx-auto"> Assemblage </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-4 projectE pb-4 painting">
-				<a class="     " href="Explorations/My Calm Within The Storm, 9 x 12.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/My Calm Within The Storm, 9 x 12.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center">My Calm Within The Storm</h2>
-			 				<p class ="text-center mx-auto">Assemblage, 9 x 12</p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			!-->
 
 	</div>
 </div>
