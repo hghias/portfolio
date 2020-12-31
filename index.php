@@ -46,12 +46,11 @@
 		<div class="pl-0 col-3 index-intro"> </div>
 		<div class="col-8 col-md-7 pl-md-5 pt-md-5 pt-3 pb-md-5 pb-3 mt-md-5 mb-md-5 about">
 			<h1 style="color:#48A2B5;"> Hi, I'm Hafsa! </h1>
-
 			</br>
-			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I embody traits of creativity, curiosity, and ambition in everything I do. My development background allows me to understand and collaborate effectively with engineering partners. With experience designing SaaS products in the fintech and medical industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
+			<h4 style="line-height:1.5 !important"> I'm a user experience designer passionate about fostering inclusivity and creating equal opportunity. My name means 'lioness' in Arabic and just like the animal, I strive to embody creativity, curiosity, ambition and vision. My development background allows me to understand and collaborate effectively with engineering partners. With experience designing SaaS products in the healthcare and fintech industries, I can easily navigate and translate complex systems and compliance into user friendly experiences. </h4>
 			</br>
-			<h4 style="line-height:1.5 !important">I am currently seeking full time user experience design opportunities where I can be involved in the whole design process and learn from seasoned designers. Feel free to reach out at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu.</a></h4>
-			</br>
+			<!-- <h4 style="line-height:1.5 !important"> I am currently seeking full time user experience design opportunities where I can be involved in the whole design process and learn from seasoned designers.  Feel free to reach out at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu.</a></h4>
+			</br> -->
 			<a class="btn pb-2 pt-2 pl-4 pr-4" id="Contact" href="aboutme.php" role="button">About Me </a>
 		</div>
 	</div>

@@ -29,13 +29,13 @@
 	</div>
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-8 order-2 order-lg-1">
-			<h5 style= "line-height: 150%;"> I’m a UX designer with design and development experience in the fintech, medical and e-commerce industries (<a style="color:#48A2B5;" href="#experience">see my experiences</a>). I've learned how to easily navigate and translate complex systems and compliance into user friendly experiences. My development background allows me to understand and collaborate effectively with engineering partners. With a strong drive for solving problems, I enjoy being involved in the whole design process including conducting user research, creating prototypes, and coding (<a style="color:#48A2B5;" href="#process">see my design process</a>). My goal is to use design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether they are personal, cultural, technological or structural.
+			<h5 style= "line-height: 150%;"> I’m a UX designer with design and development experience in healthcare, fintech, and e-commerce (<a style="color:#48A2B5;" href="#experience">see my experiences</a>). I've learned how to easily navigate and translate complex systems and compliance into user friendly experiences. My development background allows me to understand and collaborate effectively with engineering partners. With a strong drive for solving problems, I enjoy being involved in the whole design process including conducting user research, creating prototypes, and coding (<a style="color:#48A2B5;" href="#process">see my design process</a>). My goal is to use design as a tool to foster inclusivity and creating equal opportunity. I’m passionate about bringing people together by breaking down barriers, whether they are personal, cultural, technological or structural.
 			</br>
 			</br>
 			I'm always trying out something new - my recent endeavors have been learning animation and woodworking. Coding keeps me on my toes and developing this portfolio site taught me a lot about front-end development, analytics and devops. When I'm not designing, I try to spend as much time outside and can be found drawing, reading, hiking or with a camera in my hand! 
 			</br>
 			</br>
-			I am currently looking for full time UX opportunities where I can be involved in the whole design process and learn from seasoned designers. I am also open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a>, connect on <a style="color:#48A2B5;" href="https://www.linkedin.com/in/hafsa-ghias/"> Linkedin </a> or check out my <a style="color:#48A2B5;" href="https://www.instagram.com/hafsathecreator/?hl=en"> art & design Instagram, </a> for any work or collaboration opportunities or if you'd just like to chat :)
+			I am currently working as a UX Designer at ArborMetrix in Ann Arbor, MI and am  <!-- looking for full time UX opportunities where I can be involved in the whole design process and learn from seasoned designers. I am also!-->  open to freelance design or photography projects. Feel free to reach out to me at <a style="color:#48A2B5;" href="mailto:hghias@umich.edu">hghias@umich.edu </a>, connect on <a style="color:#48A2B5;" href="https://www.linkedin.com/in/hafsa-ghias/"> Linkedin </a> or check out my <a style="color:#48A2B5;" href="https://www.instagram.com/hafsathecreator/?hl=en"> art & design Instagram, </a> for any work or collaboration opportunities or if you'd just like to chat :)
 			</h5>
 		</div>
 
@@ -116,6 +116,7 @@
 
 	<p style="font-size:18px;"> Completed B.A of Art & Design with concentration in user experience design. Completed 20 credits in computer science including Data Structures & Algorithms. </p>
 	
+	<!--
 	<div class="row pt-3"> 
 		<div class="col">
 			<h2 class="mb-0"> <b>Leadership</b> </h2> 
@@ -249,7 +250,10 @@
 		</div>
 	</div>
 
+	!-->
+
 </div>
+
 	<a id="process"></a>
 	</br>
 	<div class="row pb-3 pt-2">

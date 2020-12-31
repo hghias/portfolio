@@ -25,8 +25,8 @@
 		<div class="col pb-4 horizontal-scroll" role="group" data-toggle="buttons"> 
 			<a class="btn sh pl-2 pr-2 ml-1" id="designbutton" role="button" > SHOW ALL </a>
 			<a class="btn 2d pl-2 pr-2 ml-1" id="designbutton" role="button" > TWO DIMENSIONAL </a>
-			<a class="btn 3d pl-2 pr-2 ml-1" id="designbutton" role="button" > THREE DIMENSIONAL </a>
-			<a class="btn 4d pl-2 pr-2 ml-1" id="designbutton" role="button" > TIME BASED MEDIA </a>
+			<a class="btn 3d pl-2 pr-2 ml-1" id="designbutton" role="button" > THREE DIMENSIONAL & TIME BASED MEDIA </a>
+			<!--<a class="btn 4d pl-2 pr-2 ml-1" id="designbutton" role="button" > TIME BASED MEDIA </a>!-->
 		</div>
 	</div>
 </div>
@@ -34,7 +34,73 @@
 <div class="container-fluid">
 	<div class="row" data-aos="fade-up" data-aos-duration="1000">
 
-		<div class="col-lg-3 projectE pb-4 twod">
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/Khadija & Armaghan's Wedding Card_Final Card_Portrait copy 2.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="mx-auto d-block" src="Explorations/Khadija & Armaghan's Wedding Card_Final Card_Portrait copy 2.png" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> Wedding Card </h2>
+			 				<p class ="text-center mx-auto"> Illustration </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/Dolphin.jpg" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="mx-auto d-block" src="Explorations/Dolphin.jpg" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> Reaching for the Moon </h2>
+			 				<p class ="text-center mx-auto"> Illustration, 22 x 29 </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/selfportrait.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="mx-auto d-block" src="Explorations/selfportrait.png" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> Self Portrait </h2>
+			 				<p class ="text-center mx-auto"> Illustration </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 projectE pb-4 time">
+				<a href="Explorations/Eid_Mubarak_Final.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+						<img class="img-fluid" src="Explorations/Eid_Mubarak_Final.png" alt="" width="100%">
+						<div class='text-hover-inverse'>
+							<h2 class ="text-center"> Eid Mubarak </h2>
+			 				<p class ="text-center mx-auto"> Animation, 22 x 29  </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/Up.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="mx-auto d-block" src="Explorations/Up.png" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> Up </h2>
+			 				<p class ="text-center mx-auto"> Illustration </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+
+			<div class="col-lg-3 projectE pb-4 twod">
 				<a href="Explorations/colorsofcalm.JPG" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -60,6 +126,61 @@
 				</a>
 			</div>
 
+
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/Neon Tropics.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="mx-auto d-block" src="Explorations/Neon Tropics.png" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> Neon Tropics </h2>
+			 				<p class ="text-center mx-auto"> Illustration </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/hands" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="img-fluid" src="Explorations/hands.jpg" alt="" width="100%">	
+		 				<div class='text-hover-inverse'>
+		 					<h2 class ="text-center"> Hands Study </h2>
+		 					<p class ="text-center mx-auto"> Graphite, 18 x 24</p>
+	 					</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 projectE pb-4 threed">
+				<a href="Explorations/The Land of Tears.jpg" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="img-fluid" src="Explorations/The Land of Tears.jpg" alt="" width="100%">
+					<div class='text-hover-inverse'>
+						<h2 class ="text-center"> The Land of Tears </h2>
+			 				<p class ="text-center mx-auto"> Assemblage, 9.6 x 6.7 x 6.7 </p>
+		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-6 projectE pb-4 twod">
+				<a class="     " href="Explorations/SummerTimeBlues.jpg" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="img-fluid" src="Explorations/SummerTimeBlues.jpg" alt="" width="100%">	
+		 				<div class='text-hover-inverse'>
+		 					<h2 class ="text-center"> Summer Time Blues </h2>
+		 					<p class ="text-center mx-auto"> Acrylic, 16 x 19</p>
+	 					</div>
+	 				</div>
+				</a>
+			</div>
+
+		
 			<div class="col-lg-3 projectE pb-4 twod">
 				<a data-options='{"src": "#edgeModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
@@ -90,7 +211,7 @@
 
 			<!-- !--> 
 
-			<div class="col-lg-6 projectE pb-4 time">
+			<!--<div class="col-lg-6 projectE pb-4 time">
 				<a data-options='{"src": "#animationModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -103,35 +224,7 @@
 		 				</div>
 	 				</div>
 				</a>
-			</div>
-
-
-			<div class="col-lg-3 projectE pb-4 threed">
-				<a href="Explorations/The Land of Tears.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/The Land of Tears.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> The Land of Tears </h2>
-			 				<p class ="text-center mx-auto"> Assemblage, 9.6 x 6.7 x 6.7 </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-		
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a href="Explorations/Dolphin.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/Dolphin.jpg" alt="" width="100%">
-					<div class='text-hover-inverse'>
-						<h2 class ="text-center"> Reaching for the Moon </h2>
-			 				<p class ="text-center mx-auto"> Illustration, 22 x 29 </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
+			</div>!-->
 
 
 			<div class="col-lg-3 projectE pb-4 threed"> <!-- Pentapod !-->
@@ -149,7 +242,20 @@
 				</a>
 			</div>
 
-			<div class="col-lg-3 projectE pb-4 threed">
+			<div class="col-lg-3 projectE pb-4 twod">
+				<a href="Explorations/flower.jpg" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="img-fluid" src="Explorations/flower.jpg" alt="" width="100%">	
+		 				<div class='text-hover-inverse'>
+		 					<h2 class ="text-center"> Flower Study </h2>
+		 					<p class ="text-center mx-auto"> Graphite, 18 x 24</p>
+	 					</div>
+	 				</div>
+				</a>
+			</div>
+
+			<!--<div class="col-lg-3 projectE pb-4 threed">
 				<a href="Explorations/box-1.jpg" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -162,7 +268,7 @@
 		 				</div>
 	 				</div>
 				</a>
-			</div>
+			</div>!-->
 
 			<div class="col-lg-6 projectE pb-4 time">
 				<a data-options='{"src": "#videoModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -181,7 +287,7 @@
 
 			<!-- X !-->
 
-			<div class="col-lg-3 projectE pb-4 threed">
+			<!--<div class="col-lg-3 projectE pb-4 threed">
 				<a href="Explorations/table.jpeg" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -194,7 +300,7 @@
 		 				</div>
 	 				</div>
 				</a>
-			</div>
+			</div>!-->
 
 			<div class="col-lg-3 projectE pb-4 threed">
 				<a data-options='{"src": "#EclipseModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -218,7 +324,7 @@
 
 			<!-- X !-->
 
-			<div class="col-lg-3 projectE pb-4 threed">
+			<!--<div class="col-lg-3 projectE pb-4 threed">
 				<a href="Explorations/_DSC0931-Edit.jpg" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -231,7 +337,7 @@
 		 				</div>
 	 				</div>
 				</a>
-			</div>
+			</div>!-->
 
 			<div class="col-lg-3 projectE pb-4 time">
 				<a data-options='{"src": "#AnaModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -248,65 +354,14 @@
 				</a>
 			</div>
 
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a href="Explorations/hands" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/hands.jpg" alt="" width="100%">	
-		 				<div class='text-hover-inverse'>
-		 					<h2 class ="text-center"> Hands Study </h2>
-		 					<p class ="text-center mx-auto"> Graphite, 18 x 24</p>
-	 					</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-3 projectE pb-4 time">
-				<a href="Explorations/Eid_Mubarak_Final.png" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-						<img class="img-fluid" src="Explorations/Eid_Mubarak_Final.png" alt="" width="100%">
-						<div class='text-hover-inverse'>
-							<h2 class ="text-center"> Eid Mubarak </h2>
-			 				<p class ="text-center mx-auto"> Animation, 22 x 29  </p>
-		 				</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-6 projectE pb-4 twod">
-				<a class="     " href="Explorations/SummerTimeBlues.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/SummerTimeBlues.jpg" alt="" width="100%">	
-		 				<div class='text-hover-inverse'>
-		 					<h2 class ="text-center"> Summer Time Blues </h2>
-		 					<p class ="text-center mx-auto"> Acrylic, 16 x 19</p>
-	 					</div>
-	 				</div>
-				</a>
-			</div>
 			<!-- X !-->
 
 
 			<div class="col-lg-3 projectE pb-4 twod">
-				<a href="Explorations/flower.jpg" data-fancybox="filter">
+				<a class="     " href="Explorations/Full_Moon.png" data-fancybox="filter">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
-		 				<img class="img-fluid" src="Explorations/flower.jpg" alt="" width="100%">	
-		 				<div class='text-hover-inverse'>
-		 					<h2 class ="text-center"> Flower Study </h2>
-		 					<p class ="text-center mx-auto"> Graphite, 18 x 24</p>
-	 					</div>
-	 				</div>
-				</a>
-			</div>
-
-			<div class="col-lg-3 projectE pb-4 twod">
-				<a class="     " href="Explorations/Full_Moon.jpg" data-fancybox="filter">
-					<div class="show_overlay">
-		 				<div class="overlayE"></div>
-		 				<img class="mx-auto d-block" src="Explorations/Full_Moon.jpg" alt="" width="100%">
+		 				<img class="mx-auto d-block" src="Explorations/Full_Moon.png" alt="" width="100%">
 					<div class='text-hover-inverse'>
 						<h2 class ="text-center"> Moon Study </h2>
 			 				<p class ="text-center mx-auto"> Illustration, 22 x 29 </p>
@@ -316,7 +371,7 @@
 			</div>
 
 
-			<div class="col-lg-3 projectE pb-4 twod">
+			<!-- <div class="col-lg-3 projectE pb-4 twod">
 				<a data-options='{"src": "#comicModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
 					<div class="show_overlay">
 		 				<div class="overlayE"></div>
@@ -329,7 +384,7 @@
 	 					</div>
 	 				</div>
 				</a>
-			</div>
+			</div> !-->
 
 			<div class="col-lg-3 projectE pb-4 twod"> 
 				<a data-options='{"src": "#isoModal", "touch": true, "smallBtn" : false}' href="javascript:;" class="gallery" data-fancybox="images">
@@ -342,6 +397,19 @@
 							<h2 class ="text-center"> Isometric Color Study </h2>
 			 				<p class ="text-center mx-auto"> Gouache, 9 x 11</p>
 		 				</div>
+	 				</div>
+				</a>
+			</div>
+
+			<div class="col-lg-6 projectE pb-4 twod">
+				<a class="     " href="Explorations/Trail_Of_broken_Hearts.png" data-fancybox="filter">
+					<div class="show_overlay">
+		 				<div class="overlayE"></div>
+		 				<img class="img-fluid" src="Explorations/Trail_Of_broken_Hearts.png" alt="" width="100%">	
+		 				<div class='text-hover-inverse'>
+		 					<h2 class ="text-center"> Trail of Broken Hearts</h2>
+		 					<p class ="text-center mx-auto"> Illustration </p>
+	 					</div>
 	 				</div>
 				</a>
 			</div>
@@ -706,13 +774,14 @@ $('#filter').on('change', function() {
 		$(this).toggleClass("active");
 		$('div.projectE').hide();
 		$('div.threed').show();
+		$('div.time').show();
 	});
 
-	$(".4d").click(function() { //4d
+	/*$(".4d").click(function() { //4d
 		$(this).toggleClass("active");
 		$('div.projectE').hide();
 		$('div.time').show();
-	});
+	});*/
 
 </script>
 
